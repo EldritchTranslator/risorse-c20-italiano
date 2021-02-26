@@ -1,0 +1,17 @@
+# Autunno
+L'Arte dell'Autunno è una tra le più antiche tra quelle ancora praticate dai Kithain. Ritenuta da alcuni la più terribile tra le quattro Arti stagionali, questa è la magia dell'autunno, di Samhain, del cambio dalla luce al buio. Non possiede l'energia creativa o la passione delle Arti della Primavera e dell'Estate, ne' la solenne dignità dell'Inverno. Invece, è un'arte di ombre e deterioramento, di avvizzimento, di morte non ancora accettata e di un destino crudele ancora in adempimento.  
+
+L'Arte dell'Autunno per molti Kithain è una magia nera delle più oscure. Anche se a molti piacerebbe credere che questo genere di Glamour venga usato solo dalle Fate Unseelie dal cuore più nero, la verità è che l'Arte dell'Autunno ha una lunga storia tra gli sluagh di entrambe le Corti, così come certi satiri grump e boggan Unseelie.  
+
+# Scatenare l'Autunno  
+Scatenare il deterioramento dell'Autunno è un atto di vera disperazione o crudeltà selvaggia, ed è utile per causare la decomposizione finale di un sistema o per indebolire nemici. Viene spesso invocato con gli ordini disperati di "deteriora", rivolto ad un ostacolo, "avvizzisci", ululato a un gruppo di nemici, o "cadi in rovina", mormorato contro un'impresa o un sistema. Il modo esatto in cui il deterioramento dell'Autunno si presenta è raramente predicibile, e gli Eshu narrano molte storie di un profondo dolore portato al mondo da uno Scatenamento che va assai oltre i desideri iniziali della fata.  
+
+# I bunk  
+I bunk d'Autunno tendono a coinvolgere i simboli dell'autunno, di funerali, raccolti, e di Halloween. Alcuni esempi includono: pestare una foglia secca, indossare una maschera paurosa, travestirsi da qualcosa che non si è, spegnere una lanterna o una candela, accendere e spegnere velocemente l'interruttore della luce, fare un gemito inquietante, disegnare e costruire un costume speciale, velarsi il viso, stare in veglia fino al tramontare del sole, cogliere un frutto maturo, versare del sidro per terra, bruciare il proprio portafoglio con tutti i contenuti, o perdersi un un posto sconosciuto.  
+
+# ⦿ Creeping Shadows  
+Il changeling comanda le ombre vicine a sottoporsi al suo volere. Una satira evoca l'ombra di un amato non corrisposto per danzare con lei. Un sluagh corrompe le ombre notturne di un suo bullo in un teatro di pericoli. Questa Arte può essere adoperata sottilmente, disturbando o manipolando lievemente per dare un lato sinistro alla scena, o può essere usata per prendere controllo delle ombre facendole diventare enormi presenze incombenti, completamente separate dalle azioni di chi le getta, o persino inghiottire la changeling (o qualcun altro) per nasconderla.  
+**Sistema**: Il Reame scelto determina chi o cosa getta l'ombra manipolata da questo cantrip. Usi sottili di questo potere abbassano la difficoltà di tutti i tiri di Intimidazione del lanciatore di uno per ogni successo. Usi ovvi semplicemente possono annunciare il potere del changeling come stregone ad altri Kithain e terrorizzare mortali (almeno finché le Nebbie non oscurano le mostruose ombre che hanno osservato balzare in giro selvaggiamente). Usandola per inghiottire il bersaglio nella propria ombra quest'Arte permette a un individuo di abbassare la difficoltà di tiri Furtività di uno per ogni successo, mentre un oggetto oscurato ha la difficoltà per trovarlo aumentata di uno per successo (fino a un massimo di 9).  
+
+**Tipo**: Chimerico o Wyrd, dipende da quanto ovvio l'uso.  
+
