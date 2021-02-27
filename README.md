@@ -1,2 +1,44 @@
 # risorse c20 italiano
- Risorse tradotte in italiano dal libro Changeling 20mo Anniversario dall'inglese.
+ Risorse tradotte in italiano dal libro Changeling 20mo Anniversario dall'inglese.  
+## piani
+- [x] Tradurre il glossario a inizio libro
+- [ ] Tradurre Arti e Reami
+    - [x] Autunno
+    - [ ] Chicanery
+    - [ ] Chronos
+    - [ ] Contract
+    - [ ] Dragon's Ire
+    - [ ] Legerdemain
+    - [ ] Metamorphosis
+    - [ ] Naming
+    - [ ] Oneiromancy
+    - [ ] Primal
+    - [ ] Pyretics
+    - [ ] Skycraft
+    - [ ] Soothsay
+    - [ ] Sovereign
+    - [ ] Spring
+    - [ ] Summer
+    - [ ] Wayfare
+    - [ ] Winter
+    - [ ] Actor
+    - [ ] Fae
+    - [ ] Nature
+    - [ ] Prop
+    - [ ] Scene
+    - [ ] Time
+- [ ] Tradurre sezione su Nigthmare
+- [ ] Tradurre Kiths 
+    - [ ] Boggan
+    - [ ] Chlurichaun
+    - [ ] Eshu
+    - [ ] Nocker
+    - [ ] Piskie
+    - [ ] Pooka
+    - [ ] Redcap
+    - [ ] Satyr
+    - [ ] Selkie
+    - [ ] Sidhe (Arcadia)
+    - [ ] Sidhe (Autunno)
+    - [ ] Sluagh
+    - [ ] Troll
