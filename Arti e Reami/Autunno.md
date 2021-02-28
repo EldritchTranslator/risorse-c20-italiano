@@ -9,14 +9,14 @@ Scatenare il deterioramento dell'Autunno è un atto di vera disperazione o crude
 ### I bunk  
 I bunk d'Autunno tendono a coinvolgere i simboli dell'autunno, di funerali, raccolti, e di Halloween. Alcuni esempi includono: pestare una foglia secca, indossare una maschera paurosa, travestirsi da qualcosa che non si è, spegnere una lanterna o una candela, accendere e spegnere velocemente l'interruttore della luce, fare un gemito inquietante, disegnare e costruire un costume speciale, velarsi il viso, stare in veglia fino al tramontare del sole, cogliere un frutto maturo, versare del sidro per terra, bruciare il proprio portafoglio con tutti i contenuti, o perdersi un un posto sconosciuto.  
 
-## ⦿ Creeping Shadows  
+## ⦿ Ombre striscianti  
 Il changeling comanda le ombre vicine a sottoporsi al suo volere. Una satira evoca l'ombra di un amato non corrisposto per danzare con lei. Un sluagh corrompe le ombre notturne di un suo bullo in un teatro di pericoli. Questa Arte può essere adoperata sottilmente, disturbando o manipolando lievemente per dare un lato sinistro alla scena, o può essere usata per prendere controllo delle ombre facendole diventare enormi presenze incombenti, completamente separate dalle azioni di chi le getta, o persino inghiottire la changeling (o qualcun altro) per nasconderla.  
 
 **Sistema**: Il Reame scelto determina chi o cosa getta l'ombra manipolata da questo cantrip. Usi sottili di questo potere abbassano la difficoltà di tutti i tiri di Intimidazione del lanciatore di uno per ogni successo. Usi ovvi semplicemente possono annunciare il potere del changeling come stregone ad altri Kithain e terrorizzare mortali (almeno finché le Nebbie non oscurano le mostruose ombre che hanno osservato balzare in giro selvaggiamente). Usandola per inghiottire il bersaglio nella propria ombra quest'Arte permette a un individuo di abbassare la difficoltà di tiri Furtività di uno per ogni successo, mentre un oggetto oscurato ha la difficoltà per trovarlo aumentata di uno per successo (fino a un massimo di 9).  
 
 **Tipo**: Chimerico o Wyrd, dipende da quanto ovvio l'uso.  
 
-##  ⦿⦿ Autumn Eyes  
+##  ⦿⦿ Occhi dell'Autunno  
 
 Il duca si piega in avanti, scrutando il vagabondo di fronte a lui, gli occhi brillanti con la luce arancione di Samhain. Notando la terribile maledizione che incalza il visitatore, gli nega l'ospitalità e manda via l'eshu, scatenando un fruscio di sussurri.  
 
@@ -28,7 +28,7 @@ Gli occhi del changeling prendono sempre qualche caratteristica sovrannaturale; 
 
 **Tipo**: Chimerico  
 
-## ⦿⦿⦿ The Poisoned Apple  
+## ⦿⦿⦿ La mela avvelenata  
 
 Una giovane redcap porta un vassoio di biscotti della madre in classe, abbastanza che ciascuno dei compagni possa averne uno. Si assicura di passare al bambino che le lancia addosso sassi dopo scuola un biscotto molto speciale: uno infuso di tutta la sua paura e rabbia.  
 
@@ -38,9 +38,9 @@ Questa cantrip terribile ha dato motivo a generazioni di mortali motivo di temer
 
 **Tipo**: Wyrd  
 
-## ⦿⦿⦿⦿ The Withering  
+## ⦿⦿⦿⦿ L'avvizzimento  
 
-Un sicario inchioda un satiro contro la porta di casa sua e tira fuori una chiave inglese dalla tasca. [Ma il satiro stringe il pugno di fronte a lui e fissa lo sguardo libidinoso sul sicario da dietro la mano,] e così facendo, gli ruba cinquant'anni. Il sicario ora è un vecchio, debole, traballante, pieno di macchie, e leggero abbastanza per permettere al satiro di spingerlo oltre la ringhiera del palazzo con una mano. La maledizione passa mentre il delinquente cade, ma a quel punto è già tutto nelle mani della gravità.  
+Un sicario inchioda un satiro contro la porta di casa sua e tira fuori una chiave inglese dalla tasca. Ma il satiro gli afferra il pugno guardandolo lascivamente, e così facendo, gli ruba cinquant'anni. Il sicario ora è un vecchio, debole, traballante, pieno di macchie, e leggero abbastanza per permettere al satiro di spingerlo oltre la ringhiera del palazzo con una mano. La maledizione passa mentre il delinquente cade, ma a quel punto è già tutto nelle mani della gravità.  
 
 Con un gesto crudele la changeling ruba la vitalità della vittima, lasciando solo l'aspetto di anzianità e deperimento.  
 
@@ -59,13 +59,13 @@ Lanciare il cantrip più volte non ha effetto, a meno che non si ottengano più 
 
 **Tipo**: Wyrd  
 
-## ⦿⦿⦿⦿⦿ Shivers  
+## ⦿⦿⦿⦿⦿ Brividi  
 
 Uno sluagh dalla rabbia silenziosa si infila nella sala relax degli impiegati di una casa di riposo. Ecco - quella è la giacca dell'infermiere che è troppo duro con la sua nonna. Infila una manciata di foglie sbriciolate nella tasca, e attraverso questo luogo di vecchiaia e disperazione, le ombre dei morti prestano attenzione. Il proprietario della giacca non avrà pace per il prossimo futuro.  
 
 La changeling tira fuori i suoi sogni di morte e oscurità e li affida a un bersaglio. Chi o cosa viene maledetto così diventa un bersaglio per fantasmi, e soffre delle attenzioni dei morti senza riposo per qualche tempo.  
 
-**Sistema**: Il Reame usato determina chi o cosa è perseguitato. L'effetto esatto di questa persecuzione può cambiare a seconda di che luogo, oggetto, o persona viene scelto, se i fantasmi hanno già un interesse nel soggetto, e così via. A un estremo, possono accadere calamità non meccaniche come muri che trasudano sangue durante un'importante riunione di lavoro. Come regola generale, l'attnezione dei morti senza riposo possono causare effetti come penalità di -1 ad azioni che richiedono grande concentrazione, o ad azioni che usano un oggetto infestato, o precludere il recupero di Volontà quando si dorme, a causa degli incubi infestati dai fantasmi.  
+**Sistema**: Il Reame usato determina chi o cosa è perseguitato. L'effetto esatto di questa persecuzione può cambiare a seconda di che luogo, oggetto, o persona viene scelto, se i fantasmi hanno già un interesse nel soggetto, e così via. A un estremo, possono accadere calamità non meccaniche come muri che trasudano sangue durante un'importante riunione di lavoro. Come regola generale, l'attenzione dei morti senza riposo possono causare effetti come penalità di -1 ad azioni che richiedono grande concentrazione, o ad azioni che usano un oggetto infestato, o precludere il recupero di Volontà quando si dorme, a causa degli incubi infestati dai fantasmi.  
 
 La persecuzione dura per un numero di giorni pari ai successi ottenuti moltiplicati al punteggio di Glamour permanente del changeling.  
 
