@@ -4,7 +4,7 @@
 - [x] Tradurre il glossario a inizio libro
 - [ ] Tradurre Arti e Reami
     - [x] Autunno
-    - [ ] Chicanery
+    - [x] Chicanery
     - [ ] Chronos
     - [ ] Contract
     - [ ] Dragon's Ire
