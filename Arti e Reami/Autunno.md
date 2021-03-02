@@ -7,7 +7,7 @@ L'Arte dell'Autunno per molti Kithain è una magia nera delle più oscure. Anche
 Scatenare il deterioramento dell'Autunno è un atto di vera disperazione o crudeltà selvaggia, ed è utile per causare la decomposizione finale di un sistema o per indebolire nemici. Viene spesso invocato con gli ordini disperati di "deteriora", rivolto ad un ostacolo, "avvizzisci", ululato a un gruppo di nemici, o "cadi in rovina", mormorato contro un'impresa o un sistema. Il modo esatto in cui il deterioramento dell'Autunno si presenta è raramente predicibile, e gli Eshu narrano molte storie di un profondo dolore portato al mondo da uno Scatenamento che va assai oltre i desideri iniziali della fata.  
 
 ### I bunk  
-I bunk d'Autunno tendono a coinvolgere i simboli dell'autunno, di funerali, raccolti, e di Halloween. Alcuni esempi includono: pestare una foglia secca, indossare una maschera paurosa, travestirsi da qualcosa che non si è, spegnere una lanterna o una candela, accendere e spegnere velocemente l'interruttore della luce, fare un gemito inquietante, disegnare e costruire un costume speciale, velarsi il viso, stare in veglia fino al tramontare del sole, cogliere un frutto maturo, versare del sidro per terra, bruciare il proprio portafoglio con tutti i contenuti, o perdersi un un posto sconosciuto.  
+I bunk d'Autunno tendono a coinvolgere i simboli dell'autunno, di funerali, dei raccolti, e di Halloween. Alcuni esempi includono: pestare una foglia secca, indossare una maschera paurosa, travestirsi da qualcosa che non si è, spegnere una lanterna o una candela, accendere e spegnere velocemente l'interruttore della luce, fare un gemito inquietante, disegnare e costruire un costume speciale, velarsi il viso, stare in veglia fino al tramontare del sole, cogliere un frutto maturo, versare del sidro per terra, bruciare il proprio portafoglio con tutti i contenuti, o perdersi un un posto sconosciuto.  
 
 ## ⦿ Ombre striscianti  
 Il changeling comanda le ombre vicine a sottoporsi al suo volere. Una satira evoca l'ombra di un amato non corrisposto per danzare con lei. Un sluagh corrompe le ombre notturne di un suo bullo in un teatro di pericoli. Questa Arte può essere adoperata sottilmente, disturbando o manipolando lievemente per dare un lato sinistro alla scena, o può essere usata per prendere controllo delle ombre facendole diventare enormi presenze incombenti, completamente separate dalle azioni di chi le getta, o persino inghiottire la changeling (o qualcun altro) per nasconderla.  
@@ -38,7 +38,7 @@ Questa cantrip terribile ha dato motivo a generazioni di mortali motivo di temer
 
 **Tipo**: Wyrd  
 
-## ⦿⦿⦿⦿ L'avvizzimento  
+## ⦿⦿⦿⦿ Avvizzimento  
 
 Un sicario inchioda un satiro contro la porta di casa sua e tira fuori una chiave inglese dalla tasca. Ma il satiro gli afferra il pugno guardandolo lascivamente, e così facendo, gli ruba cinquant'anni. Il sicario ora è un vecchio, debole, traballante, pieno di macchie, e leggero abbastanza per permettere al satiro di spingerlo oltre la ringhiera del palazzo con una mano. La maledizione passa mentre il delinquente cade, ma a quel punto è già tutto nelle mani della gravità.  
 
@@ -46,14 +46,14 @@ Con un gesto crudele la changeling ruba la vitalità della vittima, lasciando so
 
 **Sistema**: Il Reame determina chi o che cosa viene avvizzito. Usata su un oggetto normale, gli effetti di quest'Arte sono permanenti. Altrimenti i successi devono essere divisi tra durata e l'intensità dell'effetto di decadimento dell'Arte. Ogni successo invecchia l'obiettivo di dieci anni, o può essere assegnato alla durata secondo la tabella qui sotto. Per ogni due successi dedicati ad invecchiare un soggetto vivente, questo soffre una penalità di -1 su tutte le riserve di dadi che riguardano l'aspetto fisico. [Toglie un dado]  
 
-| Successi |     Durata      | 
-|----------|:-------------:|
-| 0 successi |  L'invecchiamento dura un numero di turni pari al Glamour di chi lo lancia.| 
-| 1 successo |    L'invecchiamento dura una scena.   | 
-| 2 successi| L'invecchiamento dura un giorno. |
-| 3 successi| L'invecchiamento dura un numero di giorni pari al Glamour di chi lo lancia. |
-| 4 successi| L'invecchiamento dura un numero di giorni pari al doppio del Glamour di chi lo lancia. |
-| 5 successi| L'invecchiamento dura un numero di giorni pari al triplo del Glamour di chi lo lancia. |  
+|  Successi  |                                         Durata                                         |
+|:----------:|:--------------------------------------------------------------------------------------:|
+| 0 successi |       L'invecchiamento dura un numero di turni pari al Glamour di chi lo lancia.       |
+| 1 successo |                            L'invecchiamento dura una scena.                            |
+| 2 successi |                            L'invecchiamento dura un giorno.                            |
+| 3 successi |      L'invecchiamento dura un numero di giorni pari al Glamour di chi lo lancia.       |
+| 4 successi | L'invecchiamento dura un numero di giorni pari al doppio del Glamour di chi lo lancia. |
+| 5 successi | L'invecchiamento dura un numero di giorni pari al triplo del Glamour di chi lo lancia. | 
 
 Lanciare il cantrip più volte non ha effetto, a meno che non si ottengano più successi di quelli che stanno già affliggendo il soggetto. Non importa quanto lo si invecchi, non si può uccidere di vecchiaia.  
 

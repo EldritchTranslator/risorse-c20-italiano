@@ -20,7 +20,7 @@ Illusione ottica è considerata chimerica anche quando usata su soggetti mondani
 
 **Tipo**: Chimerico  
 
-## ⦿⦿ Occhi velati  
+# ⦿⦿ Occhi velati  
 
 Se Illusione ottica fa scambiare un soggetto per un altro, Occhi velati sfrutta le Nebbie per farlo diventare istantaneamente dimenticabile. Una Kithain che indossa abiti da corte può passeggiare in una folla di mortali senza essere notata, l'ornato spadone di un troll pende al suo fianco, ignorata anche mentre entra in una banca, e i nemici della changeling non notano le nubi temporalesche che viaggiano in cielo verso la loro casa. Il bersaglio non diventa effettivamente invisibile, ma viene solo trascurato. I changeling possono usare Occhi velati in modo dannoso, velando macchine in corsa e nemici incombenti fino a quando non è troppo tardi.  
 
@@ -56,7 +56,7 @@ Ogni volta che il personaggio cerca di manipolare o comandare il soggetto, il gi
 
 **Tipo**: Chimerico  
 
-## ⦿⦿⦿⦿ Mente velata  
+# ⦿⦿⦿⦿ Mente velata  
 
 Leggende e miti dipingono scene fantastiche - e ben meritate - di fate che rubano le memorie dei mortali. Andando oltre mera vista o udito, la changeling avvolge il bersaglio del cantrip di Glamour e delle Nebbie che lo accompagnano per cancellarlo temporaneamente dalla memoria. L'amante che ha disdegnato un Kithain potrebbe trovare la sua famiglia che la osserva confusa quando torna a casa per una vacanza, o l'avversario del changeling potrebbe dimenticarsi di sfoderare la spada durante il loro duello.  
 
@@ -74,7 +74,7 @@ I changeling possono sciogliere liberamente gli effetti di Mente velata in qualu
 
 **Tipo**: Chimerico o Wyrd
 
-## ⦿⦿⦿⦿⦿ Perso nelle Nebbie
+# ⦿⦿⦿⦿⦿ Perso nelle Nebbie
 
 Che c'è di peggio di non essere in grado di poter credere ai propri sensi, essere invisibile, o essere dimenticato? I maestri di Imbroglio adoperano la manipolazione estrema delle Nebbie per togliere a un soggetto la sua identità. Il bersaglio del cantrip non solo si dimentica chi sia, ma il changeling può anche adoperare la sua conoscenza in altri Reami per fargli credere di essere qualcosa di completamente diverso. Il rivale della nocker incomincia a comportarsi come un cane mentre presenta una nuova invenzione. Il vampiro che terrorizza una motley locale si sveglia senza la memoria del suo status di nonmorto e va nel panico quando esce al sole e le si brucia la pelle. Un clurichaun fa credere a un mortale di essere una nuvola di pioggia per creare arte performativa istantanea.  
 

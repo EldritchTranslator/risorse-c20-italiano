@@ -9,7 +9,7 @@ Traduzione del paragrafo *Lexicon* alla fine del capitolo introduttivo di C20, p
 - Banalità, la - Forza entropica in contrasto al Glamour. Anche se è utile per rimanere ancorati alla realtà, alti livelli di Banalità sono pericolosi per i Changeling.
 - Bedlam, il - La forma di follia che causa separazione dalla realtà mondana, causata da un contatto troppo intenso con il Dreaming.
 - Borghese - Un Changeling senza titolo nobiliare.
-- Bunk, il - Azione atta ad attivare o facilitare il lancio di un cantrip.
+- Assurdità, la (Bunk) - Azione atta ad attivare o facilitare il lancio di un cantrip.
 - Cantrip, il - Incantesimo creato con il Glamour tramite la combinazione di un'Arte e di un Reame.
 - Casati, i - Le famiglie a cui appartengono la grande maggioranza dei nobili.
 - Changeling - Anima di Fata messa in un corpo mortale per sopravvivere al mondo normale.
