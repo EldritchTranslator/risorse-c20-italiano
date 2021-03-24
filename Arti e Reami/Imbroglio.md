@@ -24,7 +24,7 @@ Illusione ottica è considerata chimerica anche quando usata su soggetti mondani
 
 Se Illusione ottica fa scambiare un soggetto per un altro, Occhi velati sfrutta le Nebbie per farlo diventare istantaneamente dimenticabile. Una Kithain che indossa abiti da corte può passeggiare in una folla di mortali senza essere notata, l'ornato spadone di un troll pende al suo fianco, ignorata anche mentre entra in una banca, e i nemici della changeling non notano le nubi temporalesche che viaggiano in cielo verso la loro casa. Il bersaglio non diventa effettivamente invisibile, ma viene solo trascurato. I changeling possono usare Occhi velati in modo dannoso, velando macchine in corsa e nemici incombenti fino a quando non è troppo tardi.  
 
-**Sistema**: Il Rame determina ciò che verrà ignorato, ma si possono usare Reami in più per creare eccezioni all'effetto. Per esempio usando Fata e Natura può permettere di nascondersi con Occhi velati, ma permettere ad animali di percepirla comunque. Il numero di successi determina la durata:  
+**Sistema**: Il Reame determina ciò che verrà ignorato, ma si possono usare Reami in più per creare eccezioni all'effetto. Per esempio usando Fata e Natura può permettere di nascondersi con Occhi velati, ma permettere ad animali di percepirla comunque. Il numero di successi determina la durata:  
 
 | Successi   | Durata    |
 |:-----------|:----------|

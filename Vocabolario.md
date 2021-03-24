@@ -8,7 +8,6 @@ Traduzione del paragrafo *Lexicon* alla fine del capitolo introduttivo di C20, p
 - Balefire, il - Il posto in un Freehold dove si concentra e accumula il Glamour.
 - Banalità, la - Forza entropica in contrasto al Glamour. Anche se è utile per rimanere ancorati alla realtà, alti livelli di Banalità sono pericolosi per i Changeling.
 - Bedlam, il - La forma di follia che causa separazione dalla realtà mondana, causata da un contatto troppo intenso con il Dreaming.
-- Borghese - Un Changeling senza titolo nobiliare.
 - Assurdità, la (Bunk) - Azione atta ad attivare o facilitare il lancio di un cantrip.
 - Cantrip, il - Incantesimo creato con il Glamour tramite la combinazione di un'Arte e di un Reame.
 - Casati, i - Le famiglie a cui appartengono la grande maggioranza dei nobili.
@@ -46,6 +45,7 @@ Traduzione del paragrafo *Lexicon* alla fine del capitolo introduttivo di C20, p
 - Motley, la - Un gruppo di Changeling, di solito borghesi.
 - Nebbie, le - L'effetto che vela la mente dei mortali che assistono al Dreaming e alle magie associate, facendo sì che razionalizzino l'accaduto e lo dimentichino.
 - Nobile - Un Changeling con titolo nobiliare, usualmente Sidhe.
+- Popolano - Un Changeling senza titolo nobiliare.
 - Prodigo, il - Un sovrannaturale non fata, come un vampiro o un licantropo. I Changeling credono che i Prodighi siano dei figli perduti del Dreaming, separati da così tanto tempo che si sono dimenticati la loro vera origine.
 - Pulcino - Un Changeling appena uscito dalla sua Crisalide.
 - Reame, il - Aspetto del mondo che il Glamour può cambiare come obiettivo di un cantrip.
@@ -55,3 +55,10 @@ Traduzione del paragrafo *Lexicon* alla fine del capitolo introduttivo di C20, p
 - Tuatha de Danaan, i - I misteriosi progenitori delle Fate.
 - Voile, la - Vestiti ed effetti personali fatti di chimera; la maggior parte dei Changeling formano la propria voile durante la Crisalide.
 - Wilder, il - Un aspetto caratterizzato da un desiderio di esplorare e infrangere barriere.
+
+---
+
+Dice pool - Riserva di Dadi
+Botch roll - Fallimento drammatico / più 1 che successi
+Dàn, il - Le forze del destino
+Tempre - Temper traits
