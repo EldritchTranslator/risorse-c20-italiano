@@ -63,6 +63,7 @@ Botch roll - Fallimento drammatico / più 1 che successi
 Dàn, il - Le forze del destino  
 Tempre - Temper traits  
 Imbalance - Squilibrio  
+Trigger - Innesco
 ---
 SCHEDA
 Name  

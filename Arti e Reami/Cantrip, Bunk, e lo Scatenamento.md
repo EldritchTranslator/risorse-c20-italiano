@@ -34,7 +34,7 @@ Cantrip chimerici non richiedono spesa di Glamour. Cantrip Wyrd richiedono la sp
 
 I giocatori lanciano un numero di dadi pari al livello dell'Arte usata più il livello totale del Reame primario usato (Fata, Attore, Natura, Oggetto), scegliendo quello più basso se ne viene usato più di uno. I Reami modificatori (Scena e Tempo) cambiano l'effetto del cantrip ma non cambiano il numero di dadi della riserva. Tutti i cantrip iniziano con una difficoltà di 8, ma ci sono diversi fattori che cambiano questo valore. Inoltre si devono sostituire un numero di dadi nella Riserva uguale al punteggio di incubo del personaggio, senza andare oltre la riserva iniziale, con dei dadi distinti da quelli normali, chiamati dadi Incubo.  
 
-## Bunk
+# Bunk
 
 I changeling usano i bunk, azioni ed eventi che fanno ricordare al mondo normale il Dreaming, per diminuire la frizione causata dal concentrare il Glamour nel mondo mortale con i cantrip. Più il bunk è rischioso o elaborato meno sarà difficile per il changeling di invocare l'Arte con un cantrip. Si può praticamente fare di tutto come bunk, ma si scelgono comunemente azioni in cui ci si mette in pericolo o si rischia qualcosa, con cui si attira l'attenzione su di sè, si distrugge qualcosa, far sì che il lancio del cantrip accada al momento di un evento particolare, e/o ripetere qualcosa un certo numero di volte.  
 
@@ -58,4 +58,20 @@ Alcuni bunk non danno un beneficio al cantrip fino a quando la loro azione corre
 
 # Lo Scatenamento
 
-[To Add]
+I Changeling eseguono i bunk per focalizzare il Glamour attraverso le loro Arti in modi specifici e soprattutto deliberati, ma ogni Kithain possiede un altro metodo più pericoloso per fare magie. Imparare un'Arte apre una nuova porta nel Dreaming, e un changeling abbastanza disperato può aprire quella porta con un calcio.  
+
+Poiché il Glamour Scatenato raggiunge il Dreaming attraverso il kith del changeling, un'Arte scatenata riflette sempre la sua natura. Un redcap che Scatena Pellegrinaggio solleva violentemente il soggetto in aria, o lo fa sfrecciare per un mondo da incubo di sangue e dolore, emergendo poi a blocchi di distanza. Un eshu che Scatena Contratto, invece, circonda il soggetto del cantrip con i rumori e gli odori di un mercato affollato mentre la costringe ad accettare un favore in futuro dal changeling in cambio della consegna di un oggetto che vuole il personaggio.  
+
+Il giocatore sceglie un'Arte da Scatenare e dichiara l'obiettivo del suo personaggio con una dichiarazione breve e semplice ("ferisci quell'uomo", "salva il mio amico", "fa' ricrescere il bosco"). Spende due punti Glamour e ne aggiunge uno al punteggio di Incubo del suo personaggio. Il giocatore non è costretto dai Reami del personaggio. Il Glamour Scatenato può influenzare qualsiasi cosa, indipendentemente dalla conoscenza dei Reami di chi lo lancia.  
+
+Il giocatore lancia un numero di dadi pari al punteggio di Glamour del personaggio più un numero di dadi pari al suo punteggio di Incubo (difficoltà 7). Questa è un'eccezione alla solita regola sull'aggiunta di altri tratti alle Tempre. Se il tiro ha successo, il giocatore deve confrontare il numero di successi con il valore dell'Arte Scatenata (vedi sotto).
+
+## Scatenare i risultati
+
+Se il risultato è un botch, il Dreaming inonda il personaggio senza controllo, fino a quando la Banalità non risponde violentemente allo squarcio delle Nebbie. Il personaggio ottiene uno Squilibrio (senza però azzerare la sua riserva di dadi Incubo) e l'Arte Scatenata provoca il caos intorno a lei per un turno. All'inizio del turno successivo, la Banalità contrattacca e taglia il personaggio fuori dal Dreaming. Il personaggio subisce un innesco di Banalità [Banality trigger] e non può spendere Glamour o usare Arti per il resto della scena.  
+
+Se il tiro fallisce, il personaggio non riesce a Scatenare. Questo innesca Banalità e il personaggio non può usare l'Arte Scatenata per il resto della scena.  
+
+Se il tiro ha esito positivo, ma ottiene un numero di successi pari o inferiore al punteggio che il personaggio ha nell'Arte, il changeling invoca e controlla con successo il Dreaming. Il personaggio invoca automaticamente il Wyrd per un numero di turni pari al suo Glamour (il giocatore può spendere un punto di Volontà per farlo durare per il resto della scena), il suo mien fatato diventa visibile, e il giocatore narra l'effetto dell'Arte Scatenata.  
+
+Se il giocatore ottiene più successi del punteggio che ha nell'Arte, tuttavia, il personaggio perde il controllo. L'intento del personaggio viene soddisfatto, ma in un modo distorto, o che aggiunge involontariamente complicazioni, o mette a rischio tutti quelli che si trovano nelle vicinanze. Il personaggio ottiene un punto Incubo e lo Storyteller racconta l'effetto dello Scatenamento, incorporando una complicazione o un conflitto nel risultato. Il personaggio invoca automaticamente il Wyrd per il resto della scena.
