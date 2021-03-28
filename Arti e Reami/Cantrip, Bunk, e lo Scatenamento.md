@@ -66,7 +66,7 @@ Il giocatore sceglie un'Arte da Scatenare e dichiara l'obiettivo del suo persona
 
 Il giocatore lancia un numero di dadi pari al punteggio di Glamour del personaggio più un numero di dadi pari al suo punteggio di Incubo (difficoltà 7). Questa è un'eccezione alla solita regola sull'aggiunta di altri tratti alle Tempre. Se il tiro ha successo, il giocatore deve confrontare il numero di successi con il valore dell'Arte Scatenata (vedi sotto).
 
-## Scatenare i risultati
+## Risultati dello Scatenamento
 
 Se il risultato è un botch, il Dreaming inonda il personaggio senza controllo, fino a quando la Banalità non risponde violentemente allo squarcio delle Nebbie. Il personaggio ottiene uno Squilibrio (senza però azzerare la sua riserva di dadi Incubo) e l'Arte Scatenata provoca il caos intorno a lei per un turno. All'inizio del turno successivo, la Banalità contrattacca e taglia il personaggio fuori dal Dreaming. Il personaggio subisce un innesco di Banalità [Banality trigger] e non può spendere Glamour o usare Arti per il resto della scena.  
 
