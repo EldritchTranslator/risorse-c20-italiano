@@ -17,7 +17,7 @@ Traduzione del paragrafo *Lexicon* alla fine del capitolo introduttivo di C20, p
 - Crisalide, la - Il momento in cui l'anima di una fata si risveglia, trasformando un mortale in un Changeling.
 - Corti, le - I due corpi governativi e politici più importanti dei Kithain, chiamate Seelie e Unseelie.
 - Dauntain, i - I Changeling con l'anima fatata ferita o danneggiata. Portatori di Marchi antichi che distorcono la loro natura. Corruttori, tormentatori, e distruttori di Glamour e del Dreaming.
-- Disfarsi, il - Il processo tramite il quale si assume troppa Banalità e ci si dimentica della propria natura fatata.
+- Disfarsi, il [Undoing] - Il processo tramite il quale si assume troppa Banalità e ci si dimentica della propria natura fatata.
 - Divisione, la - Quando i mortali per la prima volta cominciarono a rinunciare ai propri sogni.
 - Dreaming, il - Il mondo creato dall'immaginazione e dai sogni della razza umana. I Changeling ci viaggiano per avventura e per la materia di sogni che può essere usata per creare chimere.
 - Dreaming Lontano, il - Il Dreaming di mezzo tra Profondo e Vicino.
@@ -58,7 +58,135 @@ Traduzione del paragrafo *Lexicon* alla fine del capitolo introduttivo di C20, p
 
 ---
 
-Dice pool - Riserva di Dadi
-Botch roll - Fallimento drammatico / più 1 che successi
-Dàn, il - Le forze del destino
-Tempre - Temper traits
+Dice pool - Riserva di Dadi  
+Botch roll - Fallimento drammatico / più 1 che successi  
+Dàn, il - Le forze del destino  
+Tempre - Temper traits  
+Imbalance - Squilibrio  
+---
+SCHEDA
+Name  
+Player  
+Chronicle  
+Court  
+    Seelie  
+    Unseelie  
+Legacies - Retaggi  
+    Bumpkin  
+    Courtier  
+    Crafter  
+    Dandy  
+    Hermit  
+    Orchid  
+    Paladin  
+    Panderer  
+    Regent  
+    Sage  
+    Saint  
+    Squire  
+    Troubadour  
+    Wayfarer  
+    Beast  
+    Fatalist  
+    Fool  
+    Grotesque  
+    Knave  
+    Outlaw  
+    Pandora  
+    Peacock  
+    Rake  
+    Riddler  
+    Ringleader  
+    Rogue  
+    Savage  
+    Wretch  
+House  
+    Beaumayn  
+    Dougal  
+    Eiluned  
+    Fiona  
+    Gwydion  
+    Liam  
+    Scathach  
+    Aesin  
+    Ailil  
+    Balor  
+    Danaan  
+    Daireann  
+    Leanhaun  
+    Varich  
+    Unaffiliated  
+Seeming  
+    Childling  
+    Wilder  
+    Grump  
+Kith  
+    Boggan  
+    Clurichaun  
+    Eshu  
+    Nocker  
+    Piskey  
+    Pooka  
+    Redcap  
+    Satyr  
+    Selkie  
+    Sidhe (Arcadian)  
+    Sidhe (Autumn)  
+    Slaugh  
+    Troll  
+    Ghille Dhu  
+    Korred  
+    Merfolk  
+    Morganed  
+    Oba  
+    River Hags  
+    Wichtel  
+    Wolpertinger  
+Motley  
+Attributes
+    Strength  
+    Charisma  
+    Perception  
+    Dexterity  
+    Manipulation  
+    Intelligence  
+    Stamina  
+    Appereance   
+    Wits  
+Abilities
+    Talents
+        Alertness   
+        Athletics   
+        Brawl  
+        Empathy  
+        Expression   
+        Intimidation   
+        Kenning   
+        Leadership  
+        Streetwise  
+        Subterfuge  
+        (Hobby Talents)  
+    Skills
+        Animal Ken  
+        Crafts  
+        Drive  
+        Etiquette  
+        Firearms  
+        Larceny  
+        Melee  
+        Performance  
+        Stealth  
+        Survival  
+        Professional Skill  
+    Knowledges
+        Academics 
+        Computer 
+        Enigmas 
+        Gremayre 
+        Investigation 
+        Law 
+        Medicine 
+        Politics 
+        Science 
+        Technology 
+        Expert Knowledge

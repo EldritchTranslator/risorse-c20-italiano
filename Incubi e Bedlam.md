@@ -6,6 +6,7 @@ Il punteggio di Incubo va da 0 a 10, marcando le caselle da sinistra a destra, e
 - quando si ottiene un botch/fallimento critico in un lancio di Glamour o di un cantrip (che aggiunge un punto per ogni botch);
 - quando si scatena un'Arte (che aggiunge un punto *prima* del lancio per scatenare l'Arte);
 - quando si tira un 10 su un dado incubo (che aggiunge un dado per ogni 10 ottenuto).  
+
 Si può ottenere più di un punto Incubo per lancio, senza mai superare il massimo di 10.  
 
 Meccanicamente, ogni volta che il giocatore deve fare un lancio di Glamour o lancia un cantrip deve sostituire i dadi nella sua riserva con un numero di dadi Incubo pari al punteggio di Incubo del personaggio, senza però superare la riserva di dadi iniziale (esempio: se devo lanciare 4 dadi e ho un punteggio di Incubo pari a 6, lancio 4 dadi Incubo). L'unica eccezione a questa regola avviene quando si Scatena un'Arte.  
@@ -53,6 +54,55 @@ La Storyteller deve scegliere una Soglia di Bedlam da infliggere al personaggio 
 ## Guarire Squilibrio e Bedlam  
 
 Ciò che reca sollievo allo Squilibrio non ha un effetto guaritore anche sulla ferita psichica vera e propria. I Changeling possono Invocare l'Autunno e Ignorare l'effetto della Soglia di Bedlam per una scena, ma per guarire da uno Squilibrio dovranno concentrare il proprio Glamour e energia creativa in qualcosa che importa davvero. Quando un personaggio passa con successo un'Epifania (di uno qualunque dei cinque tipi) può rimuovere uno Squilibrio marcato invece di riprendere il Glamour.  
+
 Il Bedlam è invece un'altra bestia. Quando tutta la Volontà del changeling diventa Squilibrata, è perso nel Bedlam. Non esiste una cura, e chi soccombe o si addentra nel Dreaming senza più essere trovati (o almeno, senza che venga riconosciuto...) o viene imprigionato e imbottito di medicine che lo quietano ma non lo cureranno mai. Tuttavia, persistono leggende di avventure o tesori che possono salvare un Changeling dal Bedlam, ma sono sempre storie di seconda mano.
 
+---
+# **Player's Guide**  
+
+# Gli Incubi e il Bedlam  
+
+Il Disfacimento non è qualcosa di inevitabile nella vita di un changeling, anche se certamente ci sono certi fati che lo fanno sembrare qualcosa di desiderabile al confronto. All'estremo opposto c'è il Bedlam: la perdita di ogni umanità e normalità mentre la natura fatata del changeling sovrascrive quella mortale. Anche se non è comune come il Disfacimento, è una fine altrettanto tragica.  
+
+Gli Incubi e lo Squilibrio si accumulano lentamente con il tempo, come la Banalità, ma per fortuna ci sono modi per combatterli prima che diventino troppo pesanti da sopportare. Ovviamente più una changeling è in sintonia con la sua metà fatata più è difficile da nascondere. Anche se mortali con la fantasia più vivida potrebbero essere in grado di accettare che qualcuno possegga qualità magiche e inesplicabili, coloro che insistono che cose del genere non possono esistere sono più inclini a non fidarsi di chi mostra segni evidenti della propria vera natura.  
+
+Mentre tutto quello che un changeling pericolosamente vicino al Disfacimento ha bisogno è solo una bella infusione di Glamour per salvarlo dal precipizio, è assai più complicato recuperare qualcuno dall'orlo del Bedlam. Ci sono pochi oggetti e metodi che si dice esistano, ma anche quei sussurri pacati sono terribilmente spiacevoli, se non addirittura impensabili.  
+
+## Gli Incubi  
+
+Gli incubi sono parte dell'essere changeling tanto quanto la natura fatata che alimenta la sua magia. L'unico modo per non accumularne è rinnegare completamente la propria magia, che in genere è comunque una condanna a morte per il sè fatato. ANche se gli Incubi non sono immediatamente dannosi, suggerisce agli altri la sua vera natura. Chi osserva potrebbero non sapere *esattamente* cos'è, ma riconoscono che c'è qualcosa che non va nel changeling. Anche se le Nebbie cancellano i dettagli di ogni strano incontro, venire esposti ad abbastanza magia (specialmente dallo stesso changeling) può rendere anche il più Banale e scettico dei mortali allerta e sospettoso.  
+
+### L'inevitabilità  
+
+Per un Changeling è inevitabile assumere dell'Incubo. Nonostante il nome, non è una forza necessariamente dannosa, o neanche granché seria se viene monitorata attentamente. Può dare una spinta in più alle abilità di una changeling in un momento di bisogno, ma attingere dagli Incubi (che sono parte dell'origine mitica dell'anima fatata della changeling) ha una tendenza a perpetuarsi. Più la changeling espande le proprie conoscenze e usa le proprie abilità magiche, più accumula Incubi, e più al sua natura ultraterrena diviene apparente all'osservatore casuale.  
+
+A causa del legame intrinseco degli Incubi alle abilità dei changeling, e il modo in cui si moltiplica più vengono usate, tutti i changeling imparano in fretta quali sono i suoi effetti, e sviluppano le proprie regole rispetto a se e quando sono disposti a rischiare di aggiungerne. Alcuni li accettano appieno, prendendo sia Incubi sia potere a palate mentre si gestiscono gli Squilibri che li accompagnano, mentre altri sono più titubanti a affondare appieno nei loro retaggi.  
+
+Arriverà comunque prima o poi il momento per ogni changeling di sperimentare gli Incubi, e come reagiscono la dice lunga su come vedono le loro nuove vite.  
+
+### Sottigliezza
+
+Gli Incubi comunque non si fanno notare da subito tra i primi segni della nuova fiorente natura sovrannaturale di una changeling. Alza la testa solo quando la changeling fa qualcosa di chiaramente inumano: influenzare il Mondo d'Autunno attorno a lei, tirandosi dietro il Dreaming, sfoggiando il fatto che può fare cose oltre la comprensione dei più. Se è troppo immersa nella Banalità, usare le proprie abilità per ricordarsi della vita da changeling può fare miracoli verso la sua ripresa. I cantrip non fanno molto da soli, ma le danno la possibilità di tirare fuori il suo sè fatato per rinforzare la sua magia. Questo metodo di accesso alla fata interiore è rischioso, ma talvolta necessario.  
+
+è un po' più semplice d'altronde salvare qualcuno dal Disfacimento che dal Bedlam. Finché non si prende l'abitudine di slanciarsi nell'Incubo, è sempre un buon modo per esplorare la propria storia e non solo ricordarsi di chi si è, ma anche di come il proprio kith si informi di sè. Sia prima della Crisalide sia dopo il Disfacimento, l'identità mortale di una changeling rassomiglierà comunque in qualche modo alla sua metà fatata, e le lenti del Draming, filtrate con gli incubi, possono essere un utile strumento per imparare.  
+
+### Persistenza  
+
+Ma l'Incubo da solo non è abbastanza a rivelare la natura del changeling agli altri; a meno che non stia Scatenando un'Arte o lanciando cantrip Wyrd, un livello alto di Incubo non è così visibile che le Nebbie devono nasconderlo. Tutti i changeling imparano a convivere con i loro Incubi che crescono quando sfruttano i loro poteri e sentono il loro retaggio rifiorire e che calano quando è tutto finito.  
+
+Anche se i mortali possono non accorgersi di differenze visibili quando il livello di Incubo sale e scende, altri changeling in genere riescono a capire il livello attorno al quale un loro simile ricade al momento, dato che vedono più vividamente il mien chimerico di chi ha un alto livello di Incubi, mentre quelli che non riescono a percepire il Dreaming considerano lo strano presentimento che sentono da quell'individuo al cattivo umore o a una brutta giornata.  
+
+In base a quanto il changeling è ansioso di esplorare i propri trascorsi e quanto è già in sintonia con ciò che ha passato nelle sue vite precedenti può imparare di più su di sè quando sale l'Incubo. Anche se alcuni si tuffano nell'opportunità di scoprire di più sul proprio passato, molti sconsigliano queste pratiche sconsiderate. Una discesa frettolosa diventa velocemente una brutta strada difficile da lasciare.  
+
+## Lo Squilibrio  
+
+Più una changeling persegue la sua identità fatata, meno le importano la sua umanità e i suoi legami con i mortali, e più è consumata dai miti e finimenti della sua condizione. Molti si sforzano di mantenere un equilibrio, sacrificando un raccolto di Glamour qui e là per mantenere la propria umanità. La matematica è semplice: più un changeling perde la presa sulla sua umanità, meno gli altri mortali gli crederanno. Che presumano sia una malattia mentale, o cattive maniere, o qualcos'altro, sono specialmente i mortali a sentire che ci sia qualcosa di diverso nel loro compare. I changeling sanno riconoscere questa condizione per quella che è, e spesso cercano di riportare il loro amico in equilibrio prima che sia troppo tardi.  
+
+Tuttavia non tutti i changeling vogliono stare a metà di questa strada. La prospettiva di essere Disfatto è terribile, dato che rappresenta un tipo di morte vivente - il corpo continua, ma senza ciò che lo rendeva magico e meraviglioso. Anche solo questo basta a spaventare dei Kithain facendogli assumere Glamour in eccesso. Per come la vedono, tornare nel mondo normale o vivere per sempre in un posto magico non è neanche una scelta. Purtroppo la realtà dei fatti non è così semplice o gentile.  
+
+### Sul filo del rasoio
+
+A meno che non si lancino mai cantrip, non c'è molto che si può fare per evitare di far salire l'Incubo, è invece più semplice gestire il proprio livello di Squilibrio. Un sacrificio di Glamour per riottenere un pezzettino di mondanità una volta ogni tanto è tutto ciò che serve; perlopiù i changeling trovano un livello dove sono in pace con il proprio Squilibrio. Per alcuni questo significa liberarsene il momento in cui si ottiene dell'Incubo, mentre altri sono invece disposti a lasciare progredire le cose fino a che non si è a metà strada verso il Bedlam, o persino vicini.  
+
+### La goccia che fa traboccare il vaso
 
