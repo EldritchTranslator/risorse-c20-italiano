@@ -1,6 +1,6 @@
 # Piretica
 
-L'anima di ogni changeling brucia con la forza del Dreaming, ma non tutti imparano a prendere il controllo di quella fiamma con la miagia della Piretica. Il fuoco consuma, purifica, protegge, e rinnova. Kithain di ogni tipo rispettano il potere del fuoco, e non importa di che corte, casato, o rango facciano parte, tutti ricercano i suoi segreti.  
+L'anima di ogni changeling brucia con la forza del Dreaming, ma non tutti imparano a prendere il controllo di quella fiamma con la magia della Piretica. Il fuoco consuma, purifica, protegge, e rinnova. Kithain di ogni tipo rispettano il potere del fuoco, e non importa di che corte, casato, o rango facciano parte, tutti ricercano i suoi segreti.  
 
 ## Scatenare la Piretica  
 
@@ -38,6 +38,32 @@ Non c'è impurità che può resistere a calore, ma gli studenti di Piretica poss
 
 Il tentativo di un traditore di avvelenare la motley fallisce a causa del cantrip del nocker. Nella forgia del troll ogni metallo diventa puro e forte nella fornace. Con una canzone piena di speranza il clurichaun pulisce un fiume dall'inquinamento causato da una fabbrica vicina.  
 
-**Sistema**: Il Reame del cantrip determina cosa può essere purificato. Oggetti e altri materiali inanimati hanno tutte le impurità e i contaminanti rimossi. Glie effetti su changeling, mortali, e altri sovrannaturali cambiano a seconda delle circostanze. La Storyteller deve decidere cosa rientra nel termine 'impurità' (una maledizione che causa allucinazioni può essere alleviata temporaneamente, ma una malattia naturale no magari). Il numero di successi può essere paragonato con la forza dei veleni, maledizioni, malattie, o effetti nocivi. Se *Purificazione* non raggiunge o supera l'effetto in successi questo ritorna nel soggetto dopo la scena.  
+**Sistema**: Il Reame del cantrip determina cosa può essere purificato. Oggetti e altri materiali inanimati hanno tutte le impurità e i contaminanti rimossi. Gli effetti su changeling, mortali, e altri sovrannaturali cambiano a seconda delle circostanze. La Storyteller deve decidere cosa rientra nel termine 'impurità' (una maledizione che causa allucinazioni può essere alleviata temporaneamente, ma una malattia naturale no magari). Il numero di successi può essere paragonato con la forza dei veleni, maledizioni, malattie, o effetti nocivi. Se *Purificazione* non raggiunge o supera l'effetto in successi questo ritorna nel soggetto dopo la scena.  
+
+**Tipo**: Wyrd  
+
+# ⦿⦿⦿⦿ Inghiottire  
+
+Talvolta un changeling vuole semplicemente appiccare fuoco a qualcosa. Un cantrip semplice e potente, *Inghiottire* fa bruciare un soggetto. Il changeling può scegliere se il soggetto della magia brucia o se viene protetto dalla corona di fiamme magiche. Quando il fuoco si propaga a qualcosa di vicino, si comporta come del fuoco normale, bruciando e spargendosi, al di fuori del controllo del changeling.  
+
+Un clurichaun infiamma la pioggia e rade al suolo la fabbrica dove faticava prima della Crisalide. Prendendo ispirazione dai supereroi, un childling si circonda di fiamme per spaventare un bullo. Si spargono in fretta le voci della vigilante alta e blu con l'ascia avvolta dalle fiamme.  
+
+**Sistema**: Il Rame determina cosa brucia o viene avvolto dalle fiamme. Il numero di successi determina l'intensità e la durata del fuoco, ma se brucia qualcos'altro, il fuoco mondano continua ad esistere e spargersi. Ogni successi rappresenta il numero di turni per cui il soggetto brucia o è avvolto dalle fiamme di *Piretica*. Se il cantrip è usato per bruciare qualcosa, questo soffre un punto di danno aggravato per turno. Se il cantrip circonda un soggetto per proteggerlo, qualunque cosa oltre a chi lancia il cantrip o il soggetto che tocca le fiamme soffre di un punto di danno aggravato per turno di contatto.  
+
+**Tipo**: Wyrd.  
+
+# ⦿⦿⦿⦿⦿ Canto della fenice  
+
+La fenice brucia e diventa cenere, e risale dalla distruzione delle fiamme come nuova. Maestria della *Piretica* dona al changeling il potere di rinnovare la vita nella distruzione. Dopo che la changeling invoca il *Canto della fenice*, se il soggetto di questa benedizione muore o viene distrutto, brucerà fino a diventare cenere per poi risorgere poco dopo.  
+
+**Sistema**: Il Reame usato per il cantrip decide chi o cosa ritornerà se ucciso o distrutto durante la scena corrente. Il momento in cui il soggetto di questa potente magia soffre danni fatali o viene rotto oltre ogni speranza di ripararlo incomincia il *Canto della fenice*, e il soggetto incomincia a bruciare. Il numero di successi del cantrip determina quanto a lungo rimane inerte e in fiamme, dopo di che risorge come nuovo, pienamente ricostituito sia di corpo che di mente. *Canto della fenice* ricostituisce tutti i livelli di salute, Volontà, Glamour, così come ogni altro tipo di risorsa.  
+
+| Successi   | Durata                             |
+|:-----------|:-----------------------------------|
+| 1 successo | Brucia per un giorno e poi ritorna |
+| 2 successi | Brucia per una scena e poi ritorna |
+| 3 successi | Brucia per un'ora e poi ritorna    |
+| 4 successi | Brucia per un minuto e poi ritorna |
+| 5 successi | Brucia per un turno e poi ritorna  |
 
 **Tipo**: Wyrd
