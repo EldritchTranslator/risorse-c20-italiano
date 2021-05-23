@@ -14,7 +14,7 @@
 - **⦿⦿⦿⦿ Contratto informale**: Questo cantrip modifica permanentemente _Affare fatto_; ogni promessa o commento viene considerato come una promessa formale, anche se sarcastico. Chimerico.  
 - **⦿⦿⦿⦿⦿ Parole sante**: Rinforzare il patto dando alle parti vari benefici per aiutarle a portare a termine la promessa. I successi del cantrip vanno divisi tra severità del patto e i benefici che gli si vogliono assegnare. Chimerico.
 
-## Crono (Chronos)  
+## Cronos (Chronos)  
 - **⦿ Guardarsi alle spalle**: Uno semplice sguardo nel passato, con il Reame che decide il bersaglio del cantrip e i successi quanto indietro nel tempo si può guardare. Chimerico.
 - **⦿⦿ Causa e effetto**: Alterare la percezione riguardo agli effetti di un'azione: l'effetto può sembrare che preceda la sua causa. Agisce solo su esseri senzienti. Wyrd.
 - **⦿⦿⦿ Scolpito nella pietra**: Rimuovere gli effetti del tempo per un certo periodo su un soggetto, senza rimuoverlo dal suo flusso. Wyrd.

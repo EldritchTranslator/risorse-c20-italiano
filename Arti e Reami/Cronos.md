@@ -1,5 +1,3 @@
-*Traduzione iniziale dei Sistemi di @destyno*
-
 # Cronos  
 
 Una volta di competenza esclusiva delle casate nobili e dei sidhe, ora anche i Kithain popolani hanno accesso a quest'arte. Molti sidhe sono gelosi di quest'Arte e potrebbero reagire con ostilità se vedessero un popolano che la usa. All'inizio, gli studenti di Cronos si occupano esclusivamente della percezione del tempo, ma con sufficiente pratica (e coraggio) il Kithain imparerà a far rivivere un momento o a rendere eterno qualcosa di temporaneo.  
@@ -103,3 +101,5 @@ Generoso e servizievole, un troll fa maturare velocemente della frutta per dare 
 | 5 successi | Fino a un secolo     |
 
 **Tipo**: Wyrd
+
+*Traduzione iniziale dei Sistemi con aiuto di @destyno*
