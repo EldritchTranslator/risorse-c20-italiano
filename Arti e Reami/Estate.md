@@ -46,7 +46,7 @@ Il focolare di una casa rappresenta sicurezza e ospitalità. Usando *Benedizione
 
 Il numero di successi determina la quantità di Volontà e Glamour che quelli sotto effetto del cantrip possono recuperare se stanno tutta la notte.
 
-| Successi   | Punti di Glamour e VOlontà ripristinati    |
+| Successi   | Punti di Glamour e Volontà ripristinati    |
 |:-----------|:-------------------------------------------|
 | 1 successo | Un punto di Glamour                        |
 | 2 successi | Un punto Volontà e un punto di Glamour     |
