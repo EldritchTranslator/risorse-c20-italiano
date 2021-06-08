@@ -61,9 +61,20 @@ Traduzione del paragrafo *Lexicon* alla fine del capitolo introduttivo di C20, p
 Dice pool - Riserva di Dadi  
 Botch roll - Fallimento drammatico / più 1 che successi  
 Dàn, il - Le forze del destino  
+Vale of Mists - Valle delle Nebbie
+Onus - (guardiani dei trod)
+Paths of... - Vie di ...
 Tempre - Temper traits  
 Imbalance - Squilibrio  
 Trigger - Innesco
+Birthright - Diritti di nascita
+Mists of Forgetfulness - Nebbie dell'Oblio
+Silver Path - Via Argentea
+Sundering - La Scissione
+Lost Ones - Perduti
+
+Banality trigger - tenere in inglese, o parafrasarlo, o semmai 'fattor scatenante'.
+
 ---
 SCHEDA
 Name  
@@ -191,3 +202,4 @@ Abilities
         Science 
         Technology 
         Expert Knowledge
+---

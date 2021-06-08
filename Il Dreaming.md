@@ -284,4 +284,10 @@ Tutto è possibile nel Dreaming Profondo. I Kithain combattono di continuo antic
 
 Ben prima che l'Età delle Fate finisse, una enorme isola galleggiante sopra l'Alta Corte di Arcadia divenne un ritrovo e un posto di incontri diplomatici per le fate della natura. Enormi catene montuose ospitavano i figli della roccia, mentre il suo sistema di caverne squisitamente incise lascia il paesaggio immerso in una eterna tranquilla melodia grazie al movimento perpetuo di quelli nati dall'aria. C'era di tutto da pozze di magma e piccoli vulcani a fiumi impetuosi, ruscelli gorgoglianti e foreste verdeggianti.  
 
-La sua posizione nel Dreaming Profondo è sconosciuta, anche se Fate dell'Autunno talvolta si imbattono in poemi, richieste di aiuto in lingue antiche, o persino mappe rudimentali che danno indizi e direzioni su dove trovarla. Oggi le chimere dell'incubo, scappate dalle loro prigioni montane, viaggiano per il territorio, aspettando i segni del ritorno dell'Oscurità Antica, mentre le memorie di chi ha creato la musica incantevole lo immergono in un motivo eterno di terrore, invitando nel cuore di chi l'ascolta la tristezza delle perdite passate e future.
+La sua posizione nel Dreaming Profondo è sconosciuta, anche se Fate dell'Autunno talvolta si imbattono in poemi, richieste di aiuto in lingue antiche, o persino mappe rudimentali che danno indizi e direzioni su dove trovarla. Oggi le chimere dell'incubo, scappate dalle loro prigioni montane, viaggiano per il territorio, aspettando i segni del ritorno dell'Oscurità Antica, mentre le memorie di chi ha creato la musica incantevole lo immergono in un motivo eterno di terrore, invitando nel cuore di chi l'ascolta la tristezza delle perdite passate e future.  
+
+# I trod
+
+Che cosa sono i trod, se non strade con un nome diverso? Possono funzionare come via sopra le quali i changeling possono viaggiare verso e dentro al Dreaming. I trod riflettono il concetto base del viaggio. Sono le vie prese nell'Iliade, riflessi di investigazioni su omicidi e misteri dai personaggi letterari come Hercule Poirot e Lord Peter Wimsey, o manifestazioni di eventi storici che continuano ad affascinare l'umanità.  
+
+Anche se i trod esistevano durante l'Età Mitica, la Spartizione mostrò la loro vera importanza. Durante il Frantumo

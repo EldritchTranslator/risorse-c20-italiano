@@ -112,7 +112,7 @@
 - **⦿⦿⦿⦿ Cerchio fatato**: Formare un cerchio protettivo attorno al soggetto, consentendo anche di nascondersi, e ponendo una maledizione su chi lo rompe. Wyrd.
 - **⦿⦿⦿⦿⦿ Rinnovo**: Una volta per mese consente di riportare in vita un soggetto per 24 ore. Richiede spesa di Volontà. Wyrd.
 
-## Primordiale (Primal)  
+## Primevo (Primal)  
 - **⦿ Sussurro del salice**: Chiedere in un sussurro domande a oggetti o animali. Il Reame stabilisce il soggetto della domanda. Chimerico.
 - **⦿⦿ Primordio occulto**: Evocare semplici manifestazioni dei quattro elementi. Wyrd.
 - **⦿⦿⦿ Scudo di quercia**: Garantire un livello di salute contundente per successo ottenuto. Wyrd.
