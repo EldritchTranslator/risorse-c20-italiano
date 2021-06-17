@@ -30,7 +30,7 @@ La storia è zeppa di leggende e favole che parlano di come mortali si perdano, 
 
 Una volta che i changeling superano la Valle delle nebbie il Glamour purificato del Dreaming comincia a depurare i visitatori dei pesi che la vita mondana pone sulle loro spalle. Per quanto questa purificazione eventualmente riduce il punteggio di Banalità a 0 questo effetto dura solo per la durata della visita del Dreaming Lontano e Profondo. Tuttavia neanche questo potere può portare il punteggio di Banalità permanente sotto l'1 - i changeling rimangono collegati alle loro spoglie mortali, non importa quanto cerchino di sfuggirci.  
 
-I giocatori possono ridurre il punteggio di Banalità dei personaggi di 1 per giorno finchè non raggiunge 0. Oltre a quel momento, mantenendo che il personaggio rimanga attivo nel Dreaming - facendo missioni, interagendo con i nativi, esplorando, ecc. - un pallino di Banalità diventa 10 punti dopo una settimana, facendo ricominciare il processo di perdita di un punto per giorno. Questo fa sì che anche coloro che sono più segnati dalla Banalità possono entrare nel Draming Profondo, se sono in grado di superare e sopravvivere alle molteplici sfide e impressioni del mondo chimerico.  
+I giocatori possono ridurre il punteggio di Banalità dei personaggi di 1 per giorno finché non raggiunge 0. Oltre a quel momento, mantenendo che il personaggio rimanga attivo nel Dreaming - facendo missioni, interagendo con i nativi, esplorando, ecc. - un pallino di Banalità diventa 10 punti dopo una settimana, facendo ricominciare il processo di perdita di un punto per giorno. Questo fa sì che anche coloro che sono più segnati dalla Banalità possono entrare nel Draming Profondo, se sono in grado di superare e sopravvivere alle molteplici sfide e impressioni del mondo chimerico.  
 
 Una volta che un personaggio lascia il Dreaming Profondo il livello di Banalità ritorna a quello di partenza. Solo Tesori leggendari e Quest possono rimuovere punti permanenti di Banalità.  
 
@@ -290,4 +290,11 @@ La sua posizione nel Dreaming Profondo è sconosciuta, anche se Fate dell'Autunn
 
 Che cosa sono i trod, se non strade con un nome diverso? Possono funzionare come via sopra le quali i changeling possono viaggiare verso e dentro al Dreaming. I trod riflettono il concetto base del viaggio. Sono le vie prese nell'Iliade, riflessi di investigazioni su omicidi e misteri dai personaggi letterari come Hercule Poirot e Lord Peter Wimsey, o manifestazioni di eventi storici che continuano ad affascinare l'umanità.  
 
-Anche se i trod esistevano durante l'Età Mitica, la Spartizione mostrò la loro vera importanza. Durante il Frantumo
+Anche se i trod esistevano durante l'Età Mitica, la Scissione mostrò la loro vera importanza. Durante il Frantumo la disseminazione di stagnazione e l'incredulità hanno dato duri colpi all'infrastruttura del Dreaming, lasciando i viaggiatori bloccati negli incubi, rilasciando maledizioni antiche sui trod, o persino intrappolando le fate in strade disseminate di trappole di Banalità. Anche mentre il Dreaming continua a purificarsi dall'"infezione" di Banalità che lo piaga, rimaneva comunque troppo pericoloso continuare ad usare i pochi trod ancora collegati al Mondo d'Autunno.  
+
+Il Rinascimento produsse abbastanza Glamour per incominciare a stabilizzare i passaggi esistenti e per accumularne nei secoli successivi. Verso la fine del 18mo secolo i Kithain ricominciarono a costruire abitazioni nel Dreaming Vicino. Dalla metà del 19mo secolo qualche trod per il Dreaming Lontano e Profondo erano riemersi, portando i viaggitori in nuovi reami nati dalla Rivoluzione Industriale e dai lavori di autori quali Jane Austen e Jules Verne.  
+
+La Rinascita rese possibile ancora una volta esplorare tutti e tre gli strati del Dreaming. Reami persi da lungo tempo e vie ritornarono al loro passato splendore come i maestosi trod arcadiani. I changeling di tutto il mondo sentirono la riconnessione delle vie tramite il flusso aumentato di Glamour. Tuttavia a causa della Banalità accumulata nel mondo non rimane nessun trod abbastanza stabile da andare in Arcadia.  
+
+
+

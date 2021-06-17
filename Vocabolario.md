@@ -49,7 +49,7 @@ Traduzione del paragrafo *Lexicon* alla fine del capitolo introduttivo di C20, p
 - Prodigo, il - Un sovrannaturale non fata, come un vampiro o un licantropo. I Changeling credono che i Prodighi siano dei figli perduti del Dreaming, separati da così tanto tempo che si sono dimenticati la loro vera origine.
 - Pulcino - Un Changeling appena uscito dalla sua Crisalide.
 - Reame, il - Aspetto del mondo che il Glamour può cambiare come obiettivo di un cantrip.
-- Risorgimento, il - Un evento iniziato il 20 luglio 1969 che portò una montagna di Glamour nel Mondo dell'Autunno, permettendo a molti Sidhe di tornare da Arcadia.
+- Rinascita, la - Un evento iniziato il 20 luglio 1969 che portò una montagna di Glamour nel Mondo dell'Autunno, permettendo a molti Sidhe di tornare da Arcadia.
 - Saining, il - "La Cerimonia del Nome", un rituale che dà a un Changeling schiuso da poco il suo Vero Nome. Dopo di questa cerimonia il Changeling viene considerato un membro a tutti gli effetti dei Kithain.
 - Trod, il - Passaggi e strade magiche che collegano i Freehold e il Dreaming.
 - Tuatha de Danaan, i - I misteriosi progenitori delle Fate.
@@ -61,19 +61,19 @@ Traduzione del paragrafo *Lexicon* alla fine del capitolo introduttivo di C20, p
 Dice pool - Riserva di Dadi  
 Botch roll - Fallimento drammatico / più 1 che successi  
 Dàn, il - Le forze del destino  
-Vale of Mists - Valle delle Nebbie
-Onus - (guardiani dei trod)
-Paths of... - Vie di ...
-Tempre - Temper traits  
-Imbalance - Squilibrio  
-Trigger - Innesco
-Birthright - Diritti di nascita
-Mists of Forgetfulness - Nebbie dell'Oblio
-Silver Path - Via Argentea
-Sundering - La Scissione
-Lost Ones - Perduti
+Vale of Mists - Valle delle Nebbie  
+Onus - (guardiani dei trod)  
+Paths of... - Vie di ...  
+Tempre - Temper traits   
+Imbalance - Squilibrio   
+Trigger - Innesco  
+Birthright - Diritti di nascita  
+Mists of Forgetfulness - Nebbie dell'Oblio  
+Silver Path - Via Argentea  
+Sundering - La Scissione  
+Lost Ones - Perduti  
 
-Banality trigger - tenere in inglese, o parafrasarlo, o semmai 'fattor scatenante'.
+Banality trigger - tenere in inglese, o parafrasarlo, o semmai 'fattor scatenante'.  
 
 ---
 SCHEDA

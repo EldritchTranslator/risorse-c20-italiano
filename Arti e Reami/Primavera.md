@@ -25,3 +25,6 @@ Tutto proviene dalla terra, e tutto vi ritornerà. Col tempo la natura reclama o
 
 Un satiro fa crescere un giardino nel mezzo del suo appartamento per impressionare e incantare un mortale. Accorgendosi di essere seguito, il duca crea delle liane e degli alberi per coprire e disabilitare la macchina che lo segue. In uno strano corso di eventi, la sluagh richiama un pergolato di alberi per bloccare i raggi del sole e salvare il vampiro che è stato sorpreso dal sole all'esterno.  
 
+**Sistema**: Il soggetto del cantrip determinato dal Reame diventa il centro di un'esplosiva crescita di piante. Anche se non esiste niente di naturale nelle vicinanze, cresceranno dal terreno o vicino al soggetto radici, fiori, alberi, e liane, fino a ricoprirne la superficie. Il fogliame dura per una scena, dopo la quale avvizzisce e scompare gradualmente.  
+
+
