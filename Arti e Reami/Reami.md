@@ -1,4 +1,4 @@
-# I Reami ⦿
+# I Reami
 
 Prese da sole, le Arti dei Kithain sono potenti ma rudimentali, grandi tempeste di energia potenziale che non può essere sottomessa o diretta nel mondo. E' solo tramite i Reami che i changeling sono in grado di padroneggiare la vecchia magia del Dreaming, o per sfruttare ogni uso del Glamour che non siano i miracoli più semplici o innati.  
 
@@ -81,6 +81,131 @@ Esempi: Goblin, kachina, bambini dell'acqua, hana, fantasmi, naraka, Hsien.
 I master del Reame di Fae possono interagire con il loro potere direttamente su ricettacoli di Glamour vivo: cantrip, Tesori, freehold, dross, trod, e così via.  
 
 Esempi: Caliburn, un trod chiuso, il balefire di un freehold.  
+
+# Natura
+
+Questo Reame comprende le forse pure e fantastiche della natura. E' definito da una comprensione dei fenomeni e delle sostanze naturali classica e olistica, non una clinica.  
+
+## ⦿ Elemento di base  
+
+Il changeling può dirigere un cantrip a manifestazioni ben definite dei quattro classici elementi (aria terra, acqua e fuoco.) Queste manifestazioni devono essere abbastanza dirette e inorganiche. Dato che è difficile quantificare manifestazioni discrete di aria, questo elemento spesso richiede anche il Reame di Scena.  
+
+Esempi: una pozzanghera, una roccia, un fuoco da campo, il terriccio di una tomba, l'acqua in una vasca da bagno.  
+
+## ⦿⦿ Materiale grezzo 
+
+Il changeling può influenzare materiali non vivi ma organici come legna, carta, corda, canapa, e così via.  
+
+Esempi: un pensile in legno, una staccionata in legno, un foglio di carta, una canna, la linea di ormeggio di una barchetta, una bistecca.  
+
+## ⦿⦿⦿ Foresta rigogliosa
+
+In questo livello di iniziazione una changeling può ora bersagliare con i suoi cantrip piante vive.  
+
+Esempi: una fioriera, un cactus, una quercia imponente, delle liane kudzu, una mela appena colta, un salice piangente.  
+
+## ⦿⦿⦿⦿ Animale selvatico  
+
+Gli adepti del Reame di Natura hanno potere sugli animali vivi, grandi e piccoli. Persone trasformate in animali (succede!) sono invece governati dal Reame che riflette la loro forma base (in genere Attore, o per i pooka, Fae), così come i Prodighi come i licantropi che si possono trasformare liberamente tra le loro forme umane e bestiali.  
+
+Esempi: il tuo cane, un gatto randagio, le tigri allo zoo, il corvo seduto sul tuo tetto, il pesce rosso unico testimone di un omicidio.  
+
+## ⦿⦿⦿⦿⦿ Fenomeni naturali
+
+La maestria totale di Natura dona al changeling l'abilità di bersagliare i fenomeni naturali: il tempo atmosferico, eruzioni vulcaniche, terremoti, e simili.  
+
+Esempi: un banco di nebbia, una nuvola tempestosa, una sorgente geotermica.  
+
+# Prop
+
+Prop è il Reame che governa oggetti di ogni genere, dal coltello da cucina al telescopio. Sono oggetti lavorati che non rientrano nel Reame di Natura, il che include metalli lavorati, plastiche, e materiali compositi. In nessuna circostanza Prop ha effetto su oggetti di ferro freddo.  
+
+## ⦿ Vestito ornato
+
+Il changeling può bersagliare ciò che viene comunemente indossato o che in questo momento si sta usando come vestito o accessorio.  
+
+Esempi: un vestito, una camicia, dei gioielli, tatuaggi, trucchi, un lucchetto usato come orecchino, il parrucchino del tuo capo.  
+
+## ⦿⦿ Oggetto creato
+
+Il Kithain ora è in grado di incantare oggetti che non usano elettricità e che non hanno parti semoventi. 
+
+Esempi: una mazza, un coltello, una spada, un randello, un cacciavite, una sega, un tavolino in vetro, una tazza, un materasso, una moneta fortunata.  
+
+## ⦿⦿⦿ Oggetto meccanico
+
+La maestria che il changeling ha in Prop cresce per comprendere oggetti con parti mobili che non richiedono elettricità o carburante.  
+
+Esempi: una pistola, uno skateboard, una bicicletta, una porta, un lucchetto a combinazione, una action figure, un'altalena.  
+
+## ⦿⦿⦿⦿ Macchinari complessi
+
+Ai livelli alti del Reame di Prop il changeling ottiene l'abilità di stregare macchinari che richiedono carburante o elettricità se sono abbastanza semplici da spiegare, usare, e comprendere. 
+
+Esempi: un tostapane, una sega elettrica, una macchina, una stampante, un taser, un forno, un telefono, una lampada.  
+
+## ⦿⦿⦿⦿⦿ Artefatto arcano
+
+All'apice del Reame di Prop il changeling scopre i segreti di usare il Glamour anche sui macchinari più complessi - quelli di cui non si riesce a capire funzione o funzionamento, o che dipendono da circuiti delicati e complessi. 
+
+Esempi: una macchina a raggi x, una tv, un iPod, uno smartphone, un computer.  
+
+# Scena
+
+Scena è uno dei due Reami modificatori. Non può essere usato per determinare il bersaglio di un'Arte da solo, ma deve essere usato insieme a Attore, Fae, Natura, o Prop. Scena espande gli effetti del Reame che modifica fino a comprendere tanti quanti soggetti il changeling desidera nella zona descritta - per esempio, se Scena viene usato con Attore ⦿⦿⦿⦿ il changeling sarà in grado di bersagliare tutti i nemici del changeling nell'area; se è usato con Prop ⦿⦿⦿⦿ allora può incantare tutte le macchine in un parcheggio. Usare Scena aumenta sempre la difficoltà del cantrip di 1.  
+
+## ⦿ La camera
+
+Il primo dominio del Reame di Scena è la Camera, che permette al changeling di bersagliare tutti i soggetti in un'area piccola, separata, e chiusa. 
+
+Esempi: una tana, un armadio, un garage, una camera da letto, un baracchino.  
+
+## ⦿⦿ Il cottage
+
+Il secondo dominio di Scena comprende un piccolo edificio contiguo, il che permette ai Kithain di lanciare un cantrip su tutti i soggetti al suo interno.  
+
+Esempi: una roulotte, una casa a un piano, una cabina nei boschi, un rifugio antibomba.  
+
+## ⦿⦿⦿ La via solitaria
+Gli Adepti di Scena possono lanciare un cantrip su un'intera via o strada, finché l'occhio vede, e tutto ciò che è nei dintorni immediati (come giardini o il marciapiede, ma non dentro agli edifici.)  
+
+Esempi: una solitaria strada di campagna, un quartiere,una via suburbana, un sentiero di montagna, un'autostrada.  
+
+## ⦿⦿⦿⦿ La valle
+
+Il changeling può lanciare un cantrip su tutti i soggetti in un luogo all'esterno che è separato e ben definito. Chiunque sia all'interno di edifici è esente dagli effetti.  
+
+Esempi: un parco, un lago, una foresta, una collina.  
+
+## ⦿⦿⦿⦿⦿ Il castello
+
+I più grandi effetti di Scena possono amplificare un cantrip perché abbia effetto su tutti i soggetti all'interno di un'enorme struttura o un insieme di edifici più piccoli che possono essere compresi sotto uno stesso nome.  
+
+Esempi: un castello, un palazzo di uffici, un campus universitario, un centro commerciale, un hotel.  
+
+# Tempo 
+
+Tempo è uno dei due Reami modificatori. Non può essere usato per determinare il bersaglio di un'Arte da solo, ma deve essere usato insieme a Attore, Fae, Natura, o Prop. Tempo permette al changeling di manipolare un cantrip in vario modo, caricando il Glamour nel tempo in permutazioni sempre più complesse. Usare Tempo aumenta sempre la difficoltà del cantrip di 1.   
+
+## ⦿ Triplo
+
+La durata del cantrip è triplicata.
+
+## ⦿⦿ Sabbie sospese
+
+L'effetto del cantrip è ritardato e si attiverà in un momento a scelta del giocatore (scelto al momento del lancio del cantrip) fino a un anno e un giorno nel futuro.  
+
+## ⦿⦿⦿ Innesco fatuo
+
+Al posto di essere attivato in un secondo momento predeterminato il cantrip può essere fatto scattare con un'azione predeterminata scelta dal giocatore. Esempi includono "la prossima volta che un Kithain passa per quella porta", "la prossima volta che Bill lo Sluagh attraversa la porta", o "la prossima volta che la porta si apre." Il personaggio deve usare i Reami adatti per il soggetto del trigger.  
+
+## ⦿⦿⦿⦿ Echi brillanti 
+
+Una volta che il cantrip finisce si riattiva automaticamente una seconda volta. La seconda attivazione applica gli effetti di un unico successo, senza contare quanti fossero gli originali. Se il primo lancio fallisce fallisce anche l'eco.  
+
+## ⦿⦿⦿⦿⦿ Rinnovo glorioso  
+
+Il cantrip diventa stagionale e si riattiva dopo un periodo di letargo. Le circostanze specifiche per la riattivazione sono indicate dal giocatore ma devono comprendere un evento importante (come un equinozio, un'eclissi, un compleanno, ecc.) e la pausa tra le attivazioni deve essere notevolmente più lunga della durata del cantrip.  
 
 
 
