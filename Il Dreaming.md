@@ -296,5 +296,121 @@ Il Rinascimento produsse abbastanza Glamour per incominciare a stabilizzare i pa
 
 La Rinascita rese possibile ancora una volta esplorare tutti e tre gli strati del Dreaming. Reami persi da lungo tempo e vie ritornarono al loro passato splendore come i maestosi trod arcadiani. I changeling di tutto il mondo sentirono la riconnessione delle vie tramite il flusso aumentato di Glamour. Tuttavia a causa della Banalità accumulata nel mondo non rimane nessun trod abbastanza stabile da andare in Arcadia.  
 
+### Il controllo dei trod
+
+Gli strateghi militari ben sanno che controllare le strade è una parte essenziale di un piano di successo, e le fate sfruttano questa strategia nel Dreaming per proteggere entrambi i mondi dall'Oscurità Antica e per difendersi da avversari locali e prevenire insurrezioni prevenendo l'accesso ai propri domini. Popolando le aree del Dreaming di fianco e alla fine di trod i Kithain si assicurano del loro controllo permettendo inoltre agli artigiani di usare laboratori che sono rinvigoriti dalla loro esistenza nel mondo chimerico. A causa di attacchi da parte delle fate oscure e di chimere mostruose dopo l'Evanescenza entrambe le corti rimarcano ai loro membri l'importanza cruciale di tenere sotto controllo i trod.  
+
+## Aprire Varchi
+
+L'accesso ai Trod significa trovare o creare un varco tra mondi. I Kithain con una profonda affinità verso il Dreaming come gli eshu e i sidhe arcadiani hanno un dado in più per questi tiri.  
+
+### Pellegrinaggio [Wayfare]
+
+Combinando *Passaggio di Portale* (Pellegrinaggio ⦿⦿⦿) e il Reame di Fate (⦿⦿⦿⦿⦿ Gran signore del Glamour) è possibile creare portali temporanei su un trod a random del Dreaming Vicino. Tuttavia i giocatori possono scegliere di lanciare il cantrip come un'azione estesa che richiede cinque successi per assegnare una tipologia di trod tra quelle base (Via Argentea, Via di Balor, o Via del Crepuscolo).
+
+### Scatenare Pellegrinaggio  
+
+Creare spaccature temporanee tra i mondi tramite lo Scatenamento richiede a chi sta usando l'Arte di comandare al Dreaming di manifestarle. Oltre alle conseguenze di base per fallire criticamente uno Scatenamento un errore di tali proporzioni crea almeno un Varco Selvaggio in un punto da qualche parte vicino a chi sta castando.  
+
+Convincere il Dreaming richiede l'uso di un Varco prestabilito come punto focale dello Scatenamento. Questo permette di bypassare l'adempimento ogni prerequisito che il Varco può avere ma che chi casta non può soddisfare o di cui non è a conoscenza. Fallire criticamente questo tiro risulta nel cambiare permanentemente la destinazione, nella distruzione del Varco, o persino nell'apertura di un portale verso una dimensione prigione, il che può causare il ritorno di altri Thallain o Dark-kin.  
+
+### Oniromanzia
+
+Le menti di chi dorme si connettono inconsciamente al Dreaming, permettendo a chiunque tranne i più banali dei mortali un breve sguardo in un mondo perduto. *Portale dei sogni* (Oniromanzia ⦿⦿⦿) fornisce tutti gli strumenti necessari per ancorare una mente nel Dreaming. I Kithain che hanno completato il Reame di Fate possono semplicemente scegliere di traslare il loro viaggio per il Dreaming su un trod a caso, e tramite l'uso del Reame di Scena possono seguirli anche chi li accompagna automaticamente. Trasportare un mortale nel Dreaming richiede l'uso del Reame di Attore di livello appropriato, ma chiunque siano i viaggiatori, il processo non porta mai i corpi fisici dall'altra parte (a meno che non si sia in Wyrd prima di essere bersagliati dal cantrip).  
+
+Le menti dei mortali tornano nei loro corpi dopo otto ore di sonno, durante le quali è impossibile svegliarli nel Mondo d'Autunno. La morte nel Dreaming causa terribili danni al cervello o persino un coma irreversibile.  
+
+A causa della loro connessione con il Dreaming le anime chimeriche si manifestano come se fossero entrate tramite Varchi fisici. Coloro che possiedono una natura chimerica non sono limitati a stare per un certo numero di ore, invece devono andarsene tramite un Varco, avere qualcuno che usa *Portale dei Sogni*, o che Scateni Oniromanzia. Se il corpo fisico muore mentre il Kithain è nel Dreaming è automaticamente perduta e impossibilitata a tornare nel Mondo d'Autunno. I changeling morenti vanno gestiti con le regole per la morte chimerica dato che i loro corpi mortali rimangono nel Mondo d'Autunno.  
+
+### Scatenare Oniromanzia
+
+Mentre si comanda l'Arte la barriera tra la mente di chi sta agendo e il Dreaming si indebolisce. Se si è svegli il soggetto si addormenta immediatamente, rendendo così impossibile Scatenare su se stessi. Un fallimento critico al lancio assottiglia il velo tra i vari piani d'esistenza e conferisce alla zona un'aura di incubo che attira chimere incubo che cercano di entrare nel mondo mondano.  
+
+Convincere richiede che chi casta sia già nel Dreaming. Crea trod temporanei che portano alle menti di chi sta sognando dove il changeling può Scatenare l'Arte o usare *Portale dei Sogni* per uscire. Fallire criticamente il tiro crea un trod che porta verso una zona pericolosa del Dreaming o la mente dormiente di un pericoloso essere fatato (magari un Thallain, o persino un Dauntain) che ha pieno controllo del suo regno dei sogni. Inoltre crea un Varco Selvaggio nascosto (che si può notare con un tiro di Percezione + Kenning a difficoltà 9) nel Mondo d'Autunno vicino al corpo fisico di chi sta scatenando.  
+
+### Varchi stabili
+
+Un Varco stabile rimane connesso allo stesso trod indipendentemente da quante volte venga attraversato. Ogni freehold funzionante ne ha almeno uno che lo collega al Dreaming Vicino, e non è strano che ne esistano in posti ricchi di Glamour. Tutti i Varchi condividono una caratteristica: hanno requisiti necessari per essere aperti. Alcuni si aprono dopo aver recitato una poesia o dopo averli picchiettati a ritmo, altri richiedono la risoluzione di intricati indovinelli, o si aprono soltanto in un momento preciso dell'anno.  
+
+In generale più in profondità un trod porta i viandanti nel Dreaming più sono complesse ed esoteriche le sue richieste. I Varchi per il Dreaming Vicino in genere vogliono solo delle semplici azioni come picchiettare sulla superficie del portale un numero di volte, risolvere indovinelli, o suonare una certa canzone su uno strumento da inizio a fine. Varchi con trod per il Dreaming Lontano si aprono solo in certi momenti della giornata, richiedono a chi ci entra di risolvere enigmi difficili o astratti, di risolvere dilemmi filosofici che appaiono brevemente scritti sulla sua superficie, o persino il sacrificio di un Tesoro (di un valore fino a ⦿⦿). I portali per il Dreaming Profondo sono ancora peggio e si aprono solo in una data specifica, richiedono sacrifici di sangue o di chimere senzienti, o una serie di azioni complesse da fare durante l'apertura.  
+
+### Varchi Selvaggi
+
+La società dei Kithain teme i Varchi Selvaggi dato che attirano attenzioni non volute sul loro mondo nascosto. Una volta le fate li usavano per attrarre mortali nei loro domini senza troppi sforzi, ma al giorno d'oggi persone che scompaiono così portano a titoli di giornale e investigazioni pubbliche, che poi attraggono a loro volta Dauntain che sanno dove cercare quando sono in cerca di prede.  
+
+Solo coloro che hanno vista fatata (Kenning) sono in grado di percepire i Varchi Selvaggi. Talvolta questi appaiono come vortici, foreste nascoste, o specchi. Non si può mai sapere dove porta un Varco Selvaggio a causa della loro natura instabile - ogni volta che entra qualcuno i Varchi si ricalibrano (cosa che richiede qualche minuto) per collegarsi a un nuovo trod.  
+
+E' possibile chiudere un Varco Selvaggio Scatenando o Oniromanzia o Pellegrinaggio per chiedere al Dreaming di richiudersi. Questo tuttavia non è sempre permanente, anche se incorporare il Reame di Tempo aiuta, e un modo più estremo per richiudere i Varchi Selvaggi consiste nel creare Banalità nelle vicinanze. Alla fine l'anima fatata soffre tanto quanto il portale, il che porta spesso a ottenere Banalità prima di completare l'obiettivo.  
+
+# Creare trod
+
+Le cronache che usano il Dreaming includono il viaggio per i trod, e questa sezione fornisce ai Narratori delle linee guida per creare queste vie dei sogni.  
+
+## Punto uno: Natura
+
+Determina quali esperienze saranno presenti per il viaggio verso il Dreaming. L'obiettivo è creare una storia dove il viaggio mette a prova i legami della motley, o sono a ricerca di conoscenze perdute e Tesori, o magari devono conquistare un trod che appartiene alle fate oscure?  
+
+## Punto due: Determinare Varco e destinazione
+
+Se si usano Varchi stabili, considera la natura del trod per stabilire cosa serve per far aprire la porta. Inoltre, considera dove si trova: un trod in un cimitero avrà richieste diverse che uno sul fondo di una baia. Varchi in posti colmi di Glamour creato da esperienze positive raramente celano terribili trod da incubo. Questo non significa che non lo possa diventare in seguito ovviamente: sogni piacevoli possono trasformarsi in incubi in un momento. Considera inoltre dove finisce il trod, e come questo influenza la seconda parte del viaggio.  
+
+## Punto tre: Aspetto, controllo, e sfide.
+
+Trod che sono vittima di antiche maledizioni possono avere alberi contorti con cespugli luminosi che ne delineano i sentieri oscuri. Strade che si basano su belle favole antiche che parlano di luce possono apparire come polvere colpita dal sole o dalla luna. I trod esistono in varie forme, da piccoli sentieri di montagna a vasti panorami. Le stagioni e le festività spesso influenzano i trod nel Dreaming Vicino e lasciano traccia sul loro aspetto.  
+
+Chi controlla il trod ne influenza l'aspetto marcatamente. Un sentiero comandato da boggan può avere l'aspetto di una stradina pavimentata con sanpietrini con l'odore aleggiante di tabacco così come di una stradina dalla pavimentazione di sangue rappreso e con l'odore di carne bruciata. Immagina che genere di creature e individui abitano per questa strada e che effetto hanno su di essa.  
+
+Infine determina che genere di ostacoli i viaggiatori dovranno affrontare mentre viaggiano da un luogo a un altro. Questi ostacoli vanno da duelli cavallereschi in trod pieni di onore e gloria controllati da sidhe fino a dover eseguire un'autopsia o vivisezione per la soluzione di un orribile enigma su un trod incubo. Infatti la natura stessa del trod può rappresentare una prova. Considera se la motley avrà bisogno di ali, veicoli chimerici, navi, o simile per attraversare il trod.  
+
+# Le Tre Vie  
+
+I trod sono suddivisi in tre categorie: le Vie Argentee, le Vie di Balor, e le Vie Crepuscolari.  
+
+## La Via Argentea  
+
+I trod della Via Argentea hanno un filo rilucente che li percorre da inizio a fine. Questo è l'effetto visibile di un antico ban che i Tuatha de Danaan hanno lanciato durante la Guerra degli Alberi per proteggere le loro armate e gli alleati dagli scagnozzi dell'Oscurità Antica. I Dark-kin, Thallain, e ogni genere di chimera o bestia toccata dall'oscurità o dalla corruzione dei Fomori non possono usare queste vie senza provare enorme dolore. Gli ogni Dark-kin esenti da questo effetto sono le moire e i keremet, che sono stati neutrali nel conflitto.  
+
+I changeling e gli altri alleati dei Tuatha possono creare un'eccezione al ban e permettere a una creatura toccata dall'oscurità di percorrere la strada per un breve periodo. Questa azione costa un punto Glamour e dura per la lunghezza del viaggio per un singolo trod. Una volta che la chimera o fata oscura lascia la via la protezione svanisce.  
+
+### Effetti del Ban Argenteo  
+
+- Perdi 1 Glamour per turno. Una volta finito il Glamour i livelli di salute si riducono allo stesso modo. La purezza della Via Argentea brucia nelle anime degli incubi.  
+- Spendi un punto di Glamour in più per attaccare individui protetti o soffri di una penalità di -2 dadi in tutte le azioni del combattimento.  
+
+## Via di Balor 
+
+Le Vie di Balor sono antecedenti alle Vie Argentee e sono le vie a senso unico che le fate oscure hanno usato durante la Tessarakonta. Si dividono in tre categorie basate sulla loro fine.  
+
+- Nera: Le vie nere percorrono ogni piano di esistenza, ed è anche possibile entrarci direttamente dal Mondo d'Autunno. Sono usate perlopiù per viaggiare verso le Terre delle Ombre, dimora dei morti. Si dice che i keremet li usano per guidare le anime degli umani il cui corpo è stato rubato dai sidhe.  
+- Verde: Durante la Guerra degli Alberi i Fomori usarono queste vie come strade per i rifornimenti. Collegano quasi esclusivamente il Mondo d'Autunno e il Dreaming Vicino e Lontano, ma alcune eccezioni portano dal Dreaming verso l'Umbra [Otherworld] che è dimora di Prodighi come licantropi e spiriti.  
+- Oro: Le vie d'oro sono le più rare tra le VIe di Balor e esistono solo tra le aree più oscure del Dreaming Profondo. Alcuni Dark-kin credono che portino chi le percorre o dai Fomori, o dai Tuatha de Danaan, o da qualche altro tipo di divinità precedente alla Scissione.  
+
+## Le Vie Crepuscolari
+
+Chiunque può usare le Vie Crepuscolari con impunità. Questi sono percorsi che una volta appartenevano a una fazione o a un'altra della Guerra degli Alberi, ma che da allora sono state ricostruite a causa del danno causato al Dreaming sia dalla Scissione sia dal Frantumo. Perciò Varchi stabili che portano a Vie Crepuscolari sono ben protetti, ma grazie a corruzione e sotterfugi anche fate oscure sono riuscite a usarle per arrivare nel Mondo d'Autunno. La Casata Balor controllala maggior parte dei Varchi Crepuscolari, ma non si sa quali siano le loro intenzioni.  
+
+## Esempi di trod
+
+Usa i tre seguenti esempi come scritti o come punto di partenza per sviluppare dei trod adatti alla tua campagna.  
+
+### La Strada dello squartatore
+
+La Casata di Balor controlla uno dei trod più sinistri della storia di Londra, una Via Crepuscolare nata dalla leggenda di Jack lo Squartatore. Per aprire la sua entrata in West End - che appare come un muro in mattoni in un vicolo - richiede una provetta di sangue umano fresco da spargere sulla sua superficie mentre si recita la prima lettera di Jack alla polizia. Mentre si apre il muro sanguina chimericamente abbondantemente e apre un varco su una via nebbiosa fatta di pietre macchiate di rosso. L'atmosfera è composta dal suono di fischietti della polizia, sussurri della folla, e talvolta delle grida di accusa. L'odore pungente del sangue copre ogni altro odore.  
+
+Chimere incubo intente a sviscerare le loro prede si celano lungo il percorso. Le prove del trod per proseguire il viaggio includono affrontare tre chimere imprigionate: due sono omicide, una è innocente, ma tutte dicono di essere state imprigionate ingiustamente. Aprendo una porta di prigione dopo averle interrogate i viaggiatori o possono continuar il loro percorso o dovranno combattere un nemico potente e brutale nella cella.  
+
+Alla fine del trod sta una fortezza Thallain, dove le fate oscure compiono rituali per rintracciare e liberare i propri padroni.  
+
+## L'autostrada digitale McSwiggan
+
+Verso la fine dell'ultimo decennio Lord McSwiggan, un nobile del Casato Dougal, creò un Varco per connettere il Mondo d'Autunno al Dreaming tramite un'autostrada digitale. Quello che lo rende così notevole è che il Varco stabile è il suo vecchio laptop, il che lo rende un trod portatile. Così come le informazioni digitali si trasferiscono in un batter d'occhio così questa idea rende possibile portare il Varco ovunque si vada.  
+
+I pericoli della via vanno dal dover usare computer per programmare pezzi dove la strada è vuota, al dover affrontare nervosa virus e chimere mostruose nate dal dark web. Alla fine del trod sta un intero freehold pieno zeppo di informazioni che i Kithain sospetti nel Mondo d'Autunno preferirebbero far dimenticare. A causa della natura della fine del trod McSwiggan spende il suo tempo viaggiando per evitare le fate che vorrebbero distruggere lui e il suo Varco. Solo i membri della sua motley sanno come accedere all'autostrada digitale, e convincerli a rivelare questa informazione non è un'impresa semplice.  
+
+### Il sentiero rilucente 
+
+Le leggende tra i Kithain di provenienza marina parlano del Sentiero rilucente. La storia descrive un trod dall'aspetto di un sistema di caverne molto ampio che si connette ad ogni tipo di Vie Argentee che si recano verso roccaforti, laboratori, e persino prigioni.  
+
+Anche se al momento il trod è perso i changeling hanno scoperto degli indizi su dove si possa trovare la caverna principale di questa rete di trod. Tuttavia aprire il Varco è difficile, dato che richiede chi lo vuole aprire di reindirizzare la luce lunare così in profondità nelle acque da colpire un trio di statue che ritraggono nobili fate marine e selkie. In più richiede il sangue vitale di una faa marina. Se tutto venisse esaudito tuttavia si dovrebbe aprire una strada al centro delle tre statue. Sfortunatamente ciò che rimane della rete di trod è un mistero per chiunque lo scopra.
 
 

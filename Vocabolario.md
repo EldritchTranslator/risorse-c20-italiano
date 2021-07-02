@@ -70,8 +70,12 @@ Trigger - Innesco
 Birthright - Diritti di nascita  
 Mists of Forgetfulness - Nebbie dell'Oblio  
 Silver Path - Via Argentea  
+Twilight Road - Via del Crepuscolo  
 Sundering - La Scissione  
 Lost Ones - Perduti  
+Resurgence - Rinascita  
+Elder Dark - Oscurità Antica  
+Gateway - Varco
 
 Banality trigger - tenere in inglese, o parafrasarlo, o semmai 'fattor scatenante'.  
 

@@ -156,7 +156,7 @@
 ## Natura (Nature)  
 (Fenomeni e sostanze naturali)
 - **⦿ Elemento di base**: Elementi inorganici e stazionari.
-- **⦿⦿ Materiale di base**: Materiali organici ma non vivi.
+- **⦿⦿ Materiale grezzo**: Materiali organici ma non vivi.
 - **⦿⦿⦿ Foresta rigogliosa**: Piante vive.
 - **⦿⦿⦿⦿ Animale selvatico**: Animali piccoli e grandi (in caso di mutaforma, si considera la forma originale).
 - **⦿⦿⦿⦿⦿ Fenomeni naturali**: Fenomeni naturali di qualunque genere.
