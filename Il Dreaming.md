@@ -401,7 +401,7 @@ Chimere incubo intente a sviscerare le loro prede si celano lungo il percorso. L
 
 Alla fine del trod sta una fortezza Thallain, dove le fate oscure compiono rituali per rintracciare e liberare i propri padroni.  
 
-## L'autostrada digitale McSwiggan
+### L'autostrada digitale McSwiggan
 
 Verso la fine dell'ultimo decennio Lord McSwiggan, un nobile del Casato Dougal, creò un Varco per connettere il Mondo d'Autunno al Dreaming tramite un'autostrada digitale. Quello che lo rende così notevole è che il Varco stabile è il suo vecchio laptop, il che lo rende un trod portatile. Così come le informazioni digitali si trasferiscono in un batter d'occhio così questa idea rende possibile portare il Varco ovunque si vada.  
 

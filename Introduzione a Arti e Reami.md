@@ -77,7 +77,7 @@
 - **⦿⦿⦿⦿ Impronta runica**: Scrivere una runa con un'azione estesa, rinforzabile con più tiri, che fa aumentare o diminuire gli Attributi del soggetto. Wyrd.
 - **⦿⦿⦿⦿⦿ Ritessitura**: Riscrivere il Vero Nome del soggetto temporaneamente. I successi vanno divisi tra durata e serietà del cambiamento. Wyrd.
 
-## Oneiromanzia (Oneiromancy)  
+## Oniromanzia (Oneiromancy)  
 - **⦿ Passeggiata in sogno**: Creare un ponte per entrare nei sogni del soggetto fisicamente, finché questo e visibile. Wyrd.
 - **⦿⦿ Modellare il sogno**: Dare l'abilità di controllare i sogni del soggetto di _Passeggiata in sogno_, con possibilità di dare effetti positivi o negativi per il giorno seguente. Chimerico.
 - **⦿⦿⦿ Portale dei sogni**: Spostarsi tramite i sogni di qualcuno usando _Passeggiata in sogno_. Wyrd.
