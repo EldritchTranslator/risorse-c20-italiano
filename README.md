@@ -12,11 +12,11 @@
     - [ ] Tradurre lista Legacies
 - [ ] Tradurre Arti e Reami 
     - [x] Scrivere riassunto di Arti e Reami (nota: mancano ancora le Arti Infusione e Narrastorie da C20PC)
-    - [ ] Tradurre parti su Cantrip
-    - [ ] Tradurre parti su Bunk
-    - [ ] Tradurre parti su Scatenamento
+    - [x] Tradurre parti su Cantrip
+    - [x] Tradurre parti su Bunk
+    - [x] Tradurre parti su Scatenamento
 - [ ] Tradurre parti su Glamour e sulle Nebbie
-- [ ] Tradurre parti sul Dreaming
+- [x] Tradurre parti sul Dreaming
 - [ ] Tradurre parti sui Freehold
 - [x] Tradurre sezione su Incubi e Bedlam (C20PC in corso, C20 completa)
 - [ ] Tradurre Kiths 
@@ -25,3 +25,8 @@
 - [ ] Tradurre parti su Giuramenti
 - [ ] Tradurre parti su Ricerche
 - [ ] Tradurre parti sui combattimenti
+- [ ] Scrivere riassunto della storia
+- [ ] Scrivere riassunto sui Prodighi
+- [ ] Tradurre parte sugli Incantati
+- [ ] Tradurre parte sulle fate oscure
+- [ ] Tradurre parte sui Gallain
