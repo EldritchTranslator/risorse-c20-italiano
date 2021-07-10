@@ -56,7 +56,7 @@
 - **⦿⦿⦿⦿ Scultura**: Creare e manipolare del ghiaccio con precisione. Ogni turno produce circa 0,03 m^3 di ghiaccio, ma non richiede di mantenere la concentrazione. Wyrd.
 - **⦿⦿⦿⦿⦿ Stasi**: Preservare inerte un soggetto in ghiaccio. Solo le Arti di Primavera e Piretica possono 'sciogliere' il soggetto prematuramente con un alto numero di successi. Wyrd.
 
-## Ira di drago (Dragon's Ire)
+## Ira del drago (Dragon's Ire)
 - **⦿ Muscolatura bruciante**: Aumentare la prestanza fisica o i danni causati da un soggetto, che sembra essere avvolto da fiamme a chi può vedere effetti chimerici. Chimerico.
 - **⦿⦿ Spire fuorvianti**: Donare al soggetto una sinuosità difensiva, aumentando la difficoltà agli attacchi verso di lui. Le armi di ferro freddo sono immuni all'effetto. Chimerico.
 - **⦿⦿⦿ Scaglie di drago**: Infondere il soggetto con una protezione come di scaglie di drago, facendolo rilucere ed emanare calore chimerico. Aumenta la difficoltà degli attacchi per tutti gli attacchi tranne quelli fatti con ferro freddo. Chimerico.

@@ -33,4 +33,4 @@ Un satiro fa crescere un giardino nel mezzo del suo appartamento per impressiona
 
 Leggende sull'acqua della vita, su pozzi magici o di elisir che guariscono ferite o donano vita eterna appaiono nella maggior parte delle culture nelle varie epoche. Questo cantrip di Primavera non dona nuova gioventù o l'immortalità, ma infonde il soggetto di Glamour che guarisce chiunque sia vicino o in contatto con il cantrip. Il clurichaun che guarda due suoi amici sfidarsi a duello si mette in mezzo e li guarisce entrambi delle loro ferite. Disperata per le vite perse da entrambe le fazioni la cavaliere troll rende la pioggia in grado di guarire le ferite dei feriti sul campo di battaglia. Sperando di aiutare un dottore stanco un pooka lo rende il soggetto di guarigione quando incomincia i suoi giri all'ospedale. Dopo essere caduti in un'imboscata un redcap offre la carne e il sangue del nemico sconfitto per guarire la sua motley.  
 
-Sistema: 
+Sistema:

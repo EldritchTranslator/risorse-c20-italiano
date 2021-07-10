@@ -23,7 +23,7 @@ Traduzione del paragrafo *Lexicon* alla fine del capitolo introduttivo di C20, p
 - Dreaming Lontano, il - Il Dreaming di mezzo tra Profondo e Vicino.
 - Dreaming Profondo, il - Le parti del Dreaming che sono meno collegate alla realtà normale, in cui si trova Arcadia, in qualche coordinata sconosciuta.
 - Dreaming Vicino, il - La porzione di Dreaming più vicina al Mondo dell'Autunno.
-- Epifania, la - Uno dei cinque metodi disponibili ai Kithain per creare o assorbire Glamour. I cinque metodi di Epifania sono: Estasi [Rapture], Saccheggio [Ravaging], Rapsodia [Rhapsody], Baldoria [Revelry], e Fantasticheria [Reverie].
+- Epifania, la - Uno dei cinque metodi disponibili ai Kithain per creare o assorbire Glamour. Le cinque vie per l'Epifania sono: Estasi [Rapture], Saccheggio [Ravaging], Rapsodia [Rhapsody], Baldoria [Revelry], e Fantasticheria [Reverie].
 - Evanescenza, la - L'evento occorso l'11 settembre 2001 (o attorno a tale data) che ha portato a un picco di livelli di Glamour Incubo nel Mondo dell'Autunno e che vi ha permesso l'accesso a molti Thallain.
 - Fata - Forma di vita nativa del Dreaming.
 - Frantumo, il - Quando gli ultimi Sidhe se ne andarono, e gli ultimi trod per Arcadia si chiusero.
