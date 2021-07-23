@@ -26,7 +26,7 @@ Traduzione del paragrafo *Lexicon* alla fine del capitolo introduttivo di C20, p
 - Epifania, la - Uno dei cinque metodi disponibili ai Kithain per creare o assorbire Glamour. Le cinque vie per l'Epifania sono: Estasi [Rapture], Saccheggio [Ravaging], Rapsodia [Rhapsody], Baldoria [Revelry], e Fantasticheria [Reverie].
 - Evanescenza, la - L'evento occorso l'11 settembre 2001 (o attorno a tale data) che ha portato a un picco di livelli di Glamour Incubo nel Mondo dell'Autunno e che vi ha permesso l'accesso a molti Thallain.
 - Fata - Forma di vita nativa del Dreaming.
-- Frantumo, il - Quando gli ultimi Sidhe se ne andarono, e gli ultimi trod per Arcadia si chiusero.
+- Frantumo, il [Shattering]- Quando gli ultimi Sidhe se ne andarono, e gli ultimi trod per Arcadia si chiusero.
 - Freehold, il - Un posto infuso di Glamour, spesso usato come punto di incontro e come dimora dai Changeling.
 - Gallain, i - Tutte le creature del Dreaming che non appartengono ai Kithain, inclusi i Nunnehi nativi americani e le Inanimae elementali.
 - Gente dell'Autunno, la - Mortali che sono talmente Banali che trascinano al loro livello chi li circonda.
@@ -75,7 +75,8 @@ Sundering - La Scissione
 Lost Ones - Perduti  
 Resurgence - Rinascita  
 Elder Dark - Oscurità Antica  
-Gateway - Varco
+Gateway - Varco  
+Accordance War - Guerra di Concordanza
 
 Banality trigger - tenere in inglese, o parafrasarlo, o semmai 'fattor scatenante'.  
 
