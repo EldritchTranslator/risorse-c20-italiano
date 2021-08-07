@@ -130,4 +130,134 @@ Le tue gambe sono ferite o comunque non funzionano a dovere. La difficoltà di t
 
 L'odore delle capre è unico e particolarmente atroce. Sei un sacchettino odoroso vivente aroma capra. Questo Difetto non è unico ai satiri ma è più comune tra di loro- I satiri e i redcap non hanno problemi con il tuo lezzo. Gli altri kith devono essere convinti ad avvicinarti, non importa la situazione. Questo è un ostacolo per le ocasioni romantiche, per titoli, e anche chiacchierate. La difficoltà di tutti i tiri sociali con senso dell'olfatto che non sono satiri o redcap è aumentata di tre.  
 
+# Mentali
 
+## Pregi
+
+### Buonsenso (1 punto)
+
+Hai un buon livello di saggezza pratica e di ogni giorno. Quando ti stai per comportare in modi contrari al buonsenso, lo Storyteller ti può dare indicazioni o suggerimenti riguardo alle implicazioni delle tue azioni. Questo è un Pregio molto utile per nuovi giocatori poco familiari con il gioco.  
+
+### Concentrazioni (1 punto)
+
+I nocker hanno un loro modo speciale di ignorare le distrazioni, ma questo Pregio non è limitato a quel kith. Rimani intoccato da penalità che vengono da distrazioni (come suoni forti, luci lampeggianti, o un troll che ti tiene a testa in giù).  
+
+### Fine superiore (1 punto)
+
+Tutti i changeling hanno una visione del loro percorso, ma tu ci sei specialmente legato. Non ti occupi di faccende di poco conto, perché la tua nobile causa è tutto. Anche se talvolta ti comporti in modo ostico alla tua continuata sopravvivenza il tuo obiettivo ti dona grande forza personale. La difficoltà di ogni tiro che ha qualcosa a che fare con questo alto proposito è diminuita di due. Decidi qual è questo fine, e discutine con lo Storyteller.  
+
+### Introspezione (1 punto)
+
+Mediti spesso sui tuoi motivi ulteriori e li applichi ad altri come te. Grazie a questo esercizio quotidiano la tua incredibile intuizione riduce la difficoltà di due quando tiri Percezione contro qualcuno della tua Corte.  
+
+### Lingue (1 punto)
+
+Conosci un'altra lingua oltre alla tua lingua madre. Puoi prendere questo Pregio più volte per avere più lingue extra.  
+
+### Calcolatore lampo (1 punto) 
+
+Sei un genio dell'aritmetica mentale, il che ti rende un talento naturale nel lavorare con i computer o con le scommesse. La difficoltà di tutti i tiri che li riguardano è diminuita di due.  
+
+### Predisposizione alla meccanica (1 punto)  
+
+Sei un talento naturale con ogni genere di marchingegno meccanico. La difficoltà di ogni tiro per comprendere, riparare, o far funzionare ogni genere di macchinario è diminuita di due. Questo Pregio non ti aiuta a guidare, ma ha effetto sia su macchinari chimerici che mondani.  
+
+### Interesse specifico (1 punto)
+
+Hai una specializzazione in un campo oscuro o di nicchia o un interesse peculiare, e su questa materia tu sei un'enciclopedia. Scegli una sfera di conoscenza rara. In questo campo riduci la difficoltà di tutti i tiri mentali di due. Esempi di questi interessi comprendono una lingua morta, un passatempo specifico di una cultura, conoscenza nei nomi dei demoni antichi, e una conoscenza approfondita della biografia di una celebrità.  
+
+### Memoria eidetica (2 punti)  
+
+Ti ricordi in perfetto dettaglio tutto ciò che vedi e senti. Documenti, fotografie, conversazioni, ecc, possono essere memorizzate con un briciolo di concentrazione. Se tu come giocatore ti dimentichi qualcosa che lo Storyteller crede ti debba ricordare te lo farà presente. In situazioni di stress con numerose distrazioni devi fare un tiro di Percezione + Consapevolezza per concentrarti e assorbire quello che sentono i tuoi sensi.   
+
+### Cuore leale (2 punti)
+
+Anche se tutte le fate sono consce dei legami dei giuramenti, per te sono come di natura religiosa. Quando sei sopraffatto il solo pensiero dei tuoi doveri è abbastanza a darti forza per continuare. Riduci la difficoltà di tutti i tiri che riguardano i tuoi giuramenti di tre. Inoltre la forza del tuo senso del dovere potrebbe essere sufficiente a garantire un'immunità temporanea ad altri effetti sovrannaturali (a discrezione dello Storyteller). Non puoi spendere Volontà per azioni che vanno contro i tuoi giuramenti. Questi effetti non sono cumulativi con gli effetti del Pregio *Vero Amore*, anche se possono essere combinati in roleplay.  
+
+### Linguista naturale (2 punti)
+
+Il changeling cosmopolita sa l'importanza di essere in grado di comprendere molte lingue. Puoi ridurre la difficoltà di ogni azione che riguarda lo studio di lingue parlate o scritte di tre, e ogni volta che compri il Pregio *Lingue* sblocchi due lingue invece che una.  
+
+### Volontà di ferro (3 punti)  
+
+Per chi ti denigra hai la testa di coccio. In realtà la tua determinazione e cocciutaggine ti rendono inamovibile quando ti sei deciso su qualcosa. I lanci per magie che alterano la mente su di te hanno un +3 alle difficoltà, per un massimo di 9. Questo Pregio non ha effetto su poteri che riguardano le emozioni. Personaggi con Volontà inferiore a 5 non possono prendere questo Pregio.  
+
+### Mastro artigiano (3 punti)
+
+La difficoltà dei tuoi tiri mentre progetti, costruisci, o ripari qualcosa è diminuita di due. Inoltre hai bisogno di tre successi in meno per ogni tiro prolungato che fai per lavorare su progetti di larga scala o complessi.  
+
+### Istinto viscerale (4 punti)  
+
+Hai una linea diretta per i tuoi istinti primordiali, e hai l'abilità di agire sena prima dover pensare. Magari non sai sempre perché fai quello che fai, ma una volta che le nebbie si diradano capisci che hai agito nel modo corretto. Questo Pregio annulla gli effetti della sorpresa e ti permette di agire normalmente, anche se ti puoi solo difendere. In caso tu non sia preso di sorpresa puoi agire prima del tuo avversario.  
+
+### Tuttofare (5 punti)  
+
+Hai un'ampia scelta di varie abilità e conoscenze ottenute con lunghi viaggi, i tuoi vari lavori, o un'esperienza generale. Ottieni automaticamente un punto in tutte le riserve di dadi di Abilità e Conoscenza. Questo è un livello illusorio usato per simulare una vasta gamma di abilità. Se spendi esperienza in una nuova Abilità o Conoscenza devi comunque comprare il primo livello.  
+
+### Perché credo in me (6 punti)  
+
+Quando dichiari di star usando un punto Volontà e tiri, la tua autostima ti concede di avere il beneficio di quella spesa senza il costo del punto Volontà. Non perdi il punto a meno che non fallisci il tiro. Questo inoltre ti previene dal fallire criticamente il tiro. Questo Pregio può essere usato solo quando la difficoltà del tiro è 6 o più.  
+
+## Difetti
+
+### Impaziente (1 punto)
+
+L'agire batte sempre il non agire, e starsene lì impalati è una cosa da grump. Una volta per storia se sei costretto ad aspettare invece che agire devi fare un tiro Volontà a difficoltà 5. Fallirlo ti farà insistere ripetutamente per agire, probabilmente irritando la tua motley. Se non seguono il tuo consiglio probabilmente tenderai ad agire anche contro i loro tentativi di trattenerti.  
+
+### Incubi (1 punto)
+
+Ogni volta che ti addormenti hai incubi tremendi, con la tua coscienza che tocca qualche parte proibita del Dreaming. Quando ti svegli sei tormentato da frammenti di ricordi. Al tuo risveglio devi fare un tiro Volontà a difficoltà 7 o aggiungere due alla difficoltà di ogni azione finché non dormi nuovamente. Un fallimento nel tiro Volontà ti fa credere che tu sia ancora intrappolato nell'incubo anche se sveglio.  
+
+### Amnesia (2 punti)
+
+La tua vita è una lavagna bianca. Tuttavia le ombre del tuo passato potrebbero venire a perseguitarti, e lo Storyteller non ha nessun obbligo di avere pietà. Se vuoi puoi prendere fino ad altri cinque punti di Difetti e lasciare allo Storyteller la decisione su come distribuirli. Nel corso della cronaca tu e il tuo personaggio li scoprirete pian piano.  
+
+### Curiosità (2 punti)  
+
+Sei una persona naturalmente curiosa, e la tua curiosità spesso sopraffà il tuo buonsenso. Per resistere alla tentazione tira Volontà. La difficoltà cambia con la tentazione; è difficoltà 5 per cose tipo 'mi chiedo cosa ci sia in quell'armadio', ma difficoltà 9 per cose tipo 'mi chiedo perché giovani uomini scompaiono nella zona del freehold del Barone. Credo andrò ad investigare'.  
+
+### Fobia (2 o 4 punti)
+
+Dalla paura per i pagliacci a quella del buio, c'è una vasta gamma di paure di cui soffrono i Kithain capaci di spaventare anche i più coraggiosi tra loro. A due punti un tiro Volontà fa superare la paura ogni volta che la incontri. la difficoltà del tiro viene determinata dallo Storyteller. Se fallisci il tiro devi ritrarti dall'oggetto. A quattro punti persino la menzione della fobia richiede un tiro Volontà. Anche se passi tutti i tiri di Destrezza per azioni manuali hanno la difficoltà aumentata di due a causa dei tremori incontrollabili che hai fino a che non torni in un luogo sicuro.  
+
+### Miccia corta (2 punti)
+
+Anche la minima provocazione contro di te o i tuoi compagni più cari ti causa di scagliarti con pugni e calci o qualunque cosa ti ritrovi vicino contro l'offensore. Quando vieni aizzato tira Volontà per ricomporti, con la difficoltà decisa dallo Storyteller basata sulla pesantezza dell'insulto.  
+
+### Cuore d'oro (2 punti)
+
+Non sopporti di vedere altre persone che soffrono. Ti opponi ad ogni situazione che comporta causare dolore e te ne vai dalla zona a meno che tu non passi un tiro Volontà.  
+
+### Vendicativo (2 punti)  
+
+Hai un conto aperto con qualcuno. Il pensiero di una dolce vendetta influenza ogni piano che fai, che tu te ne renda conto o meno. Ogni volta che incontri il soggetto della tua vendetta ci sono poche cose che ti possono fermare dall'ottenerla. Puoi resistere all'impulso temporaneamente spendendo un punto Volontà.  
+
+### Mente caotica (2 punti)  
+
+La tua mente è estremamente caotica e imprevedibile, dunque trovi molto difficile concentrarti su una cosa sola. Devi fare un tiro Volontà a difficoltà 4 per ogni lancio per azioni estese oltre il secondo.  
+
+### Testa fra le nuvole (3 punti)
+
+Anche se non è che ti dimentichi Consocenze o Abilità tendi a dimenticarti nomi, indirizzi, e quand'era l'ultima volta che hai preso del Glamour. Per ricordarti qualcosa oltre il tuo nome e dove sta il tuo Freehold devi tirare Prontezza o come ultima spiaggi spendere un punto Volontà. Questo Difetto non può essere comprato con il Pregio *Concentrazione*.  
+
+### Flashback (3 punti)
+
+In situazioni di alta pressione o simili al tuo trauma tendi ad avere dei flashback. Stimoli positivi o negativi possono causare un episodio. Avere una visione piacevole e felice può essere egualmente distraente e pericoloso quanto essere circondati da allucinazioni demoniache. Durante i flashback non sei cosciente di quanto accade attorno a te. Anche chi ti parla verrà visto come entità o oggetti che esistono nella visione. Per te la realtà si è traslata e tu sei tornato di là. Questi flashback devono essere lasciati passare o devono essere cacciati via con la spesa di un punto Volontà.  
+
+### Salvavite (3 punti)
+
+Credi che la vita sia un dono sacro e non la toglierai a nessuno - né lo permetterai ad altri - se non nelle circostanze più estreme. Non hai problemi con l'uccidere animali (se ce n'è ragione), e puoi uccidere creature inumane se necessario a proteggere altri. Morti insensate in ogni forma ti schifano, e credi che chi commette un omicidio debba essere punito. Devi resistere all'impulso di curare le ferite di chiunque sia in tua presenza con un tiro Volontà a difficoltà 7.  
+
+### Pusillanime (3 punti)
+
+Sei altamente suscettibile alla magia che altera le menti, all'ipnosi, e all'intimidazione; la tua difficoltà per resistere a tiri sociali come Intimidazione o Autorità, così come incantesimi mentali, ha un +2. Il tuo punteggio di Volontà non potrà mai essere superiore a 4.  
+
+### Tormentato dal rimorso (4 punti)
+
+Hai commesso qualcosa di così aborrente che ti pesa sulla coscienza tutto il tempo. Che sia omicidio, negligenza, o la distruzione di qualcosa di caro, hai commesso un crimine e non puoi ripararlo. Ogni volta che sei posto in una situazione simile al tuo crimine devi fare un tiro di Volontà a difficoltà 8 per rimanere calmo. Il fallimento rappresenta un breakdown per il resto della scena rendendoti la maggior parte delle azioni impossibili, aumentandone la difficoltà di tre. Anche con un successo il tuo corpo reagisce con nervosismo e la difficoltà di tutti i tiri aumenta di uno mentre cerchi di celare il tuo senso di colpa. Pochi saranno comprensivi se si venisse a sapere del tuo peccato.  
+
+# Sociali
+
+## Pregi
+
+### 
