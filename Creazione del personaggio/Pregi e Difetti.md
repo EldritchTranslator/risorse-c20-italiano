@@ -248,7 +248,7 @@ In situazioni di alta pressione o simili al tuo trauma tendi ad avere dei flashb
 
 Credi che la vita sia un dono sacro e non la toglierai a nessuno - né lo permetterai ad altri - se non nelle circostanze più estreme. Non hai problemi con l'uccidere animali (se ce n'è ragione), e puoi uccidere creature inumane se necessario a proteggere altri. Morti insensate in ogni forma ti schifano, e credi che chi commette un omicidio debba essere punito. Devi resistere all'impulso di curare le ferite di chiunque sia in tua presenza con un tiro Volontà a difficoltà 7.  
 
-### Pusillanime (3 punti)
+### Volontà debole (3 punti)
 
 Sei altamente suscettibile alla magia che altera le menti, all'ipnosi, e all'intimidazione; la tua difficoltà per resistere a tiri sociali come Intimidazione o Autorità, così come incantesimi mentali, ha un +2. Il tuo punteggio di Volontà non potrà mai essere superiore a 4.  
 
@@ -260,4 +260,38 @@ Hai commesso qualcosa di così aborrente che ti pesa sulla coscienza tutto il te
 
 ## Pregi
 
-### 
+### Benevolenza del patrono (1 punto)
+
+Hai l'interesse di un changeling più importante di te. Finché rimane la ragione di questo interesse - che sia l'aspetto, una conoscenza esperta, o la tua posizione in un freehold - hai l'attenzione del changeling e lui ha un interesse marcato nell'averti attorno. Questo Pregio deve essere considerato come un **Mentore ⦿** con un interesse specifico. Tuttavia, a differenza di un Mentore, *Benevolenza del patrono* non indica una relazione permanente.  
+
+### Beneficio (1 - 6 punti)
+
+Hai qualcuno che ti deve qualcosa. Può essere un changeling appena rinato o il conte di un freehold; dipende solo dal punteggio del Pregio. Hai solo quel singolo favore che ti deve (a meno che tu non compri questo Pregio più volte), dunque usarlo bene è della massima importanza. In base allo status e ad altri fattori chi è in tuo debito potrebbe anche cercare di fare del suo meglio a "ripagarti" presto, magari anche arrivando a creare situazioni dove ti deve "salvare", sistemando dunque i conti in sospeso.  
+
+### Presenza calmante (1 punto)
+
+Tra i pooka è comune l'abilità di calmare animali o bambini con una parola o anche solo con uno sguardo. C'è qualcosa nella tua aura che trasmette sicurezza all'animale o al bambino. I cani da guardia o gli animali selvatici non ti attaccheranno mai, e i bambini al tuo cospetto si calmano, guardandoti con fascino e meraviglia.  
+
+### Bravo ascoltatore (1 punto)
+
+I pooka sono eccellenti nell'arte di diventare confidanti, ma tu ne sei un maestro. Una parola qui, un gesto là, fai aprire le persone come ostriche e raccogli i loro segreti come perle. La tua abilità nell'ascoltare li fa rivelare i loro sentimenti, preoccupazioni, e sogni segreti. Non sanno perché te lo stanno dicendo, ma di solito si sentono meglio dopo. Tutti i tiri che riguardano l'ottenere informazioni da altri hanno un -2 alle difficoltà.  
+
+### Ti conosco! (1 punto)
+
+Hai una di quelle facce o un modo di fare che fa presumere gli altri che ti conoscano già. Magari assomigli a qualcuno della loro infanzia, o del loro programma televisivo preferito. Quando ti introduci a degli eventi sociali riesci sempre ad attirare l'attenzione di qualcuno. Non puoi essere rilasciato senza prima subire qualche domanda curiosa.  
+
+### Leader naturale (1 punto)
+
+Hai il dono di un magnetismo naturale a cui tutti istintivamente rispondono. La difficoltà a tutti i tiri per incensare gli animi di un pubblico con le tue parole è ridotta di due. Devi avere un punteggio minimo di 3 in Carisma per ottenere questo Pregio.  
+
+### Protégé (1 punto)  
+
+Una volta un changeling importante ti ha insegnato e ha parlato molto bene di te ai suoi conoscenti. Gli altri potrebbero considerarti meglio grazie a questa raccomandazione: hai un -2 alle difficoltà ai tiri Sociali con coloro che hanno sentito parlare bene di te.  
+
+### Il tuo miglior sostenitore (1 punto)
+
+Sei particolarmente convincente quando gonfi le storie delle tue avventure. Hai un -2 alle difficoltà per i tiri Sociali per raccontare gesta, vere o meno.  
+
+### Figlio della natura (2 punti)
+
+Sei tutt'uno con la natura e gli animali. 

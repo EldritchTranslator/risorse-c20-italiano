@@ -42,7 +42,7 @@ Traduzione del paragrafo *Lexicon* alla fine del capitolo introduttivo di C20, p
 - Lungo Inverno, il - Il tempo profetizzato quando il Glamour sarà eradicato dal mondo.
 - Mien Fatato, il - Il vero aspetto dei Changeling, il modo in cui ci si vede tra creature fatate. In genere i mortali mondani non possono percepire il Mien.
 - Mondo dell'Autunno, il - La realtà mondana come viene vissuta dalle persone normali. Il mondo delle macchine, della televisione, dei lavori d'ufficio, separata dal Dreaming.
-- Motley, la - Un gruppo di Changeling, di solito borghesi.
+- Motley, la - Un gruppo di Changeling, di solito popolani.
 - Nebbie, le - L'effetto che vela la mente dei mortali che assistono al Dreaming e alle magie associate, facendo sì che razionalizzino l'accaduto e lo dimentichino.
 - Nobile - Un Changeling con titolo nobiliare, usualmente Sidhe.
 - Popolano - Un Changeling senza titolo nobiliare.
@@ -76,7 +76,8 @@ Lost Ones - Perduti
 Resurgence - Rinascita  
 Elder Dark - Oscurità Antica  
 Gateway - Varco  
-Accordance War - Guerra di Concordanza
+Accordance War - Guerra di Concordanza  
+Extended rolls - tiri prolungati
 
 Banality trigger - tenere in inglese, o parafrasarlo, o semmai 'fattor scatenante'.  
 
