@@ -58,3 +58,106 @@ Grazie alla loro esperienza i grump di entrambe le corti sono più efficaci nei 
 - **Tempra**: Volontà +1  
 - **Trigger**: I grump rischiano di ottenere  Banalità se non riescono a fornire quello che serve ai loro protetti. La definizione di 'fornire' cambia da changeling a changeling. Grazie alla loro esperienza, i grump possono stare in presenza di persone o in luoghi ricchi di Banalità senza che gli faccia effetto.  
 
+# I Kith
+
+Il kith di un changeling viene dal sogno che incarna, e definisce il suo aspetto e come si connette al Dreaming.  
+
+## Boggan  
+
+I boggan nascono dai sogni di carità, servizio, vendetta, e del focolare domestico. Sono gran lavoratori e alquanto pettegoli. Finiscono naturalmente per gestire case, famiglie, o freehold, che siano i loro o altrui, e anche i boggan Unseelie sono ospiti eccellenti.  
+
+Amano molto il gossip, hanno una grande curiosità innata, e sono talentuosi nel decifrare le relazioni di chi li circonda. Cosa fanno con le informazioni che raccolgono dipende dalla loro Corte.  
+
+I boggan danno molta importanza al buon vivere e all'essere comodi. Grazie al loro talento in cucina spesso lavorano come chef, ma hanno anche lavori di altro genere, spesso manuali.  
+
+**Affinità**: Attore  
+
+### Aspetto  
+
+I boggan sono bassi e morbidi, dall'aspetto accogliente. Hanno capelli e sopracciglia folte e piccoli occhietti vivaci. Le loro mani e la loro pelle sono spesso segnate da anni di lavoro, e sono molto attivi.  
+
+### Baldoria  
+
+Aiutare qualcuno con un lavoro spiacevole e/o tedioso, senza che questa persona mai lo venga a sapere idealmente, ma sicuramente senza farsi pagare.  
+
+### Diritti di nascita
+
+**Manualità**: Quando non sono osservati da non-boggan la loro velocità nel fare lavori manuali è triplicata. I boggan non possono mai fallire criticamente un tiro di Manualità.  
+
+**Dinamiche sociali**: Con un tiro di Percezione + Empatia/Sotterfugio a difficoltà che parte da 5 un boggan può capire le dinamiche sociali di un gruppo.  
+
+### Fragilità
+
+**Voce del bisognoso**: Quando un boggan incontra qualcuno che davvero ha bisogno di aiuto deve tirare Volontà a difficoltà 8 per non aiutarlo in qualche modo. Questa Fragilità non si attiva con i nemici.
+
+## Clurichaun  
+
+I clurichaun sono changeling provenienti dall'Irlanda che condividono il loro background culturale con la leggenda dei leprecauni. Sono cantastorie e intrattenitori con un amore per musica, lotte, e incensare gli animi del pubblico. Il loro modo naturale di catarsi e di rivelare i lati nascosti delle persone sono appunto le zuffe che spesso istigano.  
+
+Hanno inoltre una passione per il collezionismo, e quasi ogni clurichaun colleziona qualcosa. Questo comportamento, così come l'enorme importanza che gli danno, ha creato le basi della leggenda della pentola d'oro. Queste collezioni diventano la base portante delle loro case, dove vengono spesso esposte orgogliosamente, perciò tendono a non portare persone in casa propria per evitare che vengano danneggiate.  
+
+**Affinità**: Attore
+
+### Aspetto  
+
+I clurichaun sono spesso bassetti di statura e solidi di costituzione, con orecchie a punta, capelli rossi e occhi chiari. Spesso si vestono con dettagli in verde nei loro abiti, ma tendono a mantenersi sul pratico. 
+
+### Baldoria  
+
+I clurichaun raccolgono il Glamour nativamente dalla gioia che un collezionista prova nell'ampliare la sua collezione con qualcosa di speciale.
+
+### Diritti di nascita  
+
+**Battito di ciglia**: A meno che il clurichaun non sia fermato con il ferro freddo, se si distoglie lo sguardo è in grado di dileguarsi riapparendo nella stessa area ma al di fuori del campo visivo. Se il changeling è trattenuto da legami o braccia questa abilità costa un punto Glamour.  
+
+**Parole di battaglia**: I clurichaun sanno esattamente che dire per provocare qualcuno a incominciare una lotta (facendo tirare loro un tiro Volontà a difficoltà 8). La lotta non deve necessariamente includere il changeling.
+
+### Fragilità  
+
+**Tesoro**: Spendere tempo con la propria collezione è di vitale importanza per un clurichaun. Passare una settimana lontano dai propri tesori è un trigger di Banalità.
+
+## Eshu
+
+**Affinità**:
+
+### Aspetto
+### Baldoria
+### Diritti di nascita 
+### Fragilità
+
+## Nome
+
+**Affinità**:
+
+### Aspetto
+### Baldoria
+### Diritti di nascita 
+### Fragilità
+
+
+Nocker
+Piskie
+Pooka
+Redcap
+Satiro
+Selkie
+Sidhe Arcadiano
+Sidhe d'Autunno
+Sluagh 
+Troll
+
+---
+
+Ghille Dhu
+Korred
+Marino
+Morganed
+Oba
+Strega di fiume
+Wichtel
+Wolpertinger
+
+---
+
+Amante cigno
+
