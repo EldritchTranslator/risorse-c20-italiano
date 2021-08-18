@@ -290,8 +290,139 @@ Una volta un changeling importante ti ha insegnato e ha parlato molto bene di te
 
 ### Il tuo miglior sostenitore (1 punto)
 
-Sei particolarmente convincente quando gonfi le storie delle tue avventure. Hai un -2 alle difficoltà per i tiri Sociali per raccontare gesta, vere o meno.  
+Sei particolarmente convincente quando gonfi le storie delle tue avventure. Hai un -2 alle difficoltà per i tiri Sociali per raccontare le tue gesta, vere o meno.  
 
 ### Figlio della natura (2 punti)
 
-Sei tutt'uno con la natura e gli animali. 
+Sei tutt'uno con la natura e gli animali. Hai un -2 alla difficoltà per interagire con animali non-sapienti nel loro habitat naturale, che sia per addestrarli, trovarli, o anche solo accarezzarli. Si deve però fare attenzione ad applicare questo Pregio con le chimere - alcune sono più intelligenti di quanto appaiano.  
+
+### Reputazione (2 punti)
+
+Hai una buona reputazione tra i changeling della tua Corte. Questo può essere per la tua reputazione o quella del tuo mentore. Riduci la difficoltà di tutti i tiri sociali verso altri della tua Corte di due, ma chiunque voglia rovinare la gerarchia vorrà rovinare questa tua reputazione.  
+
+### Studente degli altri (2 punti)
+
+Ti sei preso il tempo per studiare un gruppo al di fuori del tuo kith e della tua Corte. Sei a conoscenza di almeno qualche loro tradizione, strategia, e obiettivo a lungo termine, e sai come usare questa conoscenza. Questo Pregio dà -2 alle difficoltà per tutti i tiri fuori combattimento che coinvolgono principalmente la tua specializzazione. Tuttavia hai un +1 alla difficoltà per gli altri gruppi a causa della tua concentrazione verso questo gruppo nello specifico. Questo Pregio può essere preso più volte per più gruppi.  
+
+### Voce da usignolo (2 punti)  
+
+I satiri dicono che la tua voce possa incantare le mele a cadere dall'albero. Hai l'orecchio assoluto e puoi cantare a cappella senza perdere note o stonare. Anche quando parli solo la tua voce ha  una qualità seduttiva che attrae chi ti ascolta. Hai un -2 alle difficoltà per tiri che coinvolgono discorsi d'ispirazione o cantare.  
+
+### Saggio (2 punti)
+
+Gli altri changeling vengono a te per cercare consiglio. Magari credono nella tua saggezza, età, o esperienza. Magari pensano che tu sia dotato o in grado di giudicare meglio una situazione. Questa fiducia significa che in generale la tua opinione venga chiesta per prima nelle discussioni, e puoi sfruttare questa opportunità per dare saggi consigli o per portare avanti i tuoi piani.  
+
+### Erede al trono (3 punti)
+
+Sei nella posizione di reclamare o la proprietà o un titolo su persone, territori, o inventario. Questo rango ti permette di influenzare i tuoi pari e sottoposti con facilità, e quando invochi il tuo titolo la difficoltà nei tiri Sociali è diminuita di due. I nobili ti trattano probabilmente con rispetto e la maggio parte degli altri changeling si rimettono al tuo giudizio. Dei contingenti però, probabilmente formati da eredi rivali, ti vedranno come un obiettivo succulento per assassinio o rapimento.  
+
+### Fingere (3 punti)  
+
+Parli in modo convincente. Talvolta sei convincente abbastanza da avere ragione. Magari dichiari di poter 'fare quel salto' o di poter 'prendere un punteggio perfetto in quella verifica' o di 'colpire il bersaglio'. Potresti essere criminalmente fortunato o possedere talenti nascosti. Quando menti con successo nelle tua abilità in una determinata azione con un tiro di Sotterfugio + Manipolazione e cerchi di provarla, la difficoltà del tiro per avere successo in questa ambizione è diminuita di due.  
+
+### Astro nascente (3 punti)
+
+Sei uno dei nuovi talenti del freehold. Tutti ti vogliono conoscere ed essere tuo amico, e i tuoi superiori ti coltivano per mantenere posizioni con sempre più responsabilità. Hai -3 a tutti i tiri Sociali verso changeling che non si stanno opponendo alla tua ascesa.  
+
+### Anima della musa (4 punti)
+
+Sei un'ispirazione per artisti di ogni tipo. Che tu abbia un dono per l'arte o meno, altri artisti trovano che è assai più semplice creare capolavori quando sei nei dintorni. Se sei in presenza di un artista, che tu stia facendo da modello, o dando consiglio, o cantando una canzone, la sua difficoltà per produrre quell'opera è diminuita di tre. Questo stimolo creativo si applica per lavori di meraviglia così come quelli di distruzione - tu ispiri tutti.  
+
+### Compagno fedele (4 punti)
+
+Hai la reputazione di essere degno di fiducia, poderoso e indefesso nella dedizione verso i tuoi compagni. La tua sola presenza in una motley o in una cerchia rafforza la Volontà dei tuoi compagni, donandogli un punto extra di Volontà temporanea per capitolo. Tutti si aspetteranno che rischierai la tua vita per loro, come farebbe solo un compagno fedele. Se ti dovessi mai lamentare della situazione il bonus di Volontà sparisce fino a quando rischi la reputazione o danni fisici per i tuoi amici.
+
+## Difetti
+
+### Segreto oscuro (1 punto)
+
+Hai un segreto che se scoperto ti metterebbe in incredibile imbarazzo e ti renderebbe un paria tra i tuoi pari. Questo può essere di tutto dall'aver ucciso un nobile dall'essere un membro segreto della Corte Ombra. Anche se questo segreto ti pesa costantemente sull'animo verrà a galla solo saltuariamente, altrimenti incomincia a perdere effetto.  
+
+### Nemico (1-5 punti)
+
+Hai un nemico, o forse un gruppo, che ti vogliono fare del male. Il punteggio del Difetto determina quanto sono forti suddetti nemici. I più potenti (re o orrori impossibili dalle profondità del Dreaming) sarebbero Difetti da 5, mentre qualcuno di vicino al tuo livello di potere sarebbe solo un punto. Devi decidere tu chi è il tuo nemico e come hai guadagnato questa inimicizia.  
+
+### Insubordinato (1 punto)
+
+Niente ti irrita quanto seguire gli ordini di capi che non rispetti. Quando una persona del genere ti chiede o comanda di fare qualcosa, tira un tiro VOlontà a difficoltà 5. Fallendo questo tiro agirai contro quella decisione.  
+
+### Intolleranza (2 punti)
+
+Hai un disgusto irragionevole verso qualcosa. Può essere un genere di persona, una situazione, o qualunque altra cosa. Le difficoltà di tutti i tiri che coinvolgono questo soggetto - come un conflitto, dover gestire dei popolani, o dover mangiare con un certo kith - sono aumentate di due. Certi gusti possono essere troppo irrisori per questo Difetto. Lo Storyteller ha la decisione finale su cosa puoi scegliere.  
+
+### Scurrile (2 punti)
+
+La maggior parte della gente impreca, ma tu metti in imbarazzo i nocker. Dalla tua bocca fuoriesce un'inondazione di oscenità. Gli altri sanno quando fermarsi, ma tu no. Questo Difetto ti preclude di mantenere un lavoro rispettabile in ogni genere di società umana e aumenta di due la difficoltà dei tiri Sociali dove è necessaria la cortesia.  
+
+### Geloso (2 punti)
+
+Sei ossessionato dai tuoi possedimenti e li custodisci gelosamente. Quando gli altri cercano di usare il tuo equipaggiamento, che sia la tua macchina, la tua spada, i tuoi vestiti, o il tuo letto, devi fare un tiro Volontà a difficoltà 7. Con un fallimento ti rifiuti categoricamente di far toccare le tue cose agli altri. Con un fallimento critico reagisci immediatamente con violenza contro chi tocca qualcosa che ti appartiene.  
+
+### Mammoletta (1 punti)
+
+Sei una mammoletta che è a suo agio solo con i tuoi amici più intimi. A contatto con gli altri sei costantemente cosciente delle differenze tra voi e ti agiti. Questo si manifesta con goffaggine (la paura di rompere cose e persone), difficoltà di parlare in situazioni sociali (sei solo in grado di dire le cose come stanno), ecc. Questo Difetto aggiunge due a tutte le difficoltà ai tiri Sociali quando non sei tra il tuo kith o la tua motley.  
+
+### Nobile caduto (3 punti)
+
+Un tempo avevi il potere assoluto in un freehold, ma quel tempo è passato. Magari ti sei deposto, o la tua città è caduta nelle mani di una Corte nemica; non importa. Quello che importa al momento è che il tuo rimpiazzo sa della tua vecchia posizione, ed è preoccupato che tu possa cercare di riottenerla. Se il nuovo regnante avrà una possibilità di disfarsi di te, potrebbe accettarla.  
+
+### Bersaglio di reclutamento (3 punti)
+
+Un'organizzazione nemica ti desidera tra i suoi ranghi, e tanto. Non risparmiano nessuno sforzo per reclutarti, volente o nolente, e i coscrittori si presentano sempre al momento meno opportuno. Per ogni amico che ti difenderà, ce ne sarà sempre un altro che si chiede che c'è di così speciale in te che attira questo gruppo a te.  
+
+### Dormire con il nemico (3 punti)
+
+Hai una qualche relazione con un membro di una fazione che la tua ha motivo di disprezzare. può essere un amante, un amico, o un contatto che gioca per l'altra squadra, ma in barba alla politica tu mantieni sempre una relazione amichevole (o più che amichevole) con questo tuo nemico nominale. I tuoi superiori riterrebbero questa relazione come alto tradimento, e la punizione se venissi scoperto sarebbe pesante.  
+
+### Protetto (3 punti)
+
+Sei devoto alla protezione di un mortale o Kinain. Questo personaggio può essere un amico o un parente dai tuoi giorni pre-Crisalide. I protetti tendono ad essere coinvolti nei guai e sono spesso causa di situazioni pericolose. Descrivi il tuo protetto allo Storyteller prima dell'inizio della cronaca.  
+
+### Incerto (3 punto)  
+
+Quando ti viene offerta un'opportunità sai che devi agire in fretta prima che ti sfugga. Purtroppo non sembra che tu riesca a deciderti in tempo: ti ci vuole un po' per valutare tutte le tue opzioni, esaminare i pro e i contro, e fare la scelta migliore. Devi fare un tiro Volontà ogni volta che devi prendere una decisione, altrimenti rimani indeciso.  
+
+### Cacciato (4-5 punti)
+
+Un fanatico cacciatore di mostri crede - forse a ragione - che tu sia l'anatema dell'umanità, e ti sta dando la caccia. Tutti coloro con cui ti associ, che siano mortali o Kithain, possono entrare nel mirino. A quattro punti il cacciatore è mortale, mentre a cinque il cacciatore è un tipo diverso di mostro, come un vampiro o un licantropo.  
+
+### Libertà vigilata (4 punti)
+
+Hai disertato da una fazione nemica, e hai ancora tanto da dimostrare prima che il gruppo a cui vuoi unirti ti accetti. Gli altri changeling ti trattano con sfiducia e persino ostilità, e la tua reputazione tocca anche coloro che ti circondano.  
+
+# Sovrannaturali  
+
+## Pregi
+
+### Eternità Fatata (1 punto)
+### Vero Amore (1 punto)
+### Senso del pericolo (2 punti)
+### Medium (2 punti)
+### Cuore poetico (2 punti)
+### Favore animale (3-5 punti)
+### Fortunato (3 punti)
+### Sangue di lupo (4 punti)
+### Resistenza al ferro (4 punti)
+### Alato (4 punti)
+### Affinità di Arte (5 punti)
+### Leggenda vivente (5 punti)
+### Rigenerazione (7 punti)  
+
+## Difetti
+
+### Lingua di bardo (1 punto)
+### Occhi di changeling (1 punto)
+### Maledetto (1-5 punti)
+### Geas (1-5 punti)
+### Giurato (1-5 punti)
+### Seeming apparente (1-5 punti)
+### Qualità bizzarra (2 punti)
+### Echi (2-5 punti)
+### Alato (2 punti)
+### Nebbie disperse (3 punti)
+### Infestato (3 punti)
+### Allergia al ferro (3-5 punti)
+### Magnete chimerico (5 punti)
+### Destino cupo (5 punti)
+### Vampiro psichico (5 punti)
+### Maledizione dei sidhe (5 punti)

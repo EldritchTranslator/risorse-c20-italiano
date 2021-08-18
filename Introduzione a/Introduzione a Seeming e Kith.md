@@ -118,6 +118,62 @@ I clurichaun raccolgono il Glamour nativamente dalla gioia che un collezionista 
 
 ## Eshu
 
+Gli eshu vengono dai sogni delle popolazioni nomadi mediorientali, e prendono il nome da uno spirito Yoruba. Sono changeling intelligenti e dall'istinto innato di viaggiare. Sono narratori orali che non si lasciano sfuggire nessun tipo di storia. Anche se ascoltano volentieri le storie altrui, tendono ad essere molto privati sui rituali e le conoscenze proprie del kith.  
+
+Gli eshu sono nomadici e raramente stanno a lungo in un posto solo, il che li rende un kith misterioso e difficile da farsi amico. Nei loro spostamenti seguono spesso il filo di una storia che hanno scoperto fino al suo svolgimento. Questo li rende un kith attivo anche nella politica del Mondo d'Autunno, specialmente gli eshu wilder.  
+
+Gli eshu vivono dove gli è più comodo per viaggiare, e sono raramente legati a un solo posto chiamato 'casa', preferendo invece cambiare e vivere di ciò che hanno sulle spalle.  
+
+**Affinità**: Scena
+
+### Aspetto  
+
+Secoli di migrazioni e pellegrinaggi danno agli eshu la possibilità di poter sembrare di qualunque retaggio culturale, ma rimangono spesso legati alle loro origini mediorientali e asiatiche con pelle e capelli scuri. Hanno un aspetto longilineo e aggraziato, e si vestono con gran cura, scegliendo di seguire le mode del posto dove stanno al momento.  
+
+### Baldoria
+
+Gli eshu raccolgono naturalmente Glamour presenziando e partecipando a proteste e discorsi pubblici, specialmente quelle che hanno aiutato ad organizzare.
+
+### Diritti di nascita 
+
+**Serendipità**: Gli eshu arrivano al posto giusto al momento giusto. A un bivio sanno che strada prendere, e normalmente non si possono mai perdere. Nel caso questo succeda per motivi magici si può spendere un punto Glamour per riportare l'eshu sulla retta via.  
+
+**Forgiastorie**: Gli eshu guadagnano un punto esperienza extra quando partecipano a un'avventura che può far nascere una storia. Gli eshu non possono fallire criticamente tiri di Espressività o Empatia.  
+
+### Fragilità  
+
+**Imprudenza**: Gli eshu non possono resistere a una scommessa o una sfida, e farlo è un trigger di Banalità per gli eshu.
+
+## Nocker 
+
+I nocker sono, essenzialmente, l'incarnazione del sogno dell'inventore. Amano circondarsi di invenzioni e meraviglie più che di persone, e si contraddistinguono con la loro lingua tagliente e parole caustiche. Questi changeling sono a una costante ricerca di una perfezione nelle loro opere che non arriverà mai, giorno dopo giorno.  
+
+Loro trovano trattare con le persone assai più difficile che costruire un qualche marchingegno, ma nel loro cuore sono creature romantiche. Purtroppo trattano la gente come dei macchinari, da sistemare finché non sono 'a posto'.  
+
+**Affinità**: Prop
+
+### Aspetto
+
+I nocker hanno pelle rossastra in tutto il corpo tranne che in viso, che è bianco cadaverico a parte il naso e le guance rosse. Spesso si dipingono motivi spiraleggianti su guance e occhi. Spesso hanno capelli bianchi e cespugliosi come le loro sopracciglia. Se nei loro laboratori si vestono con solidi abiti da lavoro, a corte sono secondi solo ai sidhe per eleganza e senso della moda.
+
+### Baldoria
+
+Un nocker guadagna Glamour quando si mette a riparare oggetti mondani che non le appartengono, oppure quando lavora con altri inventori su qualche progetto innovativo.
+
+### Diritti di nascita  
+
+**Fallo funzionare**: Un nocker è in grado di creare oggetti chimerici semplici e temporanei ma utili con qualunque cosa abbiano disponibile. Per creare con successo un oggetto bisogna tirare Intelligenza + Manualità a difficoltà variabile per i materiali usati. Quando si attiva questo Diritto possono essere presenti solo Kithain, a patto che questi ultimi non disturbino il nocker.  
+
+**Aggiustatutto**: I nocker sono in grado di aggiustare di tutto, che sia chimerico o mondano. Si possono fare due tipi di tiri: Intelligenza + Manualità per aggiustare l'oggetto in modo più tradizionale o Manipolazione + Intimidazione se si vuole far funzionare l'oggetto con un paio di schiaffi e un calcio. La difficoltà base è 5.
+
+### Fragilità  
+
+**La perfezione è nemica del completamento**: Un oggetto creato o riparato da un nocker inevitabilmente ha una qualche piccola ma irreparabile imperfezione. Se usato in situazioni di stress, lo Storyteller può chiedere il tiro di un dado - con un 1, l'oggetto esplode.
+
+## Piskie  
+
+I piskie sono un kith nato dal sogno di anonimia, e sono i messaggeri e i cercatori tra le fate. Talvolta fungono anche da spie. Sono caratterizzati dal fatto di appartenere a qualsiasi gruppo a cui si uniscano, e preferiscono la compagnia di mortali o altri kith.
+
 **Affinità**:
 
 ### Aspetto
@@ -134,8 +190,6 @@ I clurichaun raccolgono il Glamour nativamente dalla gioia che un collezionista 
 ### Diritti di nascita 
 ### Fragilità
 
-
-Nocker
 Piskie
 Pooka
 Redcap
