@@ -390,16 +390,56 @@ Hai disertato da una fazione nemica, e hai ancora tanto da dimostrare prima che 
 ## Pregi
 
 ### Eternità Fatata (1 punto)  
+
+Dopo aver fatto la Crisalide, hai avuto un compleanno dopo l'altro. Tuttavia stranamente non stai crescendo, e non invecchi. Sei stato toccato da un'ombra dell'immortalità che un tempo era il diritto natale di tutti i fatati. Finché il tuo seeming fatato è attivo invecchi dieci volte più lentamente di umani o changeling normali. Se il tuo seeming fatato viene distrutto o se ti ritiri nella Banalità ricominci a invecchiare normalmente.  
+
 ### Vero Amore (1 punto)  
+
+Hai scoperto e possibilmente anche perso il vero amore, che ti ha donato gioia vera anche se dolorosa. Quando soffri, sei in pericolo, o ti senti abbattuto, il solo pensiero del tuo vero amore è abbastanza a darti la forza di continuare. In termini di gioco questo amore ti concede di riuscire automaticamente a ogni tiro di Volontà finché stai attivamente proteggendo o cerchi di avvicinarti al tuo vero amore. Inoltre il potere del tuo amore potrebbe persino essere potente abbastanza da proteggerti da altre forze sovrannaturali (a discrezione dello Storyteller). Tuttavia, il tuo vero amore può anche essere un ostacolo e richiedere aiuto di tanto in tanto.   
+
 ### Cuore poetico (2 punti)  
+
+Hai una vera anima ispirata in te, con il tuo Glamour che repelle lo scempio della Banalità. Puoi tirare una volta per storia un tiro Volontà a difficoltà pari alla tua Banalità per evitare di ottenere un punto di Banalità temporaneo.  
+
 ### Medium (2 punti)  
+
+Hai l'affinità naturale per percepire e sentire i fantasmi. Anche se non li puoi vedere li puoi sentire, parlarci, e, tramite preghiere e convinzione avvicinarli a te. Puoi richiamarli per aiuti o consigli, ma ci sarà sempre un prezzo. La difficoltà di tutti i tiri che coinvolgono gli spiriti dei morti è diminuita di due.  
+
 ### Senso del pericolo (2 punti)  
+
+Hai un sesto senso che ti allerta del pericolo. Quando sei in pericolo lo Storyteller lancia un tiro di Percezione + Consapevolezza (con difficoltà che dipende dalla distanza del pericolo). Se il lancio ha successi lo Storyteller dirà che hai un certo presentimento. Successi multipli potrebbero dare più dettagli alla sensazione, dandoti direzione, distanza, o natura del pericolo.  
+
 ### Favore animale (3-5 punti)  
+
+Il tuo mien ha una caratteristica animale della tabella qui sotto. Quando hai una caratteristica che ti dona un attacco speciale usa la riserva di dadi standard.  
+
+| Caratteristica animale | Costo | Effetto                                                                                                                                                                               |
+|:-----------------------|:------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Visione 360°           | 3     | Difficoltà -2 quando cerchi qualcuno o qualcosa                                                                                                                                       |
+| Pelle dura             | 3     | -1 alle difficoltà per assorbire danni                                                                                                                                                |
+| Coda frusta            | 3     | Arma naturale con portata, 2 danni contundenti                                                                                                                                        |
+| Gambe extra            | 4     | Quasi impossibile da far inciampare, corri al doppio della velocità normale.                                                                                                          |
+| Dita da mosca          | 4     | Le dita hanno sui polpastrelli dei piccoli uncini duri capaci di supportare il tuo peso. Puoi scalare mura lisce e camminare sui soffitti se la superficie può supportare il tuo peso |
+| Pungiglione            | 4     | Arma naturale. 1 danno letale. Paralizza gli avversari per un turno a meno che non passino un tiro di Costituzione a difficoltà 4                                                     |
+| Morso velenoso         | 5     | Arma naturale. 3 danni letali. 1 danno letale assorbibile ogni turno per le 6 ore seguenti                                                                                            |  
+
 ### Fortunato (3 punti)  
+
+Sei nato fortunato, o è il diavolo a prendersi cura di uno dei suoi. Comunque puoi ripetere tre tiri falliti anche criticamente per storia, ma solo una volta per tiro fallito.  
+
 ### Alato (4 punti)  
 ### Resistenza al ferro (4 punti)  
+
+Il ferro freddo non ha un effetto fisico su di te, anche se contatto continuo comunque ti fa soffrire di Banalità. Questa è una lama a doppio taglio dato che potresti non accorgerti di star sedendo su una panchina di ferro freddo o di essere appoggiato a una ringhiera del metallo maledetto. Un tiro di Percezione + Kenning a difficoltà 7 è necessario per evitare l'esposizione al pericoloso elemento.  
+
 ### Sangue di lupo (4 punti)  
+
+La tua connessione ai Prodighi mutaforma è più forte degli altro. Hai il sangue di licantropo nelle tue vene, e alcuni di loro ti chiamano consanguineo. Il clan di cui fai parte potrebbe chiederti di eseguire delle missioni per loro, e in cambio ti aiuteranno quando necessario. Potresti avere l'aspettativa di sposarti un licantropo per rinforzare la linea di sangue.  
+
 ### Affinità di Arte (5 punti)  
+
+
+
 ### Leggenda vivente (5 punti)  
 ### Rigenerazione (7 punti)   
 
@@ -417,7 +457,7 @@ Hai disertato da una fazione nemica, e hai ancora tanto da dimostrare prima che 
 ### Allergia al ferro (3-5 punti)  
 ### Infestato (3 punti)  
 ### Nebbie disperse (3 punti)  
-### Destino cupo (5 punti)  
+### Destino segnato (5 punti)  
 ### Magnete chimerico (5 punti)  
 ### Maledizione dei sidhe (5 punti)  
 ### Vampiro psichico (5 punti)  
