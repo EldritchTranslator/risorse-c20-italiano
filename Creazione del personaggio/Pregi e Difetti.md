@@ -428,6 +428,9 @@ Il tuo mien ha una caratteristica animale della tabella qui sotto. Quando hai un
 Sei nato fortunato, o è il diavolo a prendersi cura di uno dei suoi. Comunque puoi ripetere tre tiri falliti anche criticamente per storia, ma solo una volta per tiro fallito.  
 
 ### Alato (4 punti)  
+
+Hai delle belle ali, che siano le ali piumate di un uccello, ali da pipistrello, o colorate ali da farfalla. Sono chimeriche ma devono essere libere per non incorrere in un malus ai tiri di Destrezza di uno. Potresti dover spiegare perché hai dei tagli sulla schiena di tutte le tue maglie. Puoi volare per brevi periodi di tempo. Queste contano come chimere inanimate.
+
 ### Resistenza al ferro (4 punti)  
 
 Il ferro freddo non ha un effetto fisico su di te, anche se contatto continuo comunque ti fa soffrire di Banalità. Questa è una lama a doppio taglio dato che potresti non accorgerti di star sedendo su una panchina di ferro freddo o di essere appoggiato a una ringhiera del metallo maledetto. Un tiro di Percezione + Kenning a difficoltà 7 è necessario per evitare l'esposizione al pericoloso elemento.  
@@ -438,26 +441,93 @@ La tua connessione ai Prodighi mutaforma è più forte degli altro. Hai il sangu
 
 ### Affinità di Arte (5 punti)  
 
-
+Sei in grado di usare una delle Arti più facilmente degli altri changeling. In una precedente incarnazione eri estremamente abile in una delle Arti al punto di portare con te un po' di quella conoscenza in questa vita. Scegli un'Arte; la difficoltà di usare quest'Arte è sempre ridotta di due. Questo Pregio può essere comprato solo una volta.
 
 ### Leggenda vivente (5 punti)  
+
+Sei l'incarnazione vivente di un grande eroe o eroina; non dev'essere necessariamente un personaggio storico, ma può essere qualcuno di mitologico o persino dalla fiction contemporanea. Nota che sei un'incarnazione, non una reincarnazione. Sei la personificazione di una certa leggenda. Il tuo mien fatato corrisponde perfettamente all'aspetto del personaggio. Qualunque Kithain che conosca anche solo un po' la storia originale ti riconoscerà immediatamente, e probabilmente attirerai molta attenzione in quelle culture dov'è nata la tua leggenda. Quando qualcuno ti riconosce la difficoltà ai tuoi tiri sociali è diminuita di due. Hai accesso a uno dei punteggi di Attributo o Abilità una volta per capitolo. A discrezione dello Storyteller questo Pregio potrebbe anche darti conoscenza o perfino accesso a certe chimere o Tesori collegati alla tua leggenda. Il tuo aspetto e le tue memorie potrebbero renderti difficile passare inosservato nella società normale. Potrebbe anche essere molto difficile soddisfare le aspettative che gli altri avranno per te.
+
 ### Rigenerazione (7 punti)   
+
+La tua natura fatata è resistente e dunque guarisci molto più in fretta degli altri Kithain. Per ogni turno che spendi riposando recuperi un livello salute chimerico. I danni fisici guariscono un livello all'ora. Quando sei in un freehold la velocità di guarigione è raddoppiata. Questo Pregio non guarisce ferite da ferro freddo.
 
 ## Difetti
 
 ### Geas (1-5 punti)  
+
+Sei vittima di un geas dall'inizio della storia, probabilmente un Ban, oppure una missione a lungo termine. Questo geas può essere una maledizione di famiglia o un dovere che hai ereditato, o ti è stato imposto dall'Arte di un changeling. La difficoltà del geas determina quanti punti vale il Difetto. Qualcosa di piccolo come un Ban che ti preclude di fare del male agli animali varrebbe solo un punto. Geas più difficili valgono più punti. Un geas da cinque è qualcosa che determina la tua intera vita, come un dovere di aiutare chiunque ne abbia bisogno che incontri. Lo Sotryteller decide il valore esatto del geas scelto.  
+
 ### Giurato (1-5 punti)  
-### Lingua di bardo (1 punto)   
+
+La tua vita dipende da qualcosa che devi o non devi fare. Potrebbe essere qualcosa che ti è stato fatto promettere o un tuo voto sacro. C'è qualcuno che è testimone di questo tuo voto e vedrà che tu mantenga la promessa. Se disobbedisci le conseguenze saranno funeste. Puoi avere più di un giuramento, e questi possono essere per cose contrarie. La maggior parte dei changeling tengono nascosti questi loro obblighi e proibizioni per evitare che altri li usino come armi contro di loro.  
+
+Gli Storyteller devono esaminare ciascun giuramento per assegnargli un punteggio, così come la punizione per averlo violato. Circostanze facilmente evitabili come "mai condividere un pasto con un rosso di capelli" vale un punto, mentre cose più comuni o difficili come "fermati ad accarezzare tutti i gatti che vedi" valgono due punti, e circostanze drastiche o pericolose come "non dire mai di no a una lotta" valgono tre punti o più.  
+
+Anche le conseguenze valgono punti. Fallire criticamente automaticamente il prossimo cantrip che lanci vale un punto, essere sfortunato per il resto della tua vita vale due, perdere tutti gli amici e possedimenti vale tre, morire vale quattro, e far svanire la tua anima fatata vale cinque.  
+
+Se spezzi il giuramento per sbaglio puoi provare a fare ammenda per il tuo crimine sistemando qualunque cosa tu abbia fatto di male. Se invece vai contro un giuramento volontariamente e coscientemente e sopravvivi diventerai uno dei peggiori reietti della società fatata, un violatore di giuramenti.
+
+### Lingua di bardo (1 punto) 
+
+Dici la verità in modo quasi inquietante. Ciò che dici tende ad avverarsi. Questa non è un'abilità per benedire o maledire, o qualcosa che può essere comandato volontariamente. Almeno una volta per storia una scomoda verità riguardante la situazione corrente ti apparirà in mente e la dirai. Per evitare di profetizzare devi spendere un punto Volontà e prendere un danno contundente per la fatica di resistere.  
+  
 ### Maledetto (1-5 punti)   
+
+Sei l'obiettivo di una qualche antica maledizione. La forza e la complessità della maledizione dipende dalla quantità di punti che vuoi comprare.  
+Esempi: Se riveli un segreto che ti era stato affidato il tuo tradimento tornerà a tormentarti in qualche modo (1 punto). Balbetti incontrollabilmente quando descrivi qualcosa che hai sentito o visto (2 punti). Gli strumenti che usi si rompono o malfunzionano (3 punti). Sei destinato a inimicarti chi più ami e ammiri (4 punti). Ognuno dei tuoi trionfi verrà in qualche modo rovinato o ultimamente fallirà (5 punti).
+
 ### Occhi di changeling (1 punto)  
+
+I tuoi occhi sono di un colore sorprendente,magari smeraldini, violetti, o gialli. Questo è un segno che tu sei un changeling, che chi conosce le vecchie storie saprà riconoscere.  
+
 ### Seeming apparente (1-5 punti)  
+
+Il tuo seeming fatato appare nel tuo seeming mortale e ti rende ovvio ai mortali che sanno a che prestare attenzione. Un Difetto da un punto sarebbe un colorito bluastro alla pelle per un troll, e uno da cinque sarebbero le corna di un satiro. Questo potrebbe renderti difficile spiegare queste stranezze ai mortali.  
+
 ### Alato (2 punti)  
+
+Come per il pregio, hai delle ali, ma tendono ad essere più brutte e non puoi volare.  
+
 ### Echi (2-5 punti)  
+
+Hai una forte connessione con il Dreaming, perciò sei più suscettibile alle storie tradizionali di ciò che ha un effetto sulle fate. Anche se Echi è comprato come un Difetto spesso ha anche effetti positivi. I punti ottenuti con questo Difetto simboleggiano il livello del tuo legame con il Dreaming e persino Arcadia. Gli effetti del Difetto sono cumulativi, chi ha il Difetto a livello cinque soffre degli effetti anche dei livelli precedenti.  
+
+Minore: Il sale lanciato dietro le spalle per portare fortuna protegge un mortale dai poteri fatati, così come il pane - i tuoi cantrip non hanno effetto sui mortali che compiono questo gesto per la scena corrente. I cantrip non funzionano e possono anche ritorcertisi contro. Ogni mortale che conosce il tuo nome per intero può richiederti tre cose che dovrai completare prima di essere libero dalla sua influenza. Tuttavia devi solo seguire le parole esatte della richiesta e non il desiderio. (2 punti)  
+
+Moderato: Non puoi entrare in una casa senza essere invitato, a meno che tu non stia facendo un piccolo favore agli abitanti. L'invito può venire da chiunque, non è necessario che sia del proprietario. La presenza di ferro freddo in un'abitazione ti precluderà l'entrata, così come simboli religiosi, che proteggono da effetti fisici e magici i mortali. Il suono di campane d chiesa ti provoca dolore come il ferro freddo (a questo livello è solo dolore, ma a quattro punti ottieni un punto di Banalità per ogni turno in cui devi sopportare il suono.) (3 punti)  
+
+Serio: Avere un quadrifoglio addosso protegge un mortale dalle tue Arti, ma se ne cogli uno avrai fortuna (non puoi fallire criticamente i tuoi tiri) finché le sue foglie rimarranno intatte. Questa fortuna rimane finché stai indossando il quadrifoglio. Ogni mortale che indossa un cappotto rovesciato ti è invisibile. Non puoi attraversare acqua corrente se non tramite un ponte. I simboli religiosi ti respingono, spingendoti via da chi li indossa. L'ombra di suddetti simboli che cade su di te ti causa un livello di danni chimerici per turno. Non puoi più entrare su suolo sacro senza soffrire danni chimerici ogni turno, anche se questo danno può essere assorbito. (4 punti)  
+
+Estremo: Ovunque tu rimani abbastanza a lungo si crea un cerchio di funghi, anche su un tappeto. Le Nebbie non riescono più a coprire i tuoi poteri; molti ti ricorderanno quando usi il Glamour in loro presenza. Le creature chimeriche tendono ad essere più vere per te che per altri, e i loro attacchi causano danni veri e permanenti. Allo stesso modo le tue armi chimeriche possono colpire tutti, anche i mortali. Se chiedi le persone ti seguiranno, spesso con un'espressione persa, anche nelle situazioni più pericolose. La difficoltà nel lanciare cantrip può essere abbassata molto a discrezione del Storyteller, ma chi indossa ferro freddo o simboli religiosi sono immuni a tutte le tue Arti. Devi fare un tiro Volontà a difficoltà 7 se vuoi entrare in luoghi sacri. Anche se riesci nel tiro ottieni un livello di salute di danno fisico per turno quando ci entri. (5 punti)
+
 ### Qualità bizzarra (2 punti)  
+
+I mortali ti trovano affascinante in modo inquietante. In momenti inappropriati i mortali ti fissano e incominciano a chiacchierare con te sperando di poterti conoscere meglio. Ancora peggio mortali di natura più malvagia sceglieranno prima te che altri come obiettivi per i loro loschi propositi.  
+
 ### Allergia al ferro (3-5 punti)  
+
+La maggior parte dei Kithain soffrono solo se toccano del ferro freddo, ma tu ti ferisci davvero. Il ferro freddo si comporta come un ferro infuocato sulla tua pelle, e ogni turno di contatto soffri un livello di danni chimerici. A quattro punti soffri un livello di veri danni ogni tre turni di contatto con il ferro freddo. A cinque punti soffri questo danno se stai in un raggio di 30 cm al ferro freddo e prendi un livello di danni aggravati per ogni turno in contatto con il ferro freddo.   
+
 ### Infestato (3 punti)  
+
+Un fantasma ti perseguita, ma solo te e i medium lo possono vedere e sentire. Al fantasma fai schifo e si diverte a renderti la vita un inferno. Ha poteri che può usare contro di te scelti dallo Storyteller, che può usare i Prodighi Wraith per ispirazione.  
+
 ### Nebbie disperse (3 punti)  
+
+La tua magia e le tue abilità non sono affatto nascoste dalle Nebbie. Se un mortale vede le tue azioni non si dimenticherà gli effetti delle tua abilità da fata, il che potrebbe rivelare la tua natura al mondo mortale - con conseguenze potenzialmente catastrofiche.  
+
 ### Destino segnato (5 punti)  
+
+Hai nel destino una fine tra le più orribili. Alla fine ogni tuo sforzo, ogni tuo opera, ogni tuo sogno sarà distrutto. Il tuo fato è certo e non puoi farci nulla. Ancora peggio, ne sei parzialmente cosciente grazie a brevi visioni del tuo fato, e sono incredibilmente agghiaccianti. Il malessere che queste visioni ti provocano può essere superato solo con un tiro Volontà, e ritorna dopo ogni visione. In un certo punto della cronaca incontrerai il tuo destino. Anche se non puoi farci nulla, puoi sempre provare a fare qualcosa prima che accada.
+
 ### Magnete chimerico (5 punti)  
+
+Le chimere ti notano più del normale. In alcuni casi questo è positivo, ma spesso ti causa problemi. Le bestie chimeriche imbizzarrite tendono ad attaccare te prima degli altri. I nervosa ti trovano irresistibile, e spiritelli di tutti i tipi ti fanno scherzi in continuazione.  
+
 ### Maledizione dei sidhe (5 punti)  
+
+I sidhe vivono nel mortale terrore della Banalità, dato che li colpisce più facilmente di ogni altro kith. Anche se non sei sidhe anche tu hai questa fragilità. Ogni volta che ottieni un punto di Banalità ne ottieni invece due. I sidhe non possono comprare questo Difetto.  
+
 ### Vampiro psichico (5 punti)  
+
+La scintilla vitale che è in te è morente e può essere nutrita solo tramite forze esterne.Piante e insetti avvizziscono e muoiono in tua presenza mentre ti nutri della loro energia vitale, e ogni persona che tocchi per più di un ora soffre di un danno di salute contundente mentre travasi via la loro vita. Coloro che sono già feriti, compresi quelli che hanno sofferto il livello di salute contundente per aver perso l'energia vitale non guariscono mentre sono in tua presenza. Se non nutri il vuoto che è in te almeno una volta al giorno cominci a morire. Prendi delle ferite segue il progresso della guarigione naturale al contrario: prendi un livello di danno di salute in un giorno, un secondo in tre giorni, un terzo in una settimana, un quarto in un mese, e poi una ferita ogni tre mesi.  
