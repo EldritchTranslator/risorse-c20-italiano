@@ -80,3 +80,28 @@ Le vittime di un Saccheggio non possono creare o fare nulla di originale per alm
 
 **Sistema**: Il Kithain deve ottenere una connessione con il soggetto, ma non deve essere vicina o genuina. Il changeling deve conoscere il nome del bersaglio e qualcosa che la ispiri - che cosa la fa creare. Il giocatore lancia un numero di dadi pari alla Banalità del personaggio (difficoltà 6). Il personaggio dunque guadagna un numero di punti Glamour uguale ai successi. Se il lancio fallisce il personaggio non guadagna Glamour ma un punto di Banalità. Se il lancio è un fallimento critico il personaggio ottiene un pallino di Banalità con il ritorno di fiamma del Saccheggio che danneggia la sua psiche.  
 
+## Soglie del Saccheggio
+
+I più che Saccheggiano usano un semplice assalto psichico per ottenere Glamour. Altri preferiscono metodi più esotici per causare più dolore e disperazione. Alcuni Unseelie la considerano un'arte. La Soglia del Saccheggio di un personaggio può basarsi su un qualche trauma emotivo subito in passato - è spesso un modo per avere la propria vendetta sulla vittima o sul mondo in generale.  
+
+Usare le Soglie del Saccheggio capita fuori sessione. Il giocatore descrive come si svolge il Saccheggio ("Mando al bambino degli incubi terribili e mi prendo il Glamour dal suo terrore"), fa i tiri necessari, e guadagna il Glamour. In alternativa il giocatore può ruolare una scena emotiva prima di tirar. Il sistema è lo stesso che per la Fantasticheria, a parte che per questa via il personaggio può ottenere il pallino di Glamour con cinque successi o più solo se sta sfruttando la propria Soglia del Saccheggio.  
+
+## Lista di Soglie del Saccheggio
+
+- **Esaurire la creatività**: Il personaggio ama sfruttare gli altri, disprezza quelli con più talento, e li assume persino per creare per lui, ma ridicolizza quello che il Sognatore crea. l'arte creata in questo modo è corrotta, sporcata, o sprecata. Questo esaurisce il Sognatore che si chiede perché ha perso il suo tempo.  
+- **Distruggere la speranza**: Il personaggio vuole far disperare il Sognatore. Lui sta fermo a osservare mentre ci sprofonda, rifiutandosi di aiutare o persino prendendo in giro i suoi sforzi di mantenere quel poco di speranza rimastogli. Può anche convincerlo a non fare cose che migliorerebbero la sua vita evidenziando quanto sarebbero inutili.  
+- **Distruggere l'amore**: Il personaggio fa sì che il soggetto non provi amore. Ottiene forza ostacolando gli altri nella ricerca della loro dolce metà. Ha molti modi per far lasciare degli amanti, seducendone uno o mentendo o creando false prove che uno di loro stia tradendo l'altro. Finché gli sforzi della preda di trovare l'amore non funzionano il Saccheggio funziona.  
+- **Creare ira**: Il personaggio si vanta del suo autocontrollo, ma si diverte nel far arrabbiare gli altri e a frustrarli. Demolendo pian piano la stima di sè e l'autocontrollo della vittima la guida a compiere atti violenti contro di sè e altri.  
+- **Spezzare la fiducia**: Il personaggio ha avuto la sua fiducia tradita, e ora deve causare quell'esperienza anche agli altri. Si adopera per creare sfiducia tra due o più persone, eventualmente causando che la sua vittima non abbia più fiducia in nessuno e che si isoli dal mondo.
+- **Abusare della dipendenza**: Il personaggio si vanta della sua autonomia, e cerca di rendere altri dipendenti da lei. Questi possono essere bambini ignorati, scappati di casa, drogati, o chi vuole il suo amore. Alla fine distrugge chiunque sia diventato dipendente da lei andandosene una volta che la preda ha abboccato.  
+- **Distruggere illusioni**: Il personaggio è esausto emotivamente. L'innocenza la disgusta. Potrebbe parlare bene di qualcosa, la vittima le crede, e poi viene preso in giro per aver creduto a una cosa qualunque. I childling possono cibarsi di altri bambini facendoli finire nei guai o rivelando la verità su Babbo Natale o il coniglietto pasquale.  
+
+# Baldoria (La Via dei Kith)
+
+Ciascun kith ha un suo modo per guadagnare Glamour che attinge alla vera natura del kith. I redcap hanno forme di Baldoria diverse dai boggan, e così via. I tipi di Baldoria comuni a ciascun kith sono compresi nella loro descrizione.  
+
+Un personaggio può godersi la Baldoria una volta per storia. Deve spendere almeno una scena in Baldoria, e il giocatore deve descriverla allo Storyteller. Quando questa finisce il personaggio riempie completamente la sua riserva di Glamour.  
+
+# Rapsodia (La Via della Distruzione)
+
+Il modo più estremi di Epifania, è vietato categoricamente dai Kithain.
