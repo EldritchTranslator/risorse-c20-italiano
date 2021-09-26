@@ -104,4 +104,14 @@ Un personaggio può godersi la Baldoria una volta per storia. Deve spendere alme
 
 # Rapsodia (La Via della Distruzione)
 
-Il modo più estremi di Epifania, è vietato categoricamente dai Kithain.
+Il modo più estremo di Epifania, è vietato categoricamente dai Kithain. Anche gli Unseelie lo vietano dato che distrugge un Sognatore. Quello che succede è che un changeling carica un artista con così tanto Glamour grezzo che il creatore produce un ultimo capolavoro e poi non crea mai più. on solo distrugge la creatività del mortale,ma molte vittime diventano Persone d'Autunno o nemici giurati dei Kithain a causa di questo trauma. Coloro che sono stati vittime della Rapsodia di solito soffrono di malattie dello stress, esaurimento fisico, affaticamento cronico, depressione, arrivando anche al suicidio.  
+
+L'arte che risulta contiene un enorme quantità di Glamour. Quando l'opera viene distrutta rilascia il Glamour. La parte peggiore è che il capolavoro viene distrutto e non tenuto e protetto, dunque l'ultimo lavoro dell'artista non esiste più.  
+
+**Sistema**: Da uno a cinque punti di Glamour vengono caricati nell'artista; un'intera motley può donarne e ottenere dei frutti dalla Rapsodia. Lo Storytller lancia Persuasione + Espressività (o qualcos'altro di appropriato, a difficoltà 7) per il mortale affinché crei il capolavoro, aggiungendo un numero di dadi alla riserva pari al Glamour investito nell'opera. Così è possibile ordinare la Rapsodia su un individuo senza talento o abilità, ma le ricompense non sono al livello di quelle che si otterrebbero con qualcuno in grado di produrre da solo della bella arte. Il capolavoro dell'artista contiene due punti di Glamour per successo.  
+
+Quando la creazione è completa il personaggio deve ottenerla. Il Glamour che ha dentro non viene rilasciato finché non è distrutta. Così un changeling può collezionare una libreria o un museo di creazioni zeppe di Glamour che aspettano solo di essere bruciate per il potere. Quando la creazione è distrutta tutti i changeling presenti si dividono il Glamour. Nota che solo i presenti otterranno i benefici della Rapsodia, dunque è possibile convincere qualcuno ad aiutare all'inizio per poi rubare il risultato e tenersi per sè il Glamour. Questo è altamente disonorevole, ma da chi si può andare a lamentarsi? D'altronde la Rapsodia è vietata.  
+
+Se il lancio fallisce l'artista non riesce a finire la creazione. Aggiungere dell'altro Glamour non fa altro che confonderla; non è in grado di creare (o finire di creare) nulla per un numero di mesi pari al Glamour investito.  
+
+Se il tiro è un fallimento critico i changeling incontrano il loro giusto castigo in un modo terribile,ma è anche l'artista a soffrire. Per ogni 1 il creatore ottiene un pallino di Banalità. Nessuno guadagna Glamour. Ciò significa che i changeling non solo probabilmente perdono Glamour, ma l'artista può essere troppo intrappolato nella Banalità per rimanere connesso al Dreaming. Dunque il Sognatore non potrà mai più creare e i changeling hanno distrutto il dono del mortale per nessuna ragione.
