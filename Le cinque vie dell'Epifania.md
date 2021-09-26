@@ -26,7 +26,7 @@ Ciascuna delle antiche muse greche era patrona di un particolare tipo di arte. O
 
 Ciascun giocatore può scegliere una specialità, chiamata Soglia della Fantasticheria, durante la creazione del personaggio. Se il personaggio incomincia senza può anche ottenerla durante il gioco. E' anche possibile cambiare la propria Soglia, ma i Kithain possono sempre averne solo una alla volta. Ogni giocatore può decidere di seguire un Sognatore, che sia un ballerino, una scrittrice, o anche una dottoressa, perché raggiunga nuovi traguardi nel suo lavoro.  
 
-**Sistema**: Per generare Glamour il personaggio deve capire cosa ispira il Sognatore. Tira Percezione + Kenning (diff 8); il numero di successi indica quanto tempo il personaggio deve spendere con il Sognatore per capire cosa lo fa creare.  
+**Sistema**: Per generare Glamour il personaggio deve capire cosa ispira il Sognatore. Tira Percezione + Kenning (difficoltà 8); il numero di successi indica quanto tempo il personaggio deve spendere con il Sognatore per capire cosa lo rende creativo.  
 
 | N° di successi |             Tempo con il Sognatore |
 |---------------:|-----------------------------------:|
@@ -51,3 +51,32 @@ Il changeling non deve necessariamente agire da musa secondo la Soglia di Fantas
 - **Incoraggiare la fiducia**: La changeling pensa che il mondo potrebbe essere un posto migliore se la gente avesse fede l'una nell'altra, desse fiducia e si interessasse a progetti e hobby condivisi.  
 - **Aiutare i bisognosi**: C'è chi ha bisogno di aiuto o assistenza. Chi è tossico o abusato ha bisogno di ispirazione per disintossicarsi o per tornare indipendenti così che possa Sognare.  
 - **Ispirare i sogni**: Il personaggio ispira le persone a sognare ciò che si vuole ottenere, convincendoli che se le si sogna abbastanza intensamente diverranno realtà.  
+
+# Estasi (La Via dell'Automotivazione)
+
+I changeling hanno due nature: fatata e mortale. Lasciando che la propria natura mortale torni in evidenza e ci si ispiri (processo che viene chiamato Estasi) possono toccare il Dreaming come normali Sognatori. Anche se questo può essere un processo lungo e difficile i risultati possono essere fenomenali.  
+
+L'Estasi permette al changeling di usare la propria immaginazione per ottenere Glamour. Per farlo però il personaggio deve fare un bel po' di introspezione e comprendere entrambe le metà della propria anima, come per capire e ispirare un mortale. Sia i Seelie che gli unseelie credono che un changeling che può ottenere l'Estasi ha raggiunto un pinnacolo dove ha congiunto alla perfezione la sua natura duale. Si connette direttamente con il Dreaming e comprende un momento illuminante di totale chiarezza e estasi.  
+
+Per raggiungere l'Estasi un changeling deve ottenere un salto qualitativo artistico o creativo. Il personaggio sceglie un tipo di arte in cui eccelle e ottiene una nuova prospettiva o nuova idea.  
+
+Usa la tabella per il tempo base che è necessario ad ispirare un mortale e applicala alla fata che sta tentando di raggiungere l'Estasi. Lancia Percezione + Kenning (difficoltà 8) come per i mortali. Questo indica che talvolta ci vuole un mese di pensare e lavorare a un progetto, mentre in altri casi un colpo di genio improvviso può avvenire quasi istantaneamente.  
+
+Una volta che questo tempo è passato il giocatore deve fare un tiro con Attributo + Abilità adatti (difficoltà [Banalità - Glamour] + 6). Lo Storyteller può adattare la difficoltà se il personaggio davvero ha dato lacrime e sangue (e del buon roleplay) nel tentativo.  
+
+Il numero di successi ottenuti è pari alla quantità di Glamour che il personaggio ottiene. Se il giocatore ottiene cinque o più successi il personaggio ottiene un pallino di Glamour e riempie la sua riserva completamente! Un fallimento critico è un fallimento che mina la propria autostima, causando il personaggio ad ottenere un punto di Banalità. Se il personaggio vuole riprovare deve aspettare almeno una settimana e ricominciare da capo.  
+
+# Saccheggio (La Via del Furto)
+
+E' alquanto semplice per un changeling afferrare il Glamour presente in un mortale e strapparglielo. Può anche dare soddisfazione tanto quanto le altre Epifani, ma sporca anche l'individuo con sofferenza psichica, unendo il suo dolore con il Glamour.  
+
+Questa violazione psichica si chiama Saccheggio. Non solo provoca dolore e shock alla vittima, ma i mortali non dispongono di Glamour infinito. Hanno bisogno di tempo per recuperare la loro creatività. Se il loro Glamour è stato rubato gli ci vuole più tempo per recuperarlo. I Seelie vedono il Saccheggio come non necessario e malvagio, mentre gli Unseelie lo vedono come uno strumento per provocare cambiamento. D'altronde, come dicono gli Unseelie, il Glamour è gratuito. I Sognatori possono sempre produrne altro.  
+
+Però questo non è sempre vero. Se un unico mortale viene Saccheggiato ripetutamente la sua creatività potrebbe estinguersi. Di certo più di frequente uno viene Saccheggiato più tempo ci si impiega a rimettersi. La corte Unseelie dichiara comunque che i Sognatori sono una fonte autorinnovante, e che hanno necessità di mantenersi per far rimanere il Dreaming in vita nel mondo mondano.  
+
+Tristemente e ironicamente i Kithain usano la propria Banalità quando saccheggiano. Questo provoca il rischio di guadagnare altra Banalità mentre il Saccheggiatore ci inonda il bersaglio, cercando di cavargli fuori il Glamour. Il Saccheggiatore dunque raccoglie il Glamour, che talvolta è mischiato alla Banalità.  
+
+Le vittime di un Saccheggio non possono creare o fare nulla di originale per almeno un giorno per punto di Glamour rubato. Possono stare seduti impazienti, sentendosi depressi o drenati di energia. L'artista può anche guadagnare un po' di Banalità, bloccandogli l'accesso al Dreaming che gli permetteva di creare. Può persino tagliare per sempre quella connessione. Un creatore drenato, depresso può cadere in depressione totale o esplorare in frustrazione e rabbia che finisce per diventare violenza verso gli altri.  
+
+**Sistema**: Il Kithain deve ottenere una connessione con il soggetto, ma non deve essere vicina o genuina. Il changeling deve conoscere il nome del bersaglio e qualcosa che la ispiri - che cosa la fa creare. Il giocatore lancia un numero di dadi pari alla Banalità del personaggio (difficoltà 6). Il personaggio dunque guadagna un numero di punti Glamour uguale ai successi. Se il lancio fallisce il personaggio non guadagna Glamour ma un punto di Banalità. Se il lancio è un fallimento critico il personaggio ottiene un pallino di Banalità con il ritorno di fiamma del Saccheggio che danneggia la sua psiche.  
+
