@@ -1,8 +1,8 @@
-# Nominare  
+# Nominare
 
 I nomi hanno potere, e pochi sono così consapevoli del potere dei titoli dei Kithain. Scoprire il Vero Nome dona autorità sulla fata, ma quelli che ricercano la comprensione dei cantrip di Nominare possono rivelare verità nascoste, far avviare gli altri per percorsi eroici o pericolosi, e persino cambiare qualcuno o qualcosa nel suo punto più fondamentale iscrivendo un nuovo nome nel libro del Dreaming.  
 
-## Scatenare Nominare  
+## Scatenare Nominare
 
 Lo studio di Nominare inizia rivelando ciò che è nascosto e finisce con imporre il proprio volere tramite titoli e definizioni. Nominare Scatenato dona incredibile potere nella voce e negli occhi del changeling che è abbastanza coraggioso o folle da invocarlo con Glamour grezzo. Scatenare Nominare può rivelare segreti o qualcosa di nascosto, dare nuovo potere temporaneamente al changeling, o rimodellare un pezzettino di realtà secondo i suoi desideri.  
 
@@ -37,5 +37,17 @@ Se viene applicato a un changeling, un mortale, o a un'altra creatura senziente,
 | 3 successi | Una settimana |
 | 4 successi | Un mese       |
 | 5 successi | Un anno       |  
+
+**Tipo**: Wyrd  
+
+## ⦿⦿⦿ Saining
+
+L'abilità di riconoscere i Veri Nomi è il cuore della magia di Nominare. Quando il changeling è in grado di dare un nome alla natura inerente del soggetto ottiene una conoscenza profonda su chi o cosa sono, così come l'abilità di usare ogni tipo di magia contro di lui senza ostacoli. Il potere che il mistico di Nominare ottiene prima sembra un beneficio, ma la sua lealtà può cambiare, e amici diventano nemici, e niente rimane un segreto per sempre.  
+
+**Sistema**: Il numero di successi richiesti per scoprire il Vero Nome di un soggetto dipende da quanto questo è complesso. Un ciocco di legno non cambia molto nel tempo che serve per cercare il nome, e non ha un'autodeterminazione che può rendere il cantrip più complesso. Il Vero Nome di un changeling, Prodigo, o di una chimera potente d'altro canto richiedono un bel po' di tempo e pericolo.  
+
+I cantrip del Saining richiedono solitamente un'azione prolungata, ma ogni tiro deve essere in presenza del soggetto o di un oggetto molto personale o di informazione approfondita. Il changeling deve ottenere un numero di successi pari a tre volte la Volontà del soggetto.  
+
+Una volta scoperto il Vero Nome del soggetto ha un -5 a tutte le difficoltà dei cantrip e tiri contrapposti per delle magie con il soggetto.  
 
 **Tipo**: Wyrd

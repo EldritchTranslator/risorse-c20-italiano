@@ -8,7 +8,7 @@ I bambini Kinain possono essere riconosciuti assai prima di manifestare una conn
 
 La magia del Dreaming scorre profonda in loro, così tanto che non possono essere Disfatti. Le Nebbie non attaccheranno mai le memorie dei Kinain. La Banalità non è pericolosa per coloro che sono fatti in egual modo dal Dreaming e dal mondo. Come con tanti sogni, questa benedizione può diventare una maledizione. Ci sono storie su storie di Kinain che devono vedere i propri genitori Disfarsi, sminuiti e persi nel mondo di cui il figlio fa ancora parte. Anche se un Kinain non può perdere la sua connessione al Dreaming se tutti i changeling che conosce si perdono nelle Nebbie potrebbe comunque trovarsi isolata dalla magia della sua famiglia.  
 
-## Kinain nel passato e nel presente  
+## Kinain nel passato e nel presente
 
 Le favole e le storie del folklore citano spesso di umani scomparsi per una notte di passione con uno sconosciuto misterioso e innaturale. Queste storie antiche ci suggeriscono che i Kinain furono un felice incidente di percorso. I primi viaggiatori provenienti dal Dreaming Profondo sulla Terra non avevano idea che le loro scappatelle con mortali potessero dar luce a nient'altro che altri mortali. Incerti sul come gestire questi figli dal sangue fatato, all'inizio molti Kinain morirono per i tentativi dei loro genitori fatati di portarli con loro ad Arcadia. In seguito questi antenati cominciarono a comprendere le regole dell'esistenza dei Kinain e il loro ruolo che avrebbe definito il loro posto nella società fatata: gli intermediari, il passaggio tra ciò che è troppo Banale e le fate, sogni diventati realtà che anche allora erano fragili come i changeling odierni.  
 
@@ -32,7 +32,7 @@ Per una volta il tabù sociale di richiedere aiuto per la propria salute mentale
 
 Le coppie costituite da due changeling o un Kithain e un umano incantato trovano molto più semplice crescere il bambino dato che entrambi sono in grado di percepire il Dreaming e di lavorare assieme affinché le persone mondane non pensino nulla di strano del loro figlio.  
 
-#### I sangue di Dauntain?  
+#### I sangue di Dauntain?
 
 Sfortunatamente essere Dauntain non li preclude dall'avere un figlio Kinain. Anche se il marchio maledetto non si trasferisce di genitore in figlio, alla miseria piace stare in compagnia e i Dauntain particolarmente corrotti non si risparmieranno per la possibilità di portare un bambino anche con un solo barlume di fata in sè per le loro vie corrotte.  
 

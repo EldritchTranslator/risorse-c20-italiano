@@ -15,21 +15,21 @@ Solido e pratico, lo Zotico è felice quando risolve problemi. Buonsenso, pragma
 **Missione**: Quando superi una difficoltà con una soluzione pratica recuperi Volontà.  
 **Divieto**: Non perdere mai un'opportunità di usare logica o buonsenso.  
 
-### Cortigiano  
+### Cortigiano
 
 Danze, feste, e incontri a corte sono la vita del Cortigiano. Rimane costantemente affascinato dall'uso di politica e galateo come colla sociale tra le persone più diverse. Il suo umorismo, fascino, così come un flirt al momento giusto fanno sentire tutti ben accetti o calma situazioni esplosive. Il Cortigiano spesso si ritrova con il ruolo del diplomatico con il compito di preservare l'ordine.  
 
 **Missione**: Quando mantieni pace e armonia sociale recuperi Volontà.    
 **Divieto**: Mai causare discordia di proposito.  
 
-### Artigiano  
+### Artigiano
 
 Il mondo è composto da imperfezioni che richiedono ad alta voce che una mano abile le sistemi, e l'Artigiano è felice di assumere questo ruolo. Per lei non c'è cosa migliore che tramutare l'inutile nell'indispensabile. Anche se ha quasi sempre un progetto - che sia meccanico, artistico, o persino allenare qualcuno formandolo - ama più il risultato che il processo.  
 
 **Missione**: Recuperi Volontà quando crei qualcosa che dura nel tempo.  
 **Divieto**: Non perdere mai l'occasione di migliorare qualcosa con il tuo tocco unico.  
 
-### Damerino  
+### Damerino
 
 Il Damerino è il maestro del galateo, ma solo come mezzo per arrivare a un fine. E' acutamente cosciente della gerarchia sociale e del suo posto in essa, e sa di dover scalare più in alto. Brandisce gossip e intrighi come armi nella sua lotta per la cima. Anche se appare vivace e benevolo, è costantemente alla ricerca di opportunità per fare colpo sui suoi superiori. Anche se sprezza i suoi sottoposti non li ignora subito. Aiutarli spesso aiuta il brillare della sua stella nascente negli occhi di chi importa.  
 
@@ -57,28 +57,28 @@ Il Paladino vive per l'ebbrezza della sfida. Mostri da eliminare, nemici con cui
 **Missione**: Recuperi Volontà quando superi una sfida davvero complessa.   
 **Divieto**: Non rifiutare mai una sfida equa.  
 
-### Aiutante  
+### Aiutante
 
 L'Aiutante non vuole nient'altro che rendere felici gli altri. Lavora senza sosta per portare gioia al prossimo, facendo l'intermediario tra relazioni o offrendo un bicchiere d'acqua all'ospite. Preferisce l'anonimia, e l'Aiutante considera i suoi migliori lavori quelli che sono stati completati con un piccolo indizio qui e un incoraggiamento lì. Chi lo nota di solito lo scambia per uno zerbino che si rompe la schiena per soddisfare ogni capriccio. In realtà tutto ciò che vuole è vedere dei visi sorridenti.  
 
 **Missione**: Quando qualcuno è felice grazie ai tuoi sforzi ma senza sapere del tuo ruolo recuperi Volontà.     
 **Divieto**: Non fare mai di proposito qualcosa che rende qualcun altro triste.  
 
-### Reggente  
+### Reggente
 
 L'incarnazione del *noblesse oblige*, il Reggente è in parti uguali giudice e legislatore. Chi le sta attorno si rivolge a lei per saggezza direzione. Premia la lealtà e punisce tradimenti e sgarri in eguale misura. Spesso la Reggente si sente isolata e sola senza eguali, ma sa che non deve mai ritrarsi dalle sue responsabilità o lasciare che i sentimenti interferiscano con i suoi doveri.  
 
 **Missione**: Quando una situazione si risolve grazie alla forza del tuo comando recuperi Volontà.     
 **Divieto**: Non evitare mai i tuoi doveri o infrangere le leggi che segui nella vita.  
 
-### Saggio  
+### Saggio
 
 Il Saggio ha viaggiato in lungo e in largo, provando molte esperienze, e ottenendo saggezza preziosa. E' sempre disposto a condividere la sua conoscenza ed è devoto alla missione di scoprire informazioni e spargere insegnamenti. Anche se il Saggio non costringe nessuno a seguire i suoi precetti è felice di dare consiglio a chi lo chiede, a chi racconta storie che sta ricercando, e a chi chiede domande profonde. Assapora il suo ruolo di guru che indica agli altri il percorso verso l'illuminazione.  
 
 **Missione**: Recuperi Volontà quando qualcuno ti chiede consiglio e raggiunge il suo obiettivo.    
 **Divieto**: Non ostacolare mai le decisioni altrui su come agire. Ciascuno segue una strada unica verso la saggezza.   
 
-### Santo  
+### Santo
 
 Il Santo ricerca sempre di sollevare i pesi degli altri, sentendo il dolore altrui come proprio. Non esita a dare il suo tempo, soldi, o la sua maglietta se aiuta qualcuno. Spesso si trova in una posizione di martirio, ma non gli importa. Il suo benessere è secondario rispetto a quello altrui. Il Santo sa di mettersi in pericolo, ma non accetterebbe che siano altri ad esserlo.  
 
@@ -92,7 +92,7 @@ Lo Scudiero è l'aiutante per eccellenza. Anche se non è meno abile del suo ero
 **Missione**: Recuperi Volontà quando sei parte vitale di u risultato ma non te ne prendi credito.        
 **Divieto**: Non contraddire o mettere mai in difficoltà il tuo eroe.  
 
-### Bardo  
+### Bardo
 
 Il Bardo ricerca la bellezza ideale in tutti gli aspetti della vita, poiché solo la purezza di forma è l'essenza della verità. Quando è innamorato, ama con tutto se stesso. Quando triste, piange lacrime senza fine. Quando arrabbiato, ricorda un incendio infernale. Il Bardo crede che il mondo nasconde una persona, un posto, o una situazione unicamente perfetta che gli rivelerà la verità dell'esistenza. Per trovarlo esplora la vita con fede incessante verso i propri potenti sentimenti.  
 
@@ -110,7 +110,7 @@ L'eterno viaggiatore alla ricerca dell'ignoto, il grande esploratore che ha visi
 
 Dal colore vivido come un raccolto d'autunno e caotici e isolati come una tempesta di ghiaccio invernale, i seguaci dei Retaggi Unseelie tendono ad essere individualisti convinti. Seguono i loro cuori ovunque li portino, anche se devono infrangere qualche regola per strada. I Kithain Seelie spesso vedono i loro fratelli Unseelie come irresponsabili e indegni di fiducia, ma gli Unseelie credono di essere veri a se stessi.  
 
-### Bestia  
+### Bestia
 
 La Bestia vive per conquistare i suoi nemici. Ci sono solo due categorie al mondo: quelli che si inginocchiano di fronte alui e quelli che vengono distrutti per aver rifiutato. Se qualcosa esiste, esiste per il suo piacere. Se non gli piace, non ha il diritto di esistere. La Bestia tuttavia non è furia incontrollata: per ottenere i suoi obiettivi è lungimirante, manipolando i suoi nemici l'uno contro l'altro. Non c'è niente di così soddisfacente che osservare i suoi avversari danzare sul palmo della sua mano.  
 
@@ -138,7 +138,7 @@ Il Grottesco è un mostro orribile che adora colpire i punti deboli della gente 
 **Missione**: Quando qualcuno perde la calma a causa tua, anche brevemente, recuperi Volontà.            
 **Divieto**: Non conformarti mai secondo i dettami della società cortese.  
 
-### Canaglia  
+### Canaglia
 
 La Canaglia è una guida verso i piaceri proibiti e i desideri nascosti. Incoraggia, tenta, o mente ai suoi bersagli perché soddisfino quelle loro fantasie nascoste. Per lei non c'è niente di così delizioso che trasformare il dolce nel sordido, l'innocente nel perverso. Comunque non è che la Canaglia compromette così le persone solo per divertimento - e divertente lo è - ma vuole rivelare che genere di creatura bassa e selvaggia si cela nel cuore di tutti.  
 
@@ -187,7 +187,7 @@ Nella suo gruppo la parola del Capobanda è indiscussa. Con esperienza brutale i
 **Missione**: Recuperi Volontà quando sfrutti i tuoi seguaci per avanzare i tuoi piani.                  
 **Divieto**: Non permettere mai a nessuno di minacciare la tua organizzazione o i tuoi obiettivi.
 
-### Ladro 
+### Ladro
 
 Il Ladro non capisce perché ci si debba sforzare. Ci sono già tante apette lavoratrici, perché non dovrebbe rilassarsi lui? Mentre i lavoratori lo sgridano, lui li borseggia; mentre i campioni viaggiano per avventure coraggiosamente, lui gironzola; quando gli innovatori forgiano nuove vie, lui percorre la via più semplice. Quando l'eroe riesce finalmente a uccidere la bestia feroce, lui ha già rivendicato la ricompensa (d'altronde non aveva chiesto a nessuno di aiutarlo). 
 

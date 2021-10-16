@@ -4,7 +4,7 @@ Il Glamour è la linfa vitale del Dreaming. Il suo ciclo tra Mondo dell'Autunno 
 
 L'intensità delle nostre emozioni, sogni e incubi è al suo punto più puro prima che le menti rimangano appesantite dalle esperienze della vita mondana. Memorie meravigliose si dissipano e cambiano con il tempo, fino a far rimanere solo frammenti rifiniti che riflettono le nostalgie della mente. Gli umani dimenticano. Il Dreaming no.  
 
-## Che cos'è il Dreaming? 
+## Che cos'è il Dreaming?
 
 Il Dreaming è Glamour. La sua esistenza è un riflesso delle migliori aspirazioni e delle paure più profonde dell'umanità. Tutti nascono con la capacità di essere un vero Sognatore - qualcuno che risuona con il Dreaming e crede in possibilità oltre a quanto sta di fronte a loro, ma con una spinta e una passione di creare e ispirare altri che penetra le forze oppressive della Banalità che li circonda. Il Dreaming si collega alle loro menti che nutrono la vera magia che è ciò che dà energia ai Kithain. Chiunque, ad ogni età, può sognare, ma solo i Sognatori possono sostenere davvero il Glamour nel mondo normale. Tutti gli altri sogni e paure finiscono in enormi collezioni di emozioni incontrollate che si mischiano con il Glamour, creando zone dove nascono sogni nuovi, instabili, e pericolosi.  
 
@@ -20,13 +20,13 @@ Il più grande pericolo per la sopravvivenza dei Kithain è proprio il piano ste
 
 Entrare nel Dreaming cambia la natura dei personaggi changeling, migliorando la loro capacità di manipolare la magia e rinforzando la loro natura fatata. Questo comporta cambi al sistema di gioco che dipendono dal piano. Cambiare piano sostituisce le alterazioni precedenti; quando si entra in un nuovo piano del Dreaming, sia che ci si stia avvicinando o allontanando dal Mondo d'Autunno, le regole di quel piano sono le uniche che sono in vigore.  
 
-### Il tempo, il viaggio, e il Dreaming  
+### Il tempo, il viaggio, e il Dreaming
 
 Il tempo funziona in modo diverso nel Dreaming che nel Mondo d'Autunno, ma non è così semplice che basta dire che a un minuto in un mondo equivale a un'ora nell'altro. Il tempo semplicemente passa in una proporzione fluida e cangiante. è possibile entrare in un trod nel Nord America, imbarcarsi in un viaggio che pare durare decenni, e lasciare il Dreaming in Scandinavia minuti dopo aver lasciato il punto di partenza nel mondo mondano.  
 
 La storia è zeppa di leggende e favole che parlano di come mortali si perdano, riapparendo solo decenni dopo come se non fosse passato un minuto - o che spariscono per un breve periodo, ritornando più vecchi di decenni.  
 
-### Il sistema di purificazione della Banalità  
+### Il sistema di purificazione della Banalità
 
 Una volta che i changeling superano la Valle delle nebbie il Glamour purificato del Dreaming comincia a depurare i visitatori dei pesi che la vita mondana pone sulle loro spalle. Per quanto questa purificazione eventualmente riduce il punteggio di Banalità a 0 questo effetto dura solo per la durata della visita del Dreaming Lontano e Profondo. Tuttavia neanche questo potere può portare il punteggio di Banalità permanente sotto l'1 - i changeling rimangono collegati alle loro spoglie mortali, non importa quanto cerchino di sfuggirci.  
 
@@ -34,7 +34,7 @@ I giocatori possono ridurre il punteggio di Banalità dei personaggi di 1 per gi
 
 Una volta che un personaggio lascia il Dreaming Profondo il livello di Banalità ritorna a quello di partenza. Solo Tesori leggendari e Quest possono rimuovere punti permanenti di Banalità.  
 
-## Il Dreaming Vicino  
+## Il Dreaming Vicino
 
 Nel Dreaming Vicino valgono le seguenti regole:
 - è più semplice lanciare cantrip mentre si è nel Dreaming Vicino. La difficoltà base è abbassata a 7. 
@@ -56,7 +56,7 @@ Esempio: I Boggan si abbassano di statura mentre i loro abiti diventano più sem
 - Si aggiunge un dado alla riserva quando si Scatena un'Arte.
 - Il Dreaming comincia a purificare la Banalità. I changeling riottengono un punto di Glamour temporaneo all'ora. Cibo e bevande su decisione dello Storyteller possono fornire punti extra.  
 
-## Diritti di Nascita  
+## Diritti di Nascita
 
 - **Acume**: Aggiungi un altro tiro che il personaggio non può fallire criticamente. Abbassa la difficoltà di alcuni aspetti di un'Abilità di 2 e di alcuni ancora più circoscritti di 3.  
 - **Magia**: I Diritti di Nascita magici non richiedono Glamour per funzionare. Abbassa la difficoltà di ogni tiro di 3. Se essere visti limita l'attivazione del Diritto ora è possibile usarlo senza effetti collaterali anche se visti.
@@ -98,7 +98,7 @@ Le memorie delle vite passate inonda le menti dei visitatori, ma diversamente da
 
 I diversi livelli di Glamour e Banalità che sono in ciascuna persona agiscono direttamente sulle Nebbie. Più alto il livello di Glamour, meno il personaggio è scosso, mentre alti livelli di Banalità indicano un effetto crescente del mondo mondano.  
 
-## Entrare nel Dreaming  
+## Entrare nel Dreaming
 
 - **Tasso**: Sottrai il punteggio di Banalità al punteggio di Glamour per determinare il tasso d'entrata. Esempio: Lindolen ha 8 Glamour e 4 Banalità. QUesto significa che il suo posto nella tabella è a 4 Glamour. Invece il Lord Marco ha 3 Glamour ma 5 di Banalità, il che lo pone a 2 Banalità.  
 - **Effetti delle Nebbie**: Vedi le note.
@@ -173,7 +173,7 @@ I diversi livelli di Glamour e Banalità che sono in ciascuna persona agiscono d
 
 **10 Banalità**: Il personaggio non può entrare nel Dreaming. La sua sola esistenza è un affronto nei suoi confronti.  
 
-## Uscire dal Dreaming  
+## Uscire dal Dreaming
 
 - **Tasso**: Calcolato come in entrata.
 - **Effetti delle Nebbie**: Vedi le note.
@@ -236,17 +236,17 @@ I colori nel Dreaming Vicino sono molto più vividi, i suoni più cristallini, e
 
 Un aspetto misterioso del Dreaming Vicino sono i suoi effetti sulle persone comatose o in un sonno profondo, che sono mortali che talvolta appaiono come ombre viventi nei reami del sogno o nei trod. Anche se sono incapaci di toccare nulla, sono in grado di parlare con chimere e fate, oltre a scoprire l'esistenza della realtà chimerica. Una volta svegli in genere non si ricordano nulla, ma trattengono comunque la sensazione di avere riottenuto qualcosa di fantastico.  
 
-## Il Firchlis  
+## Il Firchlis
 
 La vicinanza al Reame dell'Autunno talvolta infligge potenti mutazioni al Dreaming Vicino. I Kithain descrivono l'effetto come onde increspate che mutano l'ambiente e le destinazioni e le entrate dei trod. I Changeling chiamano questi eventi Firchlis, e anche se loro stessi sono immuni ai suoi effetti questo può rendere un viaggio nel Dreaming più pericoloso ed emozionante. Anche se le dimore si sono dimostrate alquanto resistenti ai Firchlis, probabilmente grazie alla presenza permanente di changeling, i mobili e l'aspetto cambiano continuamente, anche se non in modo drastico.  
 
 Bisogna anche dire che le mutazioni non sono solo cause di effetti terribili. Sin dal Risorgimento i changeling hanno scoperto dei freehold creduti persi nel Dreaming Vicino grazie al suo costante mutamento. Gli studiosi li considerano eccezioni, dato che non hanno trod che li colleghino al mondo mondano, o neanche delle ancore che li tengano stabili. Ciò nonostante i balefire bruciano attivamente e le mura difendono chi ci sta all'interno agli effetti di cambiamento del Firchlis, e quello che è ancora più strano è che durante la permanenza in questi freehold i Kithain smettono di essere purificati dalla Banalità.  
 
-### Esempio: I mari dei sogni  
+### Esempio: I mari dei sogni
 
 I vati oceani nel Dreaming Vicino celano segreti nelle loro profondità. Creature antiche dormono sul fondale, aspettando il momento giusto per risalire. I mari dei sogni sono il riflesso dei vari sogni nautici negli anni. Viaggiare per trod acquatici trasporta gli esploratori da isole mistiche e portali antichi verso aree più profonde del Dreaming. Grazie al loro legame con l'acqua i selkie sono i primi a dire che i mari sono spietati e contengono possibilità sconfinate.  
 
-# Il Dreaming Lontano  
+# Il Dreaming Lontano
 
 Il Dreaming Lontano è il secondo piano del Dreaming ed è un piano che riflette miti, sogni e idee che sono vecchie di centinaia se non migliaia di anni. Alcuni luoghi sono persino di prima del Frantumo, e anche se sono rari, i Kithain sanno che esistono e celano molti indizi importanti sul cosa sia accaduto durante quegli eventi cataclismici. Questi luoghi nascosti sono sopravvissuti perché il Dreaming Lontano non ha quel collegamento che il Dreaming Vicino ha con il piano mondano.  
 
@@ -308,7 +308,7 @@ L'accesso ai Trod significa trovare o creare un varco tra mondi. I Kithain con u
 
 Combinando *Passaggio di Portale* (Pellegrinaggio ⦿⦿⦿) e il Reame di Fate (⦿⦿⦿⦿⦿ Gran signore del Glamour) è possibile creare portali temporanei su un trod a random del Dreaming Vicino. Tuttavia i giocatori possono scegliere di lanciare il cantrip come un'azione estesa che richiede cinque successi per assegnare una tipologia di trod tra quelle base (Via Argentea, Via di Balor, o Via del Crepuscolo).
 
-### Scatenare Pellegrinaggio  
+### Scatenare Pellegrinaggio
 
 Creare spaccature temporanee tra i mondi tramite lo Scatenamento richiede a chi sta usando l'Arte di comandare al Dreaming di manifestarle. Oltre alle conseguenze di base per fallire criticamente uno Scatenamento un errore di tali proporzioni crea almeno un Varco Selvaggio in un punto da qualche parte vicino a chi sta castando.  
 
@@ -362,32 +362,32 @@ Chi controlla il trod ne influenza l'aspetto marcatamente. Un sentiero comandato
 
 Infine determina che genere di ostacoli i viaggiatori dovranno affrontare mentre viaggiano da un luogo a un altro. Questi ostacoli vanno da duelli cavallereschi in trod pieni di onore e gloria controllati da sidhe fino a dover eseguire un'autopsia o vivisezione per la soluzione di un orribile enigma su un trod incubo. Infatti la natura stessa del trod può rappresentare una prova. Considera se la motley avrà bisogno di ali, veicoli chimerici, navi, o simile per attraversare il trod.  
 
-# Le Tre Vie  
+# Le Tre Vie
 
 I trod sono suddivisi in tre categorie: le Vie Argentee, le Vie di Balor, e le Vie Crepuscolari.  
 
-## La Via Argentea  
+## La Via Argentea
 
 I trod della Via Argentea hanno un filo rilucente che li percorre da inizio a fine. Questo è l'effetto visibile di un antico ban che i Tuatha de Danaan hanno lanciato durante la Guerra degli Alberi per proteggere le loro armate e gli alleati dagli scagnozzi dell'Oscurità Antica. I Dark-kin, Thallain, e ogni genere di chimera o bestia toccata dall'oscurità o dalla corruzione dei Fomori non possono usare queste vie senza provare enorme dolore. Gli ogni Dark-kin esenti da questo effetto sono le moire e i keremet, che sono stati neutrali nel conflitto.  
 
 I changeling e gli altri alleati dei Tuatha possono creare un'eccezione al ban e permettere a una creatura toccata dall'oscurità di percorrere la strada per un breve periodo. Questa azione costa un punto Glamour e dura per la lunghezza del viaggio per un singolo trod. Una volta che la chimera o fata oscura lascia la via la protezione svanisce.  
 
-### Effetti del Ban Argenteo  
+### Effetti del Ban Argenteo
 
 - Perdi 1 Glamour per turno. Una volta finito il Glamour i livelli di salute si riducono allo stesso modo. La purezza della Via Argentea brucia nelle anime degli incubi.  
 - Spendi un punto di Glamour in più per attaccare individui protetti o soffri di una penalità di -2 dadi in tutte le azioni del combattimento.  
 
-## Via di Balor 
+## Via di Balor
 
 Le Vie di Balor sono antecedenti alle Vie Argentee e sono le vie a senso unico che le fate oscure hanno usato durante la Tessarakonta. Si dividono in tre categorie basate sulla loro fine.  
 
 - Nera: Le vie nere percorrono ogni piano di esistenza, ed è anche possibile entrarci direttamente dal Mondo d'Autunno. Sono usate perlopiù per viaggiare verso le Terre delle Ombre, dimora dei morti. Si dice che i keremet li usano per guidare le anime degli umani il cui corpo è stato rubato dai sidhe.  
 - Verde: Durante la Guerra degli Alberi i Fomori usarono queste vie come strade per i rifornimenti. Collegano quasi esclusivamente il Mondo d'Autunno e il Dreaming Vicino e Lontano, ma alcune eccezioni portano dal Dreaming verso l'Umbra [Otherworld] che è dimora di Prodighi come licantropi e spiriti.  
-- Oro: Le vie d'oro sono le più rare tra le VIe di Balor e esistono solo tra le aree più oscure del Dreaming Profondo. Alcuni Dark-kin credono che portino chi le percorre o dai Fomori, o dai Tuatha de Danaan, o da qualche altro tipo di divinità precedente alla Scissione.  
+- Oro: Le vie d'oro sono le più rare tra le Vie di Balor e esistono solo tra le aree più oscure del Dreaming Profondo. Alcuni Dark-kin credono che portino chi le percorre o dai Fomori, o dai Tuatha de Danaan, o da qualche altro tipo di divinità precedente alla Scissione.  
 
 ## Le Vie Crepuscolari
 
-Chiunque può usare le Vie Crepuscolari con impunità. Questi sono percorsi che una volta appartenevano a una fazione o a un'altra della Guerra degli Alberi, ma che da allora sono state ricostruite a causa del danno causato al Dreaming sia dalla Scissione sia dal Frantumo. Perciò Varchi stabili che portano a Vie Crepuscolari sono ben protetti, ma grazie a corruzione e sotterfugi anche fate oscure sono riuscite a usarle per arrivare nel Mondo d'Autunno. La Casata Balor controllala maggior parte dei Varchi Crepuscolari, ma non si sa quali siano le loro intenzioni.  
+Chiunque può usare le Vie Crepuscolari con impunità. Questi sono percorsi che una volta appartenevano a una fazione o a un'altra della Guerra degli Alberi, ma che da allora sono state ricostruite a causa del danno causato al Dreaming sia dalla Scissione sia dal Frantumo. Perciò Varchi stabili che portano a Vie Crepuscolari sono ben protetti, ma grazie a corruzione e sotterfugi anche fate oscure sono riuscite a usarle per arrivare nel Mondo d'Autunno. La Casata Balor controlla la maggior parte dei Varchi Crepuscolari, ma non si sa quali siano le loro intenzioni.  
 
 ## Esempi di trod
 
@@ -407,7 +407,7 @@ Verso la fine dell'ultimo decennio Lord McSwiggan, un nobile del Casato Dougal, 
 
 I pericoli della via vanno dal dover usare computer per programmare pezzi dove la strada è vuota, al dover affrontare nervosa virus e chimere mostruose nate dal dark web. Alla fine del trod sta un intero freehold pieno zeppo di informazioni che i Kithain sospetti nel Mondo d'Autunno preferirebbero far dimenticare. A causa della natura della fine del trod McSwiggan spende il suo tempo viaggiando per evitare le fate che vorrebbero distruggere lui e il suo Varco. Solo i membri della sua motley sanno come accedere all'autostrada digitale, e convincerli a rivelare questa informazione non è un'impresa semplice.  
 
-### Il sentiero rilucente 
+### Il sentiero rilucente
 
 Le leggende tra i Kithain di provenienza marina parlano del Sentiero rilucente. La storia descrive un trod dall'aspetto di un sistema di caverne molto ampio che si connette ad ogni tipo di Vie Argentee che si recano verso roccaforti, laboratori, e persino prigioni.  
 
