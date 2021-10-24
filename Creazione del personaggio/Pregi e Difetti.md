@@ -2,7 +2,7 @@
 
 ## Pregi
 
-### Ambidestro (1 punto)  
+### Ambidestro (1 punto)
 
 Hai un'ottima destrezza anche nella mano debole e puoi eseguire azioni con quella mano senza penalità. Le regole per compiere più azioni vale comunque, ma non subisci una penalità di difficoltà se si usano due armi o se si è costretti ad usare la mano debole.   
 
@@ -85,7 +85,7 @@ Posseduto più comunemente dai redcap questo Pregio ti permette di ricordare il 
 
 Notevole tra i troll e un miracolo tra gli altri kith, la Benedizione di Atlante aumenta permanentemente la tua Forza di uno, e aumenta il massimo livello di uno. Sei solo lievemente più grande dei tuoi pari ma hai la muscolatura definita di un Adone di pietra. Se altri vengono a conoscenza di questo tuo Pregio si aspetteranno che ti comporti da eroe, altrimenti verrai temuto come signore della guerra in fasce.  
 
-## Difetti 
+## Difetti
 
 ### Allergico (1 - 4 punti)
 
@@ -105,7 +105,7 @@ Sei molto più basso dell'altezza media, e sai che il mondo non è fatto per cha
 
 Hai problemi di udito. La difficoltà dei lanci che si basano sull'udito è aumentata di due. A un punto questa condizione può essere corretta con un un apparecchio o un impianto acustico, a due punti non può essere corretta, e a quattro sei completamente sordo e tutti i tiri basati sull'udito falliscono automaticamente.  
 
-### Tic nervoso (1 punto)  
+### Tic nervoso (1 punto)
 
 Hai un movimento ripetitivo che si manifesta in momenti di stress, e rivela sempre la tua identità. Degli esempi includono una tosse nervosa, scrocchiarti le dita, eccetera. Con una spesa di un punto Volontà puoi fermarti dal fare questo tic.  
 
@@ -137,7 +137,7 @@ L'odore delle capre è unico e particolarmente atroce. Sei un sacchettino odoros
 
 Hai un buon livello di saggezza pratica e di ogni giorno. Quando ti stai per comportare in modi contrari al buonsenso, lo Storyteller ti può dare indicazioni o suggerimenti riguardo alle implicazioni delle tue azioni. Questo è un Pregio molto utile per nuovi giocatori poco familiari con il gioco.  
 
-### Calcolatore fulmineo (1 punto) 
+### Calcolatore fulmineo (1 punto)
 
 Sei un genio dell'aritmetica mentale, il che ti rende un talento naturale nel lavorare con i computer o con le scommesse. La difficoltà di tutti i tiri che li riguardano è diminuita di due.   
 
@@ -161,7 +161,7 @@ Mediti spesso sui tuoi motivi ulteriori e li applichi ad altri come te. Grazie a
 
 Conosci un'altra lingua oltre alla tua lingua madre. Puoi prendere questo Pregio più volte per avere più lingue extra.   
 
-### Talento meccanico (1 punto)  
+### Talento meccanico (1 punto)
 
 Sei un talento naturale con ogni genere di marchingegno meccanico. La difficoltà di ogni tiro per comprendere, riparare, o far funzionare ogni genere di macchinario è diminuita di due. Questo Pregio non ti aiuta a guidare, ma ha effetto sia su macchinari chimerici che mondani.  
 
@@ -173,7 +173,7 @@ Il changeling cosmopolita sa l'importanza di essere in grado di comprendere molt
 
 Anche se tutte le fate sono consce dei legami dei giuramenti, per te sono come di natura religiosa. Quando sei sopraffatto il solo pensiero dei tuoi doveri è abbastanza a darti forza per continuare. Riduci la difficoltà di tutti i tiri che riguardano i tuoi giuramenti di tre. Inoltre la forza del tuo senso del dovere potrebbe essere sufficiente a garantire un'immunità temporanea ad altri effetti sovrannaturali (a discrezione dello Storyteller). Non puoi spendere Volontà per azioni che vanno contro i tuoi giuramenti. Questi effetti non sono cumulativi con gli effetti del Pregio *Vero Amore*, anche se possono essere combinati in roleplay.  
 
-### Memoria eidetica (2 punti)  
+### Memoria eidetica (2 punti)
 
 Ti ricordi in perfetto dettaglio tutto ciò che vedi e senti. Documenti, fotografie, conversazioni, ecc, possono essere memorizzate con un briciolo di concentrazione. Se tu come giocatore ti dimentichi qualcosa che lo Storyteller crede ti debba ricordare te lo farà presente. In situazioni di stress con numerose distrazioni devi fare un tiro di Percezione + Consapevolezza per concentrarti e assorbire quello che sentono i tuoi sensi.   
 
@@ -181,19 +181,19 @@ Ti ricordi in perfetto dettaglio tutto ciò che vedi e senti. Documenti, fotogra
 
 La difficoltà dei tuoi tiri mentre progetti, costruisci, o ripari qualcosa è diminuita di due. Inoltre hai bisogno di tre successi in meno per ogni tiro prolungato che fai per lavorare su progetti di larga scala o complessi.  
 
-### Volontà di ferro (3 punti)  
+### Volontà di ferro (3 punti)
 
 Per chi ti denigra hai la testa di coccio. In realtà la tua determinazione e cocciutaggine ti rendono inamovibile quando ti sei deciso su qualcosa. I lanci per magie che alterano la mente su di te hanno un +3 alle difficoltà, per un massimo di 9. Questo Pregio non ha effetto su poteri che riguardano le emozioni. Personaggi con Volontà inferiore a 5 non possono prendere questo Pregio.  
 
-### Istinto viscerale (4 punti)  
+### Istinto viscerale (4 punti)
 
 Hai una linea diretta per i tuoi istinti primordiali, e hai l'abilità di agire sena prima dover pensare. Magari non sai sempre perché fai quello che fai, ma una volta che le nebbie si diradano capisci che hai agito nel modo corretto. Questo Pregio annulla gli effetti della sorpresa e ti permette di agire normalmente, anche se ti puoi solo difendere. In caso tu non sia preso di sorpresa puoi agire prima del tuo avversario.  
 
-### Tuttofare (5 punti)  
+### Tuttofare (5 punti)
 
 Hai un'ampia scelta di varie abilità e conoscenze ottenute con lunghi viaggi, i tuoi vari lavori, o un'esperienza generale. Ottieni automaticamente un punto in tutte le riserve di dadi di Abilità e Conoscenza. Questo è un livello illusorio usato per simulare una vasta gamma di abilità. Se spendi esperienza in una nuova Abilità o Conoscenza devi comunque comprare il primo livello.  
 
-### Sicuro di sé (6 punti)  
+### Sicuro di sé (6 punti)
 
 Quando dichiari di star usando un punto Volontà e tiri, la tua autostima ti concede di avere il beneficio di quella spesa senza il costo del punto Volontà. Non perdi il punto a meno che non fallisci il tiro. Questo inoltre ti previene dal fallire criticamente il tiro. Questo Pregio può essere usato solo quando la difficoltà del tiro è 6 o più.  
 
@@ -215,7 +215,7 @@ La tua vita è una lavagna bianca. Tuttavia le ombre del tuo passato potrebbero 
 
 Non sopporti di vedere altre persone che soffrono. Ti opponi ad ogni situazione che comporta causare dolore e te ne vai dalla zona a meno che tu non passi un tiro Volontà.  
 
-### Curiosità (2 punti)  
+### Curiosità (2 punti)
 
 Sei una persona naturalmente curiosa, e la tua curiosità spesso sopraffà il tuo buonsenso. Per resistere alla tentazione tira Volontà. La difficoltà cambia con la tentazione; è difficoltà 5 per cose tipo 'mi chiedo cosa ci sia in quell'armadio', ma difficoltà 9 per cose tipo 'mi chiedo perché giovani uomini scompaiono nella zona del freehold del Barone. Credo andrò ad investigare'.  
 
@@ -223,7 +223,7 @@ Sei una persona naturalmente curiosa, e la tua curiosità spesso sopraffà il tu
 
 Dalla paura per i pagliacci a quella del buio, c'è una vasta gamma di paure di cui soffrono i Kithain capaci di spaventare anche i più coraggiosi tra loro. A due punti un tiro Volontà fa superare la paura ogni volta che la incontri. la difficoltà del tiro viene determinata dallo Storyteller. Se fallisci il tiro devi ritrarti dall'oggetto. A quattro punti persino la menzione della fobia richiede un tiro Volontà. Anche se passi tutti i tiri di Destrezza per azioni manuali hanno la difficoltà aumentata di due a causa dei tremori incontrollabili che hai fino a che non torni in un luogo sicuro.  
 
-### Mente caotica (2 punti)  
+### Mente caotica (2 punti)
 
 La tua mente è estremamente caotica e imprevedibile, dunque trovi molto difficile concentrarti su una cosa sola. Devi fare un tiro Volontà a difficoltà 4 per ogni lancio per azioni estese oltre il secondo.  
 
@@ -231,7 +231,7 @@ La tua mente è estremamente caotica e imprevedibile, dunque trovi molto diffici
 
 Anche la minima provocazione contro di te o i tuoi compagni più cari ti causa di scagliarti con pugni e calci o qualunque cosa ti ritrovi vicino contro l'offensore. Quando vieni aizzato tira Volontà per ricomporti, con la difficoltà decisa dallo Storyteller basata sulla pesantezza dell'insulto.  
 
-### Vendicativo (2 punti)  
+### Vendicativo (2 punti)
 
 Hai un conto aperto con qualcuno. Il pensiero di una dolce vendetta influenza ogni piano che fai, che tu te ne renda conto o meno. Ogni volta che incontri il soggetto della tua vendetta ci sono poche cose che ti possono fermare dall'ottenerla. Puoi resistere all'impulso temporaneamente spendendo un punto Volontà.  
 
@@ -283,7 +283,7 @@ Hai il dono di un magnetismo naturale a cui tutti istintivamente rispondono. La 
 
 Tra i pooka è comune l'abilità di calmare animali o bambini con una parola o anche solo con uno sguardo. C'è qualcosa nella tua aura che trasmette sicurezza all'animale o al bambino. I cani da guardia o gli animali selvatici non ti attaccheranno mai, e i bambini al tuo cospetto si calmano, guardandoti con fascino e meraviglia.  
 
-### Protégé (1 punto)  
+### Protégé (1 punto)
 
 Una volta un changeling importante ti ha insegnato e ha parlato molto bene di te ai suoi conoscenti. Gli altri potrebbero considerarti meglio grazie a questa raccomandazione: hai un -2 alle difficoltà ai tiri Sociali con coloro che hanno sentito parlare bene di te.  
 
@@ -311,7 +311,7 @@ Hai una buona reputazione tra i changeling della tua Corte. Questo può essere p
 
 Gli altri changeling vengono a te per cercare consiglio. Magari credono nella tua saggezza, età, o esperienza. Magari pensano che tu sia dotato o in grado di giudicare meglio una situazione. Questa fiducia significa che in generale la tua opinione venga chiesta per prima nelle discussioni, e puoi sfruttare questa opportunità per dare saggi consigli o per portare avanti i tuoi piani.  
 
-### Voce da usignolo (2 punti)  
+### Voce da usignolo (2 punti)
 
 I satiri dicono che la tua voce possa incantare le mele a cadere dall'albero. Hai l'orecchio assoluto e puoi cantare a cappella senza perdere note o stonare. Anche quando parli solo la tua voce ha  una qualità seduttiva che attrae chi ti ascolta. Hai un -2 alle difficoltà per tiri che coinvolgono discorsi d'ispirazione o cantare.    
 
@@ -319,7 +319,7 @@ I satiri dicono che la tua voce possa incantare le mele a cadere dall'albero. Ha
 
 Sei nella posizione di reclamare o la proprietà o un titolo su persone, territori, o inventario. Questo rango ti permette di influenzare i tuoi pari e sottoposti con facilità, e quando invochi il tuo titolo la difficoltà nei tiri Sociali è diminuita di due. I nobili ti trattano probabilmente con rispetto e la maggio parte degli altri changeling si rimettono al tuo giudizio. Dei contingenti però, probabilmente formati da eredi rivali, ti vedranno come un obiettivo succulento per assassinio o rapimento.  
 
-### Fingere (3 punti)  
+### Fingere (3 punti)
 
 Parli in modo convincente. Talvolta sei convincente abbastanza da avere ragione. Magari dichiari di poter 'fare quel salto' o di poter 'prendere un punteggio perfetto in quella verifica' o di 'colpire il bersaglio'. Potresti essere criminalmente fortunato o possedere talenti nascosti. Quando menti con successo nelle tua abilità in una determinata azione con un tiro di Sotterfugio + Manipolazione e cerchi di provarla, la difficoltà del tiro per avere successo in questa ambizione è diminuita di due.   
 
@@ -385,31 +385,31 @@ Un fanatico cacciatore di mostri crede - forse a ragione - che tu sia l'anatema 
 
 Hai disertato da una fazione nemica, e hai ancora tanto da dimostrare prima che il gruppo a cui vuoi unirti ti accetti. Gli altri changeling ti trattano con sfiducia e persino ostilità, e la tua reputazione tocca anche coloro che ti circondano.  
 
-# Sovrannaturali  
+# Sovrannaturali
 
 ## Pregi
 
-### Eternità Fatata (1 punto)  
+### Eternità Fatata (1 punto)
 
 Dopo aver fatto la Crisalide, hai avuto un compleanno dopo l'altro. Tuttavia stranamente non stai crescendo, e non invecchi. Sei stato toccato da un'ombra dell'immortalità che un tempo era il diritto natale di tutti i fatati. Finché il tuo seeming fatato è attivo invecchi dieci volte più lentamente di umani o changeling normali. Se il tuo seeming fatato viene distrutto o se ti ritiri nella Banalità ricominci a invecchiare normalmente.  
 
-### Vero Amore (1 punto)  
+### Vero Amore (1 punto)
 
 Hai scoperto e possibilmente anche perso il vero amore, che ti ha donato gioia vera anche se dolorosa. Quando soffri, sei in pericolo, o ti senti abbattuto, il solo pensiero del tuo vero amore è abbastanza a darti la forza di continuare. In termini di gioco questo amore ti concede di riuscire automaticamente a ogni tiro di Volontà finché stai attivamente proteggendo o cerchi di avvicinarti al tuo vero amore. Inoltre il potere del tuo amore potrebbe persino essere potente abbastanza da proteggerti da altre forze sovrannaturali (a discrezione dello Storyteller). Tuttavia, il tuo vero amore può anche essere un ostacolo e richiedere aiuto di tanto in tanto.   
 
-### Cuore poetico (2 punti)  
+### Cuore poetico (2 punti)
 
 Hai una vera anima ispirata in te, con il tuo Glamour che repelle lo scempio della Banalità. Puoi tirare una volta per storia un tiro Volontà a difficoltà pari alla tua Banalità per evitare di ottenere un punto di Banalità temporaneo.  
 
-### Medium (2 punti)  
+### Medium (2 punti)
 
 Hai l'affinità naturale per percepire e sentire i fantasmi. Anche se non li puoi vedere li puoi sentire, parlarci, e, tramite preghiere e convinzione avvicinarli a te. Puoi richiamarli per aiuti o consigli, ma ci sarà sempre un prezzo. La difficoltà di tutti i tiri che coinvolgono gli spiriti dei morti è diminuita di due.  
 
-### Senso del pericolo (2 punti)  
+### Senso del pericolo (2 punti)
 
 Hai un sesto senso che ti allerta del pericolo. Quando sei in pericolo lo Storyteller lancia un tiro di Percezione + Consapevolezza (con difficoltà che dipende dalla distanza del pericolo). Se il lancio ha successi lo Storyteller dirà che hai un certo presentimento. Successi multipli potrebbero dare più dettagli alla sensazione, dandoti direzione, distanza, o natura del pericolo.  
 
-### Favore animale (3-5 punti)  
+### Favore animale (3-5 punti)
 
 Il tuo mien ha una caratteristica animale della tabella qui sotto. Quando hai una caratteristica che ti dona un attacco speciale usa la riserva di dadi standard.  
 
@@ -423,41 +423,41 @@ Il tuo mien ha una caratteristica animale della tabella qui sotto. Quando hai un
 | Pungiglione            | 4     | Arma naturale. 1 danno letale. Paralizza gli avversari per un turno a meno che non passino un tiro di Costituzione a difficoltà 4                                                     |
 | Morso velenoso         | 5     | Arma naturale. 3 danni letali. 1 danno letale assorbibile ogni turno per le 6 ore seguenti                                                                                            |  
 
-### Fortunato (3 punti)  
+### Fortunato (3 punti)
 
 Sei nato fortunato, o è il diavolo a prendersi cura di uno dei suoi. Comunque puoi ripetere tre tiri falliti anche criticamente per storia, ma solo una volta per tiro fallito.  
 
-### Alato (4 punti)  
+### Alato (4 punti)
 
 Hai delle belle ali, che siano le ali piumate di un uccello, ali da pipistrello, o colorate ali da farfalla. Sono chimeriche ma devono essere libere per non incorrere in un malus ai tiri di Destrezza di uno. Potresti dover spiegare perché hai dei tagli sulla schiena di tutte le tue maglie. Puoi volare per brevi periodi di tempo. Queste contano come chimere inanimate.
 
-### Resistenza al ferro (4 punti)  
+### Resistenza al ferro (4 punti)
 
 Il ferro freddo non ha un effetto fisico su di te, anche se contatto continuo comunque ti fa soffrire di Banalità. Questa è una lama a doppio taglio dato che potresti non accorgerti di star sedendo su una panchina di ferro freddo o di essere appoggiato a una ringhiera del metallo maledetto. Un tiro di Percezione + Kenning a difficoltà 7 è necessario per evitare l'esposizione al pericoloso elemento.  
 
-### Sangue di lupo (4 punti)  
+### Sangue di lupo (4 punti)
 
 La tua connessione ai Prodighi mutaforma è più forte degli altro. Hai il sangue di licantropo nelle tue vene, e alcuni di loro ti chiamano consanguineo. Il clan di cui fai parte potrebbe chiederti di eseguire delle missioni per loro, e in cambio ti aiuteranno quando necessario. Potresti avere l'aspettativa di sposarti un licantropo per rinforzare la linea di sangue.  
 
-### Affinità di Arte (5 punti)  
+### Affinità di Arte (5 punti)
 
 Sei in grado di usare una delle Arti più facilmente degli altri changeling. In una precedente incarnazione eri estremamente abile in una delle Arti al punto di portare con te un po' di quella conoscenza in questa vita. Scegli un'Arte; la difficoltà di usare quest'Arte è sempre ridotta di due. Questo Pregio può essere comprato solo una volta.
 
-### Leggenda vivente (5 punti)  
+### Leggenda vivente (5 punti)
 
 Sei l'incarnazione vivente di un grande eroe o eroina; non dev'essere necessariamente un personaggio storico, ma può essere qualcuno di mitologico o persino dalla fiction contemporanea. Nota che sei un'incarnazione, non una reincarnazione. Sei la personificazione di una certa leggenda. Il tuo mien fatato corrisponde perfettamente all'aspetto del personaggio. Qualunque Kithain che conosca anche solo un po' la storia originale ti riconoscerà immediatamente, e probabilmente attirerai molta attenzione in quelle culture dov'è nata la tua leggenda. Quando qualcuno ti riconosce la difficoltà ai tuoi tiri sociali è diminuita di due. Hai accesso a uno dei punteggi di Attributo o Abilità una volta per capitolo. A discrezione dello Storyteller questo Pregio potrebbe anche darti conoscenza o perfino accesso a certe chimere o Tesori collegati alla tua leggenda. Il tuo aspetto e le tue memorie potrebbero renderti difficile passare inosservato nella società normale. Potrebbe anche essere molto difficile soddisfare le aspettative che gli altri avranno per te.
 
-### Rigenerazione (7 punti)   
+### Rigenerazione (7 punti)
 
 La tua natura fatata è resistente e dunque guarisci molto più in fretta degli altri Kithain. Per ogni turno che spendi riposando recuperi un livello salute chimerico. I danni fisici guariscono un livello all'ora. Quando sei in un freehold la velocità di guarigione è raddoppiata. Questo Pregio non guarisce ferite da ferro freddo.
 
 ## Difetti
 
-### Geas (1-5 punti)  
+### Geas (1-5 punti)
 
 Sei vittima di un geas dall'inizio della storia, probabilmente un Ban, oppure una missione a lungo termine. Questo geas può essere una maledizione di famiglia o un dovere che hai ereditato, o ti è stato imposto dall'Arte di un changeling. La difficoltà del geas determina quanti punti vale il Difetto. Qualcosa di piccolo come un Ban che ti preclude di fare del male agli animali varrebbe solo un punto. Geas più difficili valgono più punti. Un geas da cinque è qualcosa che determina la tua intera vita, come un dovere di aiutare chiunque ne abbia bisogno che incontri. Lo Sotryteller decide il valore esatto del geas scelto.  
 
-### Giurato (1-5 punti)  
+### Giurato (1-5 punti)
 
 La tua vita dipende da qualcosa che devi o non devi fare. Potrebbe essere qualcosa che ti è stato fatto promettere o un tuo voto sacro. C'è qualcuno che è testimone di questo tuo voto e vedrà che tu mantenga la promessa. Se disobbedisci le conseguenze saranno funeste. Puoi avere più di un giuramento, e questi possono essere per cose contrarie. La maggior parte dei changeling tengono nascosti questi loro obblighi e proibizioni per evitare che altri li usino come armi contro di loro.  
 
@@ -467,28 +467,28 @@ Anche le conseguenze valgono punti. Fallire criticamente automaticamente il pros
 
 Se spezzi il giuramento per sbaglio puoi provare a fare ammenda per il tuo crimine sistemando qualunque cosa tu abbia fatto di male. Se invece vai contro un giuramento volontariamente e coscientemente e sopravvivi diventerai uno dei peggiori reietti della società fatata, un violatore di giuramenti.
 
-### Lingua di bardo (1 punto) 
+### Lingua di bardo (1 punto)
 
 Dici la verità in modo quasi inquietante. Ciò che dici tende ad avverarsi. Questa non è un'abilità per benedire o maledire, o qualcosa che può essere comandato volontariamente. Almeno una volta per storia una scomoda verità riguardante la situazione corrente ti apparirà in mente e la dirai. Per evitare di profetizzare devi spendere un punto Volontà e prendere un danno contundente per la fatica di resistere.  
   
-### Maledetto (1-5 punti)   
+### Maledetto (1-5 punti)
 
 Sei l'obiettivo di una qualche antica maledizione. La forza e la complessità della maledizione dipende dalla quantità di punti che vuoi comprare.  
 Esempi: Se riveli un segreto che ti era stato affidato il tuo tradimento tornerà a tormentarti in qualche modo (1 punto). Balbetti incontrollabilmente quando descrivi qualcosa che hai sentito o visto (2 punti). Gli strumenti che usi si rompono o malfunzionano (3 punti). Sei destinato a inimicarti chi più ami e ammiri (4 punti). Ognuno dei tuoi trionfi verrà in qualche modo rovinato o ultimamente fallirà (5 punti).
 
-### Occhi di changeling (1 punto)  
+### Occhi di changeling (1 punto)
 
 I tuoi occhi sono di un colore sorprendente,magari smeraldini, violetti, o gialli. Questo è un segno che tu sei un changeling, che chi conosce le vecchie storie saprà riconoscere.  
 
-### Seeming apparente (1-5 punti)  
+### Seeming apparente (1-5 punti)
 
 Il tuo seeming fatato appare nel tuo seeming mortale e ti rende ovvio ai mortali che sanno a che prestare attenzione. Un Difetto da un punto sarebbe un colorito bluastro alla pelle per un troll, e uno da cinque sarebbero le corna di un satiro. Questo potrebbe renderti difficile spiegare queste stranezze ai mortali.  
 
-### Alato (2 punti)  
+### Alato (2 punti)
 
 Come per il pregio, hai delle ali, ma tendono ad essere più brutte e non puoi volare.  
 
-### Echi (2-5 punti)  
+### Echi (2-5 punti)
 
 Hai una forte connessione con il Dreaming, perciò sei più suscettibile alle storie tradizionali di ciò che ha un effetto sulle fate. Anche se Echi è comprato come un Difetto spesso ha anche effetti positivi. I punti ottenuti con questo Difetto simboleggiano il livello del tuo legame con il Dreaming e persino Arcadia. Gli effetti del Difetto sono cumulativi, chi ha il Difetto a livello cinque soffre degli effetti anche dei livelli precedenti.  
 
@@ -500,34 +500,34 @@ Serio: Avere un quadrifoglio addosso protegge un mortale dalle tue Arti, ma se n
 
 Estremo: Ovunque tu rimani abbastanza a lungo si crea un cerchio di funghi, anche su un tappeto. Le Nebbie non riescono più a coprire i tuoi poteri; molti ti ricorderanno quando usi il Glamour in loro presenza. Le creature chimeriche tendono ad essere più vere per te che per altri, e i loro attacchi causano danni veri e permanenti. Allo stesso modo le tue armi chimeriche possono colpire tutti, anche i mortali. Se chiedi le persone ti seguiranno, spesso con un'espressione persa, anche nelle situazioni più pericolose. La difficoltà nel lanciare cantrip può essere abbassata molto a discrezione del Storyteller, ma chi indossa ferro freddo o simboli religiosi sono immuni a tutte le tue Arti. Devi fare un tiro Volontà a difficoltà 7 se vuoi entrare in luoghi sacri. Anche se riesci nel tiro ottieni un livello di salute di danno fisico per turno quando ci entri. (5 punti)
 
-### Qualità bizzarra (2 punti)  
+### Qualità bizzarra (2 punti)
 
 I mortali ti trovano affascinante in modo inquietante. In momenti inappropriati i mortali ti fissano e incominciano a chiacchierare con te sperando di poterti conoscere meglio. Ancora peggio mortali di natura più malvagia sceglieranno prima te che altri come obiettivi per i loro loschi propositi.  
 
-### Allergia al ferro (3-5 punti)  
+### Allergia al ferro (3-5 punti)
 
 La maggior parte dei Kithain soffrono solo se toccano del ferro freddo, ma tu ti ferisci davvero. Il ferro freddo si comporta come un ferro infuocato sulla tua pelle, e ogni turno di contatto soffri un livello di danni chimerici. A quattro punti soffri un livello di veri danni ogni tre turni di contatto con il ferro freddo. A cinque punti soffri questo danno se stai in un raggio di 30 cm al ferro freddo e prendi un livello di danni aggravati per ogni turno in contatto con il ferro freddo.   
 
-### Infestato (3 punti)  
+### Infestato (3 punti)
 
 Un fantasma ti perseguita, ma solo te e i medium lo possono vedere e sentire. Al fantasma fai schifo e si diverte a renderti la vita un inferno. Ha poteri che può usare contro di te scelti dallo Storyteller, che può usare i Prodighi Wraith per ispirazione.  
 
-### Nebbie disperse (3 punti)  
+### Nebbie disperse (3 punti)
 
 La tua magia e le tue abilità non sono affatto nascoste dalle Nebbie. Se un mortale vede le tue azioni non si dimenticherà gli effetti delle tua abilità da fata, il che potrebbe rivelare la tua natura al mondo mortale - con conseguenze potenzialmente catastrofiche.  
 
-### Destino segnato (5 punti)  
+### Destino segnato (5 punti)
 
 Hai nel destino una fine tra le più orribili. Alla fine ogni tuo sforzo, ogni tuo opera, ogni tuo sogno sarà distrutto. Il tuo fato è certo e non puoi farci nulla. Ancora peggio, ne sei parzialmente cosciente grazie a brevi visioni del tuo fato, e sono incredibilmente agghiaccianti. Il malessere che queste visioni ti provocano può essere superato solo con un tiro Volontà, e ritorna dopo ogni visione. In un certo punto della cronaca incontrerai il tuo destino. Anche se non puoi farci nulla, puoi sempre provare a fare qualcosa prima che accada.
 
-### Magnete chimerico (5 punti)  
+### Magnete chimerico (5 punti)
 
 Le chimere ti notano più del normale. In alcuni casi questo è positivo, ma spesso ti causa problemi. Le bestie chimeriche imbizzarrite tendono ad attaccare te prima degli altri. I nervosa ti trovano irresistibile, e spiritelli di tutti i tipi ti fanno scherzi in continuazione.  
 
-### Maledizione dei sidhe (5 punti)  
+### Maledizione dei sidhe (5 punti)
 
 I sidhe vivono nel mortale terrore della Banalità, dato che li colpisce più facilmente di ogni altro kith. Anche se non sei sidhe anche tu hai questa fragilità. Ogni volta che ottieni un punto di Banalità ne ottieni invece due. I sidhe non possono comprare questo Difetto.  
 
-### Vampiro psichico (5 punti)  
+### Vampiro psichico (5 punti)
 
 La scintilla vitale che è in te è morente e può essere nutrita solo tramite forze esterne.Piante e insetti avvizziscono e muoiono in tua presenza mentre ti nutri della loro energia vitale, e ogni persona che tocchi per più di un ora soffre di un danno di salute contundente mentre travasi via la loro vita. Coloro che sono già feriti, compresi quelli che hanno sofferto il livello di salute contundente per aver perso l'energia vitale non guariscono mentre sono in tua presenza. Se non nutri il vuoto che è in te almeno una volta al giorno cominci a morire. Prendi delle ferite segue il progresso della guarigione naturale al contrario: prendi un livello di danno di salute in un giorno, un secondo in tre giorni, un terzo in una settimana, un quarto in un mese, e poi una ferita ogni tre mesi.  

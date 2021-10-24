@@ -2,15 +2,15 @@
 
 I praticanti di Imbroglio intrecciano e tessono il Glamour, ben sapendo che le Nebbie li seguiranno per celare la magia dal resto del mondo. I borghesi furono i primi a imbrigliare le Nebbie per alterare percezione e memoria, e considerano l'uso di quest'Arte come un piccolo atto di ribellione verso la forza che, in genere, limita i loro poteri. È probabilmente a causa di queste origini che l'Imbroglio a lungo è stata considerata un'Arte adatta solo a borghesi. Conoscere e usare quest'Arte ancora oggi porta uno stigma nelle corti governate dai nobili più vecchi.  
 
-## Scatenare l'Imbroglio  
+## Scatenare l'Imbroglio
 
 L'Imbroglio incanalato nel Glamour puro piega la percezione, riscrive la memoria, e rende indiscutibili fantasia e follia. Esempi di ordini per scatenare l'Imbroglio includono "nascondi questa casa dai nostri nemici", "fa' che il mondo dimentichi questo giorno", o "ciò che è stato ritrovato verrà perso nuovamente".  
 
-## I bunk  
+## I bunk
 
 I bunk di Imbroglio usano spesso la voce di chi li lancia, travestimenti, e menzogne. Alcuni esempi includono: insistere che gli amici chiamino la changeling con un nome diverso per un giorno; travestirsi da dottore e curare pazienti; ripetere un segreto tre volte di fronte a una folla; o bruciare una fotografia.  
 
-# ⦿ Illusione ottica  
+# ⦿ Illusione ottica
 
 Illusione ottica, una sottile manipolazione di Glamour per confondere i sensi, crea malintesi e errori. Un pooka che organizza una truffa di rapimenti al telefono ha la voce della madre del bersaglio. Una eshu perseguitata da un cacciatore pazzo entra in un mercato e si fa perdere nella folla. Un sidhe derelitto passa una banconota da un dollaro per una da cento, così che si possa permettere di cenare.  
 
@@ -20,7 +20,7 @@ Illusione ottica è considerata chimerica anche quando usata su soggetti mondani
 
 **Tipo**: Chimerico  
 
-# ⦿⦿ Occhi velati  
+# ⦿⦿ Occhi velati
 
 Se Illusione ottica fa scambiare un soggetto per un altro, Occhi velati sfrutta le Nebbie per farlo diventare istantaneamente dimenticabile. Una Kithain che indossa abiti da corte può passeggiare in una folla di mortali senza essere notata, l'ornato spadone di un troll pende al suo fianco, ignorata anche mentre entra in una banca, e i nemici della changeling non notano le nubi temporalesche che viaggiano in cielo verso la loro casa. Il bersaglio non diventa effettivamente invisibile, ma viene solo trascurato. I changeling possono usare Occhi velati in modo dannoso, velando macchine in corsa e nemici incombenti fino a quando non è troppo tardi.  
 
@@ -38,7 +38,7 @@ I changeling possono opporre questo incantesimo con una [resisted action] azione
 
 **Tipo**: Chimerico o Wyrd in base al soggetto.  
 
-# ⦿⦿⦿ Logica dei sogni  
+# ⦿⦿⦿ Logica dei sogni
 
 Connessioni slegate e illogiche prosperano nel Dreaming, e i changeling esperti in Imbroglio si avvantaggiano di questa stranezza della logica dei sogni per confondere e manipolare. Quando la mente del bersaglio viene avvolta dal Glamour e successivamente dalle Nebbie, diviene confusa e non mette in dubbio frasi o comandi che, di solito, non avrebbero senso. Eshu in segreto mandano messaggi e pacchi con corrieri mortali confusi. La troll guardiana dello zoo doma animali a cui nessun altro si può avvicinare in sicurezza.  
 
@@ -56,7 +56,7 @@ Ogni volta che il personaggio cerca di manipolare o comandare il soggetto, il gi
 
 **Tipo**: Chimerico  
 
-# ⦿⦿⦿⦿ Mente velata  
+# ⦿⦿⦿⦿ Mente velata
 
 Leggende e miti dipingono scene fantastiche - e ben meritate - di fate che rubano le memorie dei mortali. Andando oltre mera vista o udito, la changeling avvolge il bersaglio del cantrip di Glamour e delle Nebbie che lo accompagnano per cancellarlo temporaneamente dalla memoria. L'amante che ha disdegnato un Kithain potrebbe trovare la sua famiglia che la osserva confusa quando torna a casa per una vacanza, o l'avversario del changeling potrebbe dimenticarsi di sfoderare la spada durante il loro duello.  
 

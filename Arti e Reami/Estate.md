@@ -1,4 +1,4 @@
-# Estate  
+# Estate
 
 L'Arte dell'Estate è tra le magie più celebrate dei Kithain, ed è associata in particolare alla corte Seelie. Questa potente Arte stagionale imbriglia la magia del fuoco, della passione, di caldi giorni di desiderio e notti di sogni. Molti changeling la considerano uno strumento senza prezzo per persuadere il Glamour ad uscire dal cinico cuore del Mondo d'Autunno.  
 
@@ -8,11 +8,11 @@ Anche se l'Arte dell'Estate è ampiamente considerata una magia Seelie, la verit
 
 Scaatenamenti dell'Estate sono eventi di meraviglia e potere che creano tempeste di calore o intrappolando intere comunità nelle profondità delle loro passioni più sfrenate. Queste tendono ad essere brevi, incontrollate, ed estenuanti, perciò i satiri in particolare talvolta sostengono la mozione di riversare torrenti di Glamour Estivo grezzo nel Mondo d'Autunno per promuovere il suo semplice benessere. Altri Kithain, ricordando la violenza e le ceneri che accompagnano spesso una magia così imponente sono più riluttanti.  
 
-### I bunk dell'Estate  
+### I bunk dell'Estate
 
 I bunk di Estate di solito coinvolgono i finimenti dell'estate, del giorno, del calore, della passione, della libertà, e della gioia. Esempi di bunk sono: stracciare vecchi compiti, esultare di gioia, danzare energeticamente, scalare un albero, masticare un filo d'erba, indicare tre forme nelle nuvole, appiccare un fuoco, fissare il sole, suonare una campana, saltare giù una rampa di scale, dipingere un paesaggio, fare un pisolino nell'erba alta abbastanza da nasconderti, cantare una canzone, o pronunciare il tuo vero nome tra le pale di un ventilatore acceso.  
 
-## ⦿ Sfarfallio  
+## ⦿ Sfarfallio
 
 Chiunque si avvicini alla porta di un vecchio grump clurichaun lascia perdere le faccende che lo hanno portato lì, diventando consumati da sentimentalismi di rimorsi. Una satira si ricopre con una nuvola di desiderio, preparandosi per una notte fuori in città.  
 
@@ -22,7 +22,7 @@ Questo cantrip invoca luminose lucciole danzanti di vari colori dalla sostanza d
 
 **Tipo**: Chimerico  
 
-## ⦿⦿ Infiammare 
+## ⦿⦿ Infiammare
 
 Un bullo trema nel buio, e una sluagh carica quella tensione in urla di terrore. La battuta di una pooka viene accolta da poche risate prima che forzi un po' di magia nella risposta del pubblico, che ora riempie la stanza con risate impotenti. Esalando un respiro di Glamour, la changeling attizza le fiamme della passione fino a farle diventare roboanti. Ogni emozione che un individuo sente quando incantato con *Infiammare* si intensifica drammaticamente . l'irritazione diventa profondo risentimento, la rabbia diventa furore ribollente, la tristezza si muta in disperazione debilitante, la felicità diventa gioia senza confini, e l'amore una passione infinita. Se diretto a un oggetto, allora le emozioni che ispira in quelli che ci interagiscono sono quelle ingigantite.  
 

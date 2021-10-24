@@ -1,33 +1,34 @@
 # Seelie
 
-- Zotico
-- Cortigiano
+- Aiutante
 - Artigiano
+- Bardo
+- Cortigiano
 - Damerino
 - Eremita
 - Orchidea
 - Paladino
-- Aiutante
 - Reggente
 - Saggio
 - Santo
 - Scudiero
-- Bardo
 - Viandante
+- Zotico
 
 # Unseelie
 
 - Bestia
-- Fatalista
-- Sciocco
-- Grottesco
 - Canaglia
-- Fuorilegge
-- Pandora
-- Pavone
+- Capobanda
+- Disgraziato
 - Dissoluto
 - Enigmista
-- Capobanda
+- Fatalista
+- Fuorilegge
+- Grottesco
 - Ladro
+- Pandora
+- Pavone
+- Sciocco
 - Selvaggio
-- Disgraziato
+

@@ -5,11 +5,11 @@
  - Book of Freeholds [Free]
 ## Piani
 - [x] Tradurre il glossario a inizio libro (fatto C20)
-    - [ ] Tradurre glossario della scheda del giocatore
-    - [ ] Tradurre lista di Pregi e Difetti
+    - [x] Tradurre glossario della scheda del giocatore
+    - [x] Tradurre lista di Pregi e Difetti
     - [ ] Tradurre lista di Attributi e Abilità
-    - [ ] Tradurre lista di Background
-    - [ ] Tradurre lista Legacies
+    - [x] Tradurre lista di Background
+    - [x] Tradurre lista Retaggi
 - [ ] Tradurre Arti e Reami 
     - [x] Scrivere riassunto di Arti e Reami (nota: mancano ancora le Arti Infusione e Narrastorie da C20PC)
     - [x] Tradurre parti su Cantrip
