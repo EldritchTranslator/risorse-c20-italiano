@@ -32,7 +32,7 @@ Inoltre una volta per sessione può spendere un punto Glamour per abbassare di 2
 
 **Difetto**: Per ogni pallino di Titolo che ha il personaggio una parte del suo corpo deve essere sostituita da una protesi meccanica, costruita da lui stesso o acquisita magicamente con il titolo. Queste protesi non sono necessariamente visibili nel Seeming mortale.  
 
-Ogni due protesi (arrotondate per eccesso)il personaggio soffre di un malus di -1 ai tiri di Affinità animale, Empatia e Sotterfugio. Se la protesi viene toccata da del ferro freddo smette di funzionare finché il metallo non viene rimosso.  
+Ogni due protesi (arrotondate per eccesso) il personaggio soffre di un malus di -1 ai tiri di Affinità animale, Empatia e Sotterfugio. Se la protesi viene toccata da del ferro freddo smette di funzionare finché il metallo non viene rimosso.  
 
 **Esilio**: L'Esilio dei Dougal avvenne a causa della loro passione per la tecnologia mondana e la loro convinzione che anche i perfetti fatati di Arcadia potessero migliorare usandola. Girano inoltre leggende su invenzioni che sono fallite in modo spettacolare.  
 
@@ -76,3 +76,4 @@ Al loro ritorno i sidhe Eiluned aiutarono a deporre i popolani che avevano preso
 - Daireann
 - Leanhaun
 - Varich
+

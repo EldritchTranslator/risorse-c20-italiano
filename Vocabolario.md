@@ -77,7 +77,8 @@ Resurgence - Rinascita
 Elder Dark - Oscurità Antica  
 Gateway - Varco  
 Accordance War - Guerra di Concordanza  
-Extended rolls - tiri prolungati
+Extended rolls - tiri prolungati  
+Bestowment - dote
 
 Banality trigger - tenere in inglese, o parafrasarlo, o semmai 'fattor scatenante'.  
 

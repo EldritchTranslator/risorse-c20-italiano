@@ -1,15 +1,15 @@
-# Primavera  
+# Primavera
 La Primavera incarna il vibrante ottimismo, meraviglia, e affinità con la natura delle fate. I cantrip di primavera incanalano il Glamour in  crescita, nuova vita, e protezione. Anche se i changeling più moderni preferiscono Primevo, Primavera mantiene un gruppo di praticanti dedicati, specialmente nella Corte Seelie.  
 
-### Scatenare la Primavera  
+### Scatenare la Primavera
 
 La Primavera scatenata può generare coperte di fogliame, purificare maledizioni e magie oscure, e ristorare ciò che è rotto. Incanalando il Glamour tramite l'Arte della Primavera un changeling può ricoprire un edificio in verde, spezzare temporaneamente una maledizione che affligge la sua motley, o curare le ferite mortali di chi la circonda dopo un'esplosione.  
 
-### I bunk della Primavera  
+### I bunk della Primavera
 
 I bunk della Primavera spesso coinvolgono natura, animali, cerchi, e sessualità. Esempi di bunk sono: spogliarsi e arrampicarsi su un albero in Central Park, filmare un video porno che diventa virale, raccontare la favola dei tre porcellini a un pubblico di maialini allo zoo per bambini, correre attorno al tuo nemico in cerchio per tre volte, o confessare un amore non corrisposto.  
 
-## ⦿ Risveglio  
+## ⦿ Risveglio
 
 Nuova vita, un germoglio che spunta - al cuore della Primavera c'è la promessa di inizi e di risveglio da sonno e letargo. La changeling incomincia il suo viaggio nell'Arte della Primavera imparando a proclamare una fine all'ibernazione e incoraggiare la crescita. La changeling pianta un seme di Glamour e poi osserva mentre mette radice e risveglia il soggetto del cantrip.  
 
@@ -29,7 +29,7 @@ Un satiro fa crescere un giardino nel mezzo del suo appartamento per impressiona
 
 **Tipo**: Wyrd  
 
-# ⦿⦿⦿ Pozzo della vita 
+# ⦿⦿⦿ Pozzo della vita
 
 Leggende sull'acqua della vita, su pozzi magici o di elisir che guariscono ferite o donano vita eterna appaiono nella maggior parte delle culture nelle varie epoche. Questo cantrip di Primavera non dona nuova gioventù o l'immortalità, ma infonde il soggetto di Glamour che guarisce chiunque sia vicino o in contatto con il cantrip. 
 

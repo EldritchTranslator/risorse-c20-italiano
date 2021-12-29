@@ -2,15 +2,15 @@
 
 L'anima di ogni changeling brucia con la forza del Dreaming, ma non tutti imparano a prendere il controllo di quella fiamma con la magia della Piretica. Il fuoco consuma, purifica, protegge, e rinnova. Kithain di ogni tipo rispettano il potere del fuoco, e non importa di che corte, casato, o rango facciano parte, tutti ricercano i suoi segreti.  
 
-## Scatenare la Piretica  
+## Scatenare la Piretica
 
 Scatenare il Glamour con la Piretica può bruciare via impurità o illusioni, causare distruzione terribile, o rifare qualcosa come nuovo. Il personaggio può invocare l'Arte per creare un cerchio di fuoco protettivo, consumare i fantasmi lanciati per distrarla o perseguitarla, o per trasformare il suo sudore e le sue lacrime in Glamour fuso che appiccano fuoco ovunque tocchino.  
 
-## I bunk della Piretica  
+## I bunk della Piretica
 
-Non sorprende che i bunk della Piretica coinvolgano spesso fuoco e distruzione, ma includono anche rimuovere impurità, cucinare, e nuova vita. Esempi di bunk sono: bruciare qualcosa, o bruciare tutto, dare nuova vita a qualcosa di rotto, tenere un fiammifero acceso sotto la mano finchè non ti scotti, racontare una storia attorno a un falò, creare una scultura di vetro per poi frantumarla, o cantare una ballata finendo proprio al sorgere del sole.  
+Non sorprende che i bunk della Piretica coinvolgano spesso fuoco e distruzione, ma includono anche rimuovere impurità, cucinare, e nuova vita. Esempi di bunk sono: bruciare qualcosa, o bruciare tutto, dare nuova vita a qualcosa di rotto, tenere un fiammifero acceso sotto la mano finchè non ti scotti, raccontare una storia attorno a un falò, creare una scultura di vetro per poi frantumarla, o cantare una ballata finendo proprio al sorgere del sole.  
 
-# ⦿ Accensione  
+# ⦿ Accensione
 
 Un cantrip di base ma estremamente utile, Accensione scalda il focus del Glamour abbastanza da dare fastidio senza fare del male. Accensione può cuocere il cibo, aiutare ad accendere un fuoco, far sudare qualcuno facendolo apparire febbricitante, o scaldare una pistola abbastanza da bruciare chi la tocchi.  
 
@@ -32,7 +32,7 @@ Ogni illusione sovrannaturale o travestimento con un livello di potere minore de
 
 **Tipo**: Wyrd o Chimerico.  
 
-# ⦿⦿⦿ Purificazione  
+# ⦿⦿⦿ Purificazione
 
 Non c'è impurità che può resistere a calore, ma gli studenti di Piretica possono bruciare i contaminanti con fuoco chimerico che non danneggia o consuma il soggetto. *Purificazione* rende acqua e cibo sicuri da consumare, può distruggere infezioni o veleni, e anche curare malattie temporaneamente. Insieme al Reame Fate, chi lo lancia può persino bruciare via maledizioni ed effetti di altri cantrip.  
 
@@ -42,7 +42,7 @@ Il tentativo di un traditore di avvelenare la motley fallisce a causa del cantri
 
 **Tipo**: Wyrd  
 
-# ⦿⦿⦿⦿ Inghiottire  
+# ⦿⦿⦿⦿ Inghiottire
 
 Talvolta un changeling vuole semplicemente appiccare fuoco a qualcosa. Un cantrip semplice e potente, *Inghiottire* fa bruciare un soggetto. Il changeling può scegliere se il soggetto della magia brucia o se viene protetto dalla corona di fiamme magiche. Quando il fuoco si propaga a qualcosa di vicino, si comporta come del fuoco normale, bruciando e spargendosi, al di fuori del controllo del changeling.  
 
@@ -52,7 +52,7 @@ Un clurichaun infiamma la pioggia e rade al suolo la fabbrica dove faticava prim
 
 **Tipo**: Wyrd.  
 
-# ⦿⦿⦿⦿⦿ Canto della fenice  
+# ⦿⦿⦿⦿⦿ Canto della fenice
 
 La fenice brucia e diventa cenere, e risale dalla distruzione delle fiamme come nuova. Maestria della *Piretica* dona al changeling il potere di rinnovare la vita nella distruzione. Dopo che la changeling invoca il *Canto della fenice*, se il soggetto di questa benedizione muore o viene distrutto, brucerà fino a diventare cenere per poi risorgere poco dopo.  
 

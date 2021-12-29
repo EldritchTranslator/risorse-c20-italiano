@@ -1,0 +1,5 @@
+La festività che celebra tutto ciò che è Unseelie, che consiste fino a una settimana di celebrazioni che culmina alla notte del Samhain vero e proprio.  
+
+Questi eventi opulenti e grandiosi hanno lo scopo non solo di celebrare gli Unseelie ma anche di scanzonare quelle fate Seelie che si rifiutano di lasciare andare la loro sovranità durante la "metà oscura" dell'anno. Con il tempo ha incorporato un numero di tradizioni che riguardano il giorno stesso come il cambiare delle stagioni, ma la più forte è la festività di Halloween o Ognissanti. Che sia una sola sera di celebrazione, uno sballo di tre giorni, o una settimana devota a tutto ciò Unseelie, chiunque vi partecipi deve attenersi alle tradizioni simboleggiate dal Codice Unseelie.  
+
+Anche se sono i membri delle corti Seelie e Ombra a ospitare le celebrazioni di Samhain, tutti coloro che hanno sangue fatato e persino alcuni Prodighi alleati sono i benvenuti a partecipare alle festività. 

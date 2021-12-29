@@ -48,4 +48,28 @@ Il changeling non solo sa quando qualcuno ha spezzato un giuramento presenziato 
 
 **Sistema**: Questo cantrip modifica Campana del menzognero, e crea un ponte automatico tra il changeling e lo spergiuro quando il contratto è infranto. Il changeling può lanciare un qualunque cantrip che conosce di riflesso in quel momento, come se il soggetto fosse di fronte a lui, anche se non ha i Reami di Fae o Attore; può colpire il soggetto con qualunque Reame abbia usato nel contratto.  
 
+**Tipo**: Chimerico  
+
+## ⦿⦿⦿⦿ Contratto informale
+
+Questo temibile incantesimo dona al changeling potere su anche gli accordi più informali, permettendole di incantare accordi noncuranti ("sì, ci sarò"), vuoti vanti ("se quel redcap mette piede in questo bar prenderò lui e la sua motley insieme a frustate"), e persino risposte sarcastiche ("oh, certo che sosterrò il Duca Dray, amo tanto i nobili!").  
+
+**Sistema**: Questo cantrip modifica permanentemente *Affare fatto*.  
+
+**Tipo**: Chimerico  
+
+## ⦿⦿⦿⦿⦿ Parole sante
+
+Questo fantastico cantrip permette al changeling di intessere del Glamour aggiuntivo nel contratto, dando potenti poteri aggiuntivi a chi ne è legato. Il potere di parole sante può essere usato solo per adempiere il contratto, ma certi giuramenti possono essere molto ampi ("giuro di proteggere il Duca con la mia vita").  
+
+**Sistema**: I successi ottenuti per l'attivazione di *Affare fatto* oltre a stabilire l'importanza del giuramento possono essere usati per comprare incanti dalla lista qui sotto. Spendere successi per comprare incanti non diminuisce la serietà di un giuramento infranto.  
+
+- **Benevolenza delle Nebbie (1 successo per dado)**: Il giurato ottiene una riserva di dadi extra a cui può attingere ad ogni scena per i tiri volti ad adempiere il contratto. Questa riserva si rinnova all'inizio di ogni scena.  
+- **Volontà rinforzata (1 successo per punto Volontà)**: Il giurato ottiene una riserva di punti Volontà che possono essere spesi per adempiere il contratto. Questa riserva si rinnova all'inizio di ogni scena. 
+- **Stemma della missione (1 successo)**: Il giurato ottiene uno stemma, un sigillo, o un simbolo chimerico che può mostrare come prova per dimostrare il suo ruolo nella missione. Questo viene spesso dato ai cavalieri che stanno compiendo una missione per dei nobili potenti. Gli esseri del Dreaming riconoscono e capiscono in modo innato il significato di questi simboli.  
+- **Legame di Glamour (2 successi per punto Glamour)**: Il giurato ottiene una riserva extra di punti Glamour a cui può attingere ad ogni scena per i tiri volti ad adempiere il contratto. Questa riserva si rinnova a ogni alba (se il giurato è Seelie) o tramonto (se Unseelie).  
+- **Ispirazione arcadiana (2 successi)**: Nel momento in cui tutto sembra perduto e che non si possa completare il contratto il giurato può richiamare *Ispirazione arcadiana* per mostrare una via, un indizio, o uno sprazzo di ispirazione che li può portare a una soluzione. La forma viene scelta dallo Storyteller. *Ispirazione arcadiana* può essere usata solo una volta per storia.  
+- **Dote (3 successi)**: Al giurato viene conferita una [Dote]() finché mantiene i principi del contratto. 
+- **Conferma (3 successi)**: Il momento che il contratto è concluso con successo il giurato perde tre punti Banalità. Un personaggio può beneficiare di questo contratto solo una volta per storia.  
+
 **Tipo**: Chimerico
