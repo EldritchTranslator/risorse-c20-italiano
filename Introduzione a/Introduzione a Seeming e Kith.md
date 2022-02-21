@@ -46,7 +46,7 @@ Sono abili nel rivedere piani senza tralasciare dettagli, e si sforzano di ripar
 
 I grump possono tornare wilder dopo una improvvisa infusione di Glamour, specialmente se ottenuta durante un progetto o un'avventura, mentre una rivelazione improvvisa sulla bellezza del mondo li può persino riportare a childling. Talvolta per scappare alla Banalità i grump si rinchiudono nei Freehold, anche se isolarsi così è pericoloso.  
 
-### Corti  
+### Corti
 
 Grazie alla loro esperienza i grump di entrambe le corti sono più efficaci nei loro compiti.  
 
@@ -62,7 +62,7 @@ Grazie alla loro esperienza i grump di entrambe le corti sono più efficaci nei 
 
 Il kith di un changeling viene dal sogno che incarna, e definisce il suo aspetto e come si connette al Dreaming.  
 
-## Boggan  
+## Boggan
 
 I boggan nascono dai sogni di carità, servizio, vendetta, e del focolare domestico. Sono gran lavoratori e alquanto pettegoli. Finiscono naturalmente per gestire case, famiglie, o freehold, che siano i loro o altrui, e anche i boggan Unseelie sono ospiti eccellenti.  
 
@@ -72,11 +72,11 @@ I boggan danno molta importanza al buon vivere e all'essere comodi. Grazie al lo
 
 **Affinità**: Attore  
 
-### Aspetto  
+### Aspetto
 
 I boggan sono bassi e morbidi, dall'aspetto accogliente. Hanno capelli e sopracciglia folte e piccoli occhietti vivaci. Le loro mani e la loro pelle sono spesso segnate da anni di lavoro, e sono molto attivi.  
 
-### Baldoria  
+### Baldoria
 
 Aiutare qualcuno con un lavoro spiacevole e/o tedioso, senza che questa persona mai lo venga a sapere idealmente, ma sicuramente senza farsi pagare.  
 
@@ -90,7 +90,7 @@ Aiutare qualcuno con un lavoro spiacevole e/o tedioso, senza che questa persona 
 
 **Voce del bisognoso**: Quando un boggan incontra qualcuno che davvero ha bisogno di aiuto deve tirare Volontà a difficoltà 8 per non aiutarlo in qualche modo. Questa Fragilità non si attiva con i nemici.
 
-## Clurichaun  
+## Clurichaun
 
 I clurichaun sono changeling provenienti dall'Irlanda che condividono il loro background culturale con la leggenda dei leprecauni. Sono cantastorie e intrattenitori con un amore per musica, lotte, e incensare gli animi del pubblico. Il loro modo naturale di catarsi e di rivelare i lati nascosti delle persone sono appunto le zuffe che spesso istigano.  
 
@@ -98,21 +98,21 @@ Hanno inoltre una passione per il collezionismo, e quasi ogni clurichaun collezi
 
 **Affinità**: Attore
 
-### Aspetto  
+### Aspetto
 
 I clurichaun sono spesso bassetti di statura e solidi di costituzione, con orecchie a punta, capelli rossi e occhi chiari. Spesso si vestono con dettagli in verde nei loro abiti, ma tendono a mantenersi sul pratico. 
 
-### Baldoria  
+### Baldoria
 
 I clurichaun raccolgono il Glamour nativamente dalla gioia che un collezionista prova nell'ampliare la sua collezione con qualcosa di speciale.
 
-### Diritti di nascita  
+### Diritti di nascita
 
 **Battito di ciglia**: A meno che il clurichaun non sia fermato con il ferro freddo, se si distoglie lo sguardo è in grado di dileguarsi riapparendo nella stessa area ma al di fuori del campo visivo. Se il changeling è trattenuto da legami o braccia questa abilità costa un punto Glamour.  
 
 **Parole di battaglia**: I clurichaun sanno esattamente che dire per provocare qualcuno a incominciare una lotta (facendo tirare loro un tiro Volontà a difficoltà 8). La lotta non deve necessariamente includere il changeling.
 
-### Fragilità  
+### Fragilità
 
 **Tesoro**: Spendere tempo con la propria collezione è di vitale importanza per un clurichaun. Passare una settimana lontano dai propri tesori è un trigger di Banalità.
 
@@ -126,7 +126,7 @@ Gli eshu vivono dove gli è più comodo per viaggiare, e sono raramente legati a
 
 **Affinità**: Scena
 
-### Aspetto  
+### Aspetto
 
 Secoli di migrazioni e pellegrinaggi danno agli eshu la possibilità di poter sembrare di qualunque retaggio culturale, ma rimangono spesso legati alle loro origini mediorientali e asiatiche con pelle e capelli scuri. Hanno un aspetto longilineo e aggraziato, e si vestono con gran cura, scegliendo di seguire le mode del posto dove stanno al momento.  
 
@@ -134,17 +134,17 @@ Secoli di migrazioni e pellegrinaggi danno agli eshu la possibilità di poter se
 
 Gli eshu raccolgono naturalmente Glamour presenziando e partecipando a proteste e discorsi pubblici, specialmente quelle che hanno aiutato ad organizzare.
 
-### Diritti di nascita 
+### Diritti di nascita
 
 **Serendipità**: Gli eshu arrivano al posto giusto al momento giusto. A un bivio sanno che strada prendere, e normalmente non si possono mai perdere. Nel caso questo succeda per motivi magici si può spendere un punto Glamour per riportare l'eshu sulla retta via.  
 
 **Forgiastorie**: Gli eshu guadagnano un punto esperienza extra quando partecipano a un'avventura che può far nascere una storia. Gli eshu non possono fallire criticamente tiri di Espressività o Empatia.  
 
-### Fragilità  
+### Fragilità
 
 **Imprudenza**: Gli eshu non possono resistere a una scommessa o una sfida, e farlo è un trigger di Banalità per gli eshu.
 
-## Nocker 
+## Nocker
 
 I nocker sono, essenzialmente, l'incarnazione del sogno dell'inventore. Amano circondarsi di invenzioni e meraviglie più che di persone, e si contraddistinguono con la loro lingua tagliente e parole caustiche. Questi changeling sono a una costante ricerca di una perfezione nelle loro opere che non arriverà mai, giorno dopo giorno.  
 
@@ -160,26 +160,41 @@ I nocker hanno pelle rossastra in tutto il corpo tranne che in viso, che è bian
 
 Un nocker guadagna Glamour quando si mette a riparare oggetti mondani che non le appartengono, oppure quando lavora con altri inventori su qualche progetto innovativo.
 
-### Diritti di nascita  
+### Diritti di nascita
 
 **Fallo funzionare**: Un nocker è in grado di creare oggetti chimerici semplici e temporanei ma utili con qualunque cosa abbiano disponibile. Per creare con successo un oggetto bisogna tirare Intelligenza + Manualità a difficoltà variabile per i materiali usati. Quando si attiva questo Diritto possono essere presenti solo Kithain, a patto che questi ultimi non disturbino il nocker.  
 
 **Aggiustatutto**: I nocker sono in grado di aggiustare di tutto, che sia chimerico o mondano. Si possono fare due tipi di tiri: Intelligenza + Manualità per aggiustare l'oggetto in modo più tradizionale o Manipolazione + Intimidazione se si vuole far funzionare l'oggetto con un paio di schiaffi e un calcio. La difficoltà base è 5.
 
-### Fragilità  
+### Fragilità
 
 **La perfezione è nemica del completamento**: Un oggetto creato o riparato da un nocker inevitabilmente ha una qualche piccola ma irreparabile imperfezione. Se usato in situazioni di stress, lo Storyteller può chiedere il tiro di un dado - con un 1, l'oggetto esplode.
 
-## Piskie  
+## Piskie
 
-I piskie sono un kith nato dal sogno di anonimia, e sono i messaggeri e i cercatori tra le fate. Talvolta fungono anche da spie. Sono caratterizzati dal fatto di appartenere a qualsiasi gruppo a cui si uniscano, e preferiscono la compagnia di mortali o altri kith.
+I piskie sono un kith nato dal sogno di anonimato, e sono i messaggeri e i cercatori tra le fate. Talvolta fungono anche da spie. Sono caratterizzati dal fatto che sembrano appartenere a qualsiasi gruppo a cui si uniscano, e preferiscono la compagnia di mortali o altri kith. Anche se hanno un vero aspetto fisico, le caratteristiche principali che li accomunano sono gentilezza, compassione, essere buoni ascoltatori, e un po' di cleptomania.  
 
-**Affinità**:
+I piskie inoltre amano i bambini e sono sempre propensi a proteggerli. Sono corrieri e spie nate che amano viaggiare, e sono felici quando connettono con gli altri. Stringono raramente dei giuramenti.  
+
+**Affinità**: Attore
 
 ### Aspetto
+
+I piskie hanno un aspetto senza tratti distintivi, e cambia con il gruppo con cui sta viaggiando. Di default hanno un aspetto con la carnagione olivastra e i capelli argentei. Hanno orecchie appuntite e una corporatura solida.
+
 ### Baldoria
-### Diritti di nascita 
+
+I piskie vengono ispirati quando sono immersi in un gruppo. Quando il suo gruppo ha delle esperienze altamente emotive, come perdite o nascite o altri simili eventi il piskey ottiene il Glamour. 
+
+### Diritti di nascita
+
+**Agile**: Gli agili e sottili corpi dei piskie sono fatti per torcersi e evitare i problemi. Non è sorprendente che i piskie spesso facciano parte di un gruppo di circensi. I piskie aggiungono un pallino in Destrezza anche se questo li porterebbe oltre al 5.  
+
+**Mimesi**: Non importa dove vanno, i piskie sembrano sempre che ci appartengano. Il loro colore degli occhi, dei capelli, della carnagione, tratti del viso e vestiario sembrano tutti appartenere al gruppo con cui stanno viaggiando. Ogni changeling e entità sovrannaturale può fare un tiro di Percezione + Kenning (diff 8) per vedere oltre l'illusione.  
+
 ### Fragilità
+
+**Mano di velluto**: Non è che i piskie siano ladri, ma nelle loro tasche appaiono oggetti di valore. Quando un piskey vede qualcosa che desidera non può fare altro che prenderlo, spesso anche senza accorgersene. Per resistere a questo impulso il giocatore deve fare un tiro di Volontà (diff 8). I piskie non sono sempre cauti con le loro azioni, ed è perfettamente possibile che vengano visti, anche se il loro Diritto di nascita *Agile* lo rende meno probabile.  
 
 ## Nome
 
@@ -192,7 +207,7 @@ I piskie sono un kith nato dal sogno di anonimia, e sono i messaggeri e i cercat
 
 Piskie
 Pooka
-Redcap
+Cappuccio Rosso
 Satiro
 Selkie
 Sidhe Arcadiano

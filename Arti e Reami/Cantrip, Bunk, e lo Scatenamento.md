@@ -11,7 +11,7 @@ Il giocatore deve lanciare il punteggio nell'Arte del personaggio più il punteg
 Il giocatore decide se fare un bunk o meno, e poi o separa la sua riserva di dadi o ritarda il lancio del cantrip fino alla risoluzione delle azioni del bunk.  
 ## 6. Determinare la difficoltà
 Lo Storyteller determina la difficoltà del lancio, a base 8, con tutti i modificatori necessari.  
-## 7. Completare il cantrip  
+## 7. Completare il cantrip
 Il giocatore lancia i dadi e consulta l'Arte usata per vedere come interpretare i risultati del lancio.  
 
 # Cantrip

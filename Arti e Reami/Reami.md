@@ -12,7 +12,7 @@ I Reami hanno un punteggio in pallini, e ciascuno dona un dominio sempre maggior
 
 Il risultato tutto assieme in gioco è che quando si lancia un cantrip il giocatore lancia una riserva di dadi pari al livello dell'Arte usata + il punteggio totale più basso tra i Reami primari usati. Tempo e Scena non cambiano mai il numero della riserva.  
 
-# Attore  
+# Attore
 
 Questo Reame dà potere sulla gente del Mondo d'Autunno. Il suo ambito comprende la gente normale, ma anche gli incantati, i Kinain, maghi, e anche i Prodighi come vampiri e licantropi (ma non i Kithain e i loro pari).  
 
@@ -52,7 +52,7 @@ Questo Reame dà potere sugli oggetti e i figli del Dreaming - i Kithain e i lor
 
 Nota bene: questo Reame è relativo ed è presentato dalla prospettiva dei Kithain, che in genere sono i protagonisti di Changeling: il Dreaming, ma non sono i soli changeling del mondo. Quando è usato per esempio dalle Menehune hawaiane il primo pallino del Reame ha effetto sui kith comuni come hana e kokua, mentre il secondo rende efficaci i cantrip sui kith nobili ali'i e kahuna. A un Menehune per interagire con un troll, sidhe, o redcap servirà Fae ⦿⦿⦿⦿, dato che i Kithain non hawaiani sono alieni alla sua identità nel Dreaming.  
 
-## ⦿ Popolano cordiale 
+## ⦿ Popolano cordiale
 
 Un changeling iniziato in questo Reame incomincia come prima cosa a poter lanciare cantrip sugli umili popolani del mondo fatato.  
 
@@ -70,13 +70,13 @@ Coloro che hanno ottenuto notevole abilità nell'uso del Reame di Fae eventualme
 
 Esempi: I nervosa, i tuoi amici immaginari, la maggior parte delle creazioni dei nocker.  
 
-## ⦿⦿⦿⦿ Gallain elusivi  
+## ⦿⦿⦿⦿ Gallain elusivi
 
 I più potenti adepti del Reame di Fae possono bersagliare quelle strane fate distinte dai Kithain dall'imperscrutabile volontà del Dreaming. Solitamente questa categoria comprende le Nunnehi, Menehune, Adhene, Inanimae, Thallain, e tutti gli altri bizzarri abitanti del Dreaming. Include anche ogni altro essere strano e incorporeo che può incontrare un changeling, come spiriti e fantasmi.  
 
 Esempi: Goblin, kachina, bambini dell'acqua, hana, fantasmi, naraka, Hsien.  
 
-## ⦿⦿⦿⦿⦿ Gran signore del Glamour 
+## ⦿⦿⦿⦿⦿ Gran signore del Glamour
 
 I master del Reame di Fae possono interagire con il loro potere direttamente su ricettacoli di Glamour vivo: cantrip, Tesori, freehold, dross, trod, e così via.  
 
@@ -86,13 +86,13 @@ Esempi: Caliburn, un trod chiuso, il balefire di un freehold.
 
 Questo Reame comprende le forse pure e fantastiche della natura. E' definito da una comprensione dei fenomeni e delle sostanze naturali classica e olistica, non una clinica.  
 
-## ⦿ Elemento di base  
+## ⦿ Elemento di base
 
 Il changeling può dirigere un cantrip a manifestazioni ben definite dei quattro classici elementi (aria terra, acqua e fuoco.) Queste manifestazioni devono essere abbastanza dirette e inorganiche. Dato che è difficile quantificare manifestazioni discrete di aria, questo elemento spesso richiede anche il Reame di Scena.  
 
 Esempi: una pozzanghera, una roccia, un fuoco da campo, il terriccio di una tomba, l'acqua in una vasca da bagno.  
 
-## ⦿⦿ Materiale grezzo 
+## ⦿⦿ Materiale grezzo
 
 Il changeling può influenzare materiali non vivi ma organici come legna, carta, corda, canapa, e così via.  
 
@@ -104,7 +104,7 @@ In questo livello di iniziazione una changeling può ora bersagliare con i suoi 
 
 Esempi: una fioriera, un cactus, una quercia imponente, delle liane kudzu, una mela appena colta, un salice piangente.  
 
-## ⦿⦿⦿⦿ Animale selvatico  
+## ⦿⦿⦿⦿ Animale selvatico
 
 Gli adepti del Reame di Natura hanno potere sugli animali vivi, grandi e piccoli. Persone trasformate in animali (succede!) sono invece governati dal Reame che riflette la loro forma base (in genere Attore, o per i pooka, Fae), così come i Prodighi come i licantropi che si possono trasformare liberamente tra le loro forme umane e bestiali.  
 
@@ -183,7 +183,7 @@ I più grandi effetti di Scena possono amplificare un cantrip perché abbia effe
 
 Esempi: un castello, un palazzo di uffici, un campus universitario, un centro commerciale, un hotel.  
 
-# Tempo 
+# Tempo
 
 Tempo è uno dei due Reami modificatori. Non può essere usato per determinare il bersaglio di un'Arte da solo, ma deve essere usato insieme a Attore, Fae, Natura, o Prop. Tempo permette al changeling di manipolare un cantrip in vario modo, caricando il Glamour nel tempo in permutazioni sempre più complesse. Usare Tempo aumenta sempre la difficoltà del cantrip di 1.   
 
@@ -199,11 +199,11 @@ L'effetto del cantrip è ritardato e si attiverà in un momento a scelta del gio
 
 Al posto di essere attivato in un secondo momento predeterminato il cantrip può essere fatto scattare con un'azione predeterminata scelta dal giocatore. Esempi includono "la prossima volta che un Kithain passa per quella porta", "la prossima volta che Bill lo Sluagh attraversa la porta", o "la prossima volta che la porta si apre." Il personaggio deve usare i Reami adatti per il soggetto del trigger.  
 
-## ⦿⦿⦿⦿ Echi brillanti 
+## ⦿⦿⦿⦿ Echi brillanti
 
 Una volta che il cantrip finisce si riattiva automaticamente una seconda volta. La seconda attivazione applica gli effetti di un unico successo, senza contare quanti fossero gli originali. Se il primo lancio fallisce fallisce anche l'eco.  
 
-## ⦿⦿⦿⦿⦿ Rinnovo glorioso  
+## ⦿⦿⦿⦿⦿ Rinnovo glorioso
 
 Il cantrip diventa stagionale e si riattiva dopo un periodo di letargo. Le circostanze specifiche per la riattivazione sono indicate dal giocatore ma devono comprendere un evento importante (come un equinozio, un'eclissi, un compleanno, ecc.) e la pausa tra le attivazioni deve essere notevolmente più lunga della durata del cantrip.  
 

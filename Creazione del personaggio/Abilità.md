@@ -52,8 +52,8 @@ Rissa vale per ogni tipo di lotta che non include armi. Da botte di strada con c
 ⦿⦿⦿⦿ **Esperto**: La MMA ti vuole reclutare.  
 ⦿⦿⦿⦿⦿ **Maestro**: Le tue mani sono considerate armi mortali.  
 
-Posseduto da: Buttafuori, poliziotti, malviventi, artisti marziali, soldati.  
-Specializzazioni: Una qualunque arte marziale, lottare sporco, wrestling, boxe, Aureola del Guerriero (stile di lotta del Casato Scathach).
+**Posseduto da**: Buttafuori, poliziotti, malviventi, artisti marziali, soldati.  
+**Specializzazioni**: Una qualunque arte marziale, lottare sporco, wrestling, boxe, Aureola del Guerriero (stile di lotta del Casato Scathach).
 
 ## Sotterfugio
 

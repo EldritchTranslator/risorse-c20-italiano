@@ -3,20 +3,20 @@ L'Arte dell'Autunno è una tra le più antiche tra quelle ancora praticate dai K
 
 L'Arte dell'Autunno per molti Kithain è una magia nera delle più oscure. Anche se a molti piacerebbe credere che questo genere di Glamour venga usato solo dalle Fate Unseelie dal cuore più nero, la verità è che l'Arte dell'Autunno ha una lunga storia tra gli sluagh di entrambe le Corti, così come certi satiri grump e boggan Unseelie.  
 
-### Scatenare l'Autunno  
+### Scatenare l'Autunno
 Scatenare il deterioramento dell'Autunno è un atto di vera disperazione o crudeltà selvaggia, ed è utile per causare la decomposizione finale di un sistema o per indebolire nemici. Viene spesso invocato con gli ordini disperati di "deteriora", rivolto ad un ostacolo, "avvizzisci", ululato a un gruppo di nemici, o "cadi in rovina", mormorato contro un'impresa o un sistema. Il modo esatto in cui il deterioramento dell'Autunno si presenta è raramente predicibile, e gli Eshu narrano molte storie di un profondo dolore portato al mondo da uno Scatenamento che va assai oltre i desideri iniziali della fata.  
 
-### I bunk  
+### I bunk
 I bunk d'Autunno tendono a coinvolgere i simboli dell'autunno, di funerali, dei raccolti, e di Halloween. Alcuni esempi includono: pestare una foglia secca, indossare una maschera paurosa, travestirsi da qualcosa che non si è, spegnere una lanterna o una candela, accendere e spegnere velocemente l'interruttore della luce, fare un gemito inquietante, disegnare e costruire un costume speciale, velarsi il viso, stare in veglia fino al tramontare del sole, cogliere un frutto maturo, versare del sidro per terra, bruciare il proprio portafoglio con tutti i contenuti, o perdersi un un posto sconosciuto.  
 
-## ⦿ Ombre striscianti  
+## ⦿ Ombre striscianti
 Il changeling comanda le ombre vicine a sottoporsi al suo volere. Una satira evoca l'ombra di un amato non corrisposto per danzare con lei. Un sluagh corrompe le ombre notturne di un suo bullo in un teatro di pericoli. Questa Arte può essere adoperata sottilmente, disturbando o manipolando lievemente per dare un lato sinistro alla scena, o può essere usata per prendere controllo delle ombre facendole diventare enormi presenze incombenti, completamente separate dalle azioni di chi le getta, o persino inghiottire la changeling (o qualcun altro) per nasconderla.  
 
 **Sistema**: Il Reame scelto determina chi o cosa getta l'ombra manipolata da questo cantrip. Usi sottili di questo potere abbassano la difficoltà di tutti i tiri di Intimidazione del lanciatore di uno per ogni successo. Usi ovvi semplicemente possono annunciare il potere del changeling come stregone ad altri Kithain e terrorizzare mortali (almeno finché le Nebbie non oscurano le mostruose ombre che hanno osservato balzare in giro selvaggiamente). Usandola per inghiottire il bersaglio nella propria ombra quest'Arte permette a un individuo di abbassare la difficoltà di tiri Furtività di uno per ogni successo, mentre un oggetto oscurato ha la difficoltà per trovarlo aumentata di uno per successo (fino a un massimo di 9).  
 
 **Tipo**: Chimerico o Wyrd, dipende da quanto ovvio l'uso.  
 
-##  ⦿⦿ Occhi dell'Autunno  
+## ⦿⦿ Occhi dell'Autunno
 
 Il duca si piega in avanti, scrutando il vagabondo di fronte a lui, gli occhi brillanti con la luce arancione di Samhain. Notando la terribile maledizione che incalza il visitatore, gli nega l'ospitalità e manda via l'eshu, scatenando un fruscio di sussurri.  
 
@@ -28,7 +28,7 @@ Gli occhi del changeling prendono sempre qualche caratteristica sovrannaturale; 
 
 **Tipo**: Chimerico  
 
-## ⦿⦿⦿ La mela avvelenata  
+## ⦿⦿⦿ La mela avvelenata
 
 Una giovane redcap porta un vassoio di biscotti della madre in classe, abbastanza che ciascuno dei compagni possa averne uno. Si assicura di passare al bambino che le lancia addosso sassi dopo scuola un biscotto molto speciale: uno infuso di tutta la sua paura e rabbia.  
 
@@ -38,7 +38,7 @@ Questa cantrip terribile ha dato motivo a generazioni di mortali motivo di temer
 
 **Tipo**: Wyrd  
 
-## ⦿⦿⦿⦿ Avvizzimento  
+## ⦿⦿⦿⦿ Avvizzimento
 
 Un sicario inchioda un satiro contro la porta di casa sua e tira fuori una chiave inglese dalla tasca. Ma il satiro gli afferra il pugno guardandolo lascivamente, e così facendo, gli ruba cinquant'anni. Il sicario ora è un vecchio, debole, traballante, pieno di macchie, e leggero abbastanza per permettere al satiro di spingerlo oltre la ringhiera del palazzo con una mano. La maledizione passa mentre il delinquente cade, ma a quel punto è già tutto nelle mani della gravità.  
 
@@ -59,7 +59,7 @@ Lanciare il cantrip più volte non ha effetto, a meno che non si ottengano più 
 
 **Tipo**: Wyrd  
 
-## ⦿⦿⦿⦿⦿ Brividi  
+## ⦿⦿⦿⦿⦿ Brividi
 
 Uno sluagh dalla rabbia silenziosa si infila nella sala relax degli impiegati di una casa di riposo. Ecco - quella è la giacca dell'infermiere che è troppo duro con la sua nonna. Infila una manciata di foglie sbriciolate nella tasca, e attraverso questo luogo di vecchiaia e disperazione, le ombre dei morti prestano attenzione. Il proprietario della giacca non avrà pace per il prossimo futuro.  
 

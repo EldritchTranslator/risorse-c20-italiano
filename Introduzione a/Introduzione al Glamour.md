@@ -2,7 +2,7 @@ Il Glamour è la materia grezza dei sogni: passione e tragedia, speranza e paura
 
 Il Tratto Glamour rappresenta la connessione che un personaggio ha con i blocchi costituenti del Dreaming. Più è alto il suo punteggio di Glamour permanente più controllo potrà esercitare sul mondo chimerico. Come per la Volontà, il punteggio di Glamour temporaneo non può eccedere quello permanente.  
 
-## Usi per il Glamour 
+## Usi per il Glamour
 
 Il Glamour si può usare in vari modi, ad esempio:  
 - Lanciare cantrip;

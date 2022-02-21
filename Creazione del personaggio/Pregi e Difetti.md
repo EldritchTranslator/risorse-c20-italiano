@@ -29,6 +29,7 @@ Hai un viso che anche chi non ti conosce ritiene affidabile. Questo effetto non 
 ### Aura omicida (2 punti)
 
 Qualcosa nel tuo atteggiamento fa sentire in pericolo chi ti circonda. Le tue vecchie malefatte marchiano il tuo aspetto come ferite aperte. Con uno sguardo o un gesto puoi far sottomettere altri changeling per farti obbedire. Ogni tiro che fai per minacciare o costringere changeling o altri fatati ha la difficoltà ridotta di tre. Gli altri ti trovano inquietante, aumentando di uno la difficoltà ai tiri per farti trovare affascinante.     
+
 ### Bellezza surreale (2 punti)
 
 Possiedi una bellezze che va oltre quella dei comuni mortali, inquietante nella sua perfezione. La gente osserva la tua forma ideale ma aliena con meraviglia, mentre emerge in loro una inspiegabile nausea. Riduci di tre la difficoltà ai tiri per attirare l'attenzione o conquistare con il tuo aspetto un changeling o un fatato. Gli altri trovano la tua bellezza innaturale, e perciò la difficoltà ai tiri per ottenere la loro fiducia sale di uno.  

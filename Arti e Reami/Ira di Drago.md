@@ -12,7 +12,7 @@ Gli Scatenamenti di Ira di drago in genere sono piuttosto diretti - solitamente 
 
 I bunk per Ira di drago incorporano azioni violente, audaci e drammatiche, gesti nobili, e immagini draconiche. Esempi di bunk sono: annunciare una sfida formale, brandire la propria arma con movimenti imbellettati, sparare in aria, accendere un cerchio di fiamme e camminarci dentro o fuori, saltare da un posto alto, lanciare una manciata di banconote al soggetto, citare Shakespeare, lanciare un guanto, far colare del sangue su un'arma, rompere un mobile, lanciare via la propria arma, appiccare fuoco a un edificio, fare un incidente d'auto, inginocchiarsi un momento prima della battaglia, o mettersi l'armatura di fronte ai tuoi nemici guardandoli senza battere ciglio.  
 
-# ⦿ Muscolatura bruciante 
+# ⦿ Muscolatura bruciante
 
 Un troll ruggisce sostenendo da solo un palazzo che sta crollando, con i muscoli che gli brillano da dentro. Delle fiamme danzano sulla lama di una mortale ascia di un redcap mentre viene affondata nell'armatura come se questa fosse di carta. Una sidhe concentra del potere antico in una sola freccia per un solo momento, e così uccide un mostro. Questo cantrip infonde il soggetto con il bruciante potere delle leggende, donandogli una forza e un potere distruttivo tremendi. A quelli con occhi di changeling il soggetto sembra delineato da un'aura dorata, che si solleva e sfarfalla come fiamme.  
 
