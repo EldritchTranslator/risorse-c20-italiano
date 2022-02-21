@@ -118,6 +118,10 @@ Non hai una buona vista. La difficoltà di ogni tiro che richiede la vista è au
 
 Uno sfregio ti ha reso l'aspetto inquietante e memorabile. Quando sei in presenza di chi giudica basandosi sull'aspetto la difficoltà dei lanci per interazioni sociali è aumentata di due. Non puoi avere un punteggio di Aspetto superiore a 2. A tre punti la deformità aggiunge due alla difficoltà di un Attributo Fisico a tua scelta, dato che la deformità affligge la tua mobilità.  
 
+### Dipendenza (1 - 3 punti)
+
+Sei dipendente da una sostanza o un'esperienza. Se la dipendenza è di qualcosa di sedativo e non puoi ottenerlo devi fare un tiro per evitare di ottenere un punto Banalità temporaneo mentre lo stato di fuga ti annebbia. Se la dipendenza viene da qualcosa di stimolante e non riesci a trovarne una dose la Storyteller può scegliere di darti un punto di Incubo o persino uno Squilibrio. Per un Difetto da un punto la dipendenza deve essere soddisfatta settimanalmente, da due punti ogni giorno, e da tre dopo solo un'ora di sobrietà. 
+
 ### Troppo umano (2 o 5 punti)
 
 La tua metà fatata fa fatica a penetrare quella mortale. A due punti tutti i changeling ti trattano con sospetto. La difficoltà dei tiri sociali aumenta di due finché non provi inequivocabilmente la tua natura fatata. A cinque punti il sospetto degli altri changeling diventa antipatia, dato che perdi uno dei Diritti di nascita del tuo kith. Scegli tu quale sacrificare.  
@@ -322,7 +326,7 @@ Sei nella posizione di reclamare o la proprietà o un titolo su persone, territo
 
 ### Fingere (3 punti)
 
-Parli in modo convincente. Talvolta sei convincente abbastanza da avere ragione. Magari dichiari di poter 'fare quel salto' o di poter 'prendere un punteggio perfetto in quella verifica' o di 'colpire il bersaglio'. Potresti essere criminalmente fortunato o possedere talenti nascosti. Quando menti con successo nelle tua abilità in una determinata azione con un tiro di Sotterfugio + Manipolazione e cerchi di provarla, la difficoltà del tiro per avere successo in questa ambizione è diminuita di due.   
+Parli in modo convincente. Talvolta sei convincente abbastanza da avere ragione. Magari dichiari di poter 'fare quel salto' o di poter 'prendere un punteggio perfetto in quella verifica' o di 'colpire il bersaglio'. Potresti essere criminalmente fortunato o possedere talenti nascosti. Quando menti con successo nelle tua abilità in una determinata azione con un tiro di Sotterfugio + Persuasione e cerchi di provarla, la difficoltà del tiro per avere successo in questa ambizione è diminuita di due.   
 
 ### Anima della musa (4 punti)
 
