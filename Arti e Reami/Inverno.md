@@ -16,7 +16,7 @@ La prima e la più benigna tra gli usi delle magie di Inverno permettono al chan
 
 Un barista boggan mantiene le bevande fredde quando gli si rompe il frigo. Gelosa e vendicativa, una sidhe rifiutata uccide tutte le piante del giardino del suo ex. Ossessionato con l'idea di diventare un vigilante, lo sluagh raffredda il suo prossimo target criminale prima di colpire.  
 
-**Sistema**: Il Reame del cantrip determina i soggetti, e il changeling ha abbastanza controllo fine sul Glamour per raffreddare piacevolmente una bevanda o per causare che qualcuno rabbrividisca e si muova mentre cerca inutilmente di fuggire al freddo. Quando è usato su qualcosa di inanimato e non senziente lo Storyteller deve decidere gli effetti del freddo (i fiori muoiono, il metallo diventa pericoloso da toccare, la pioggia diventa grandine). Quando viene usato su n animale a sangue caldo il soggetto soffre di una penalità di +1 a tutti i tiri a causa della distrazione e del fastidio. Il numero di successi determina il numero di turni per cui il freddo persiste.  
+**Sistema**: Il Reame del cantrip determina i soggetti, e il changeling ha abbastanza controllo fine sul Glamour per raffreddare piacevolmente una bevanda o per causare che qualcuno rabbrividisca e si muova mentre cerca inutilmente di fuggire al freddo. Quando è usato su qualcosa di inanimato e non senziente lo Storyteller deve decidere gli effetti del freddo (i fiori muoiono, il metallo diventa pericoloso da toccare, la pioggia diventa grandine). Quando viene usato su un animale a sangue caldo il soggetto soffre di una penalità di +1 a tutti i tiri a causa della distrazione e del fastidio. Il numero di successi determina il numero di turni per cui il freddo persiste.  
 
 **Tipo**: Wyrd
 
