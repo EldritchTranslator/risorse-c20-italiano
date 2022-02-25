@@ -79,6 +79,9 @@ Gateway - Varco
 Accordance War - Guerra di Concordanza  
 Extended rolls - tiri prolungati  
 Bestowment - dote
+Seeming - Simiglianza
+Cantrip - Trucchetto
+
 
 Banality trigger - tenere in inglese, o parafrasarlo, o semmai 'fattor scatenante'.  
 
