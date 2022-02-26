@@ -1,3 +1,5 @@
+*Questi Pregi e Difetti provengono dai Kithbook dei rispettivi Kith. A parte quelli dei Boggan, gli altri sono di prima o seconda edizione; alcuni sono stati editati cosicché abbiano senso nell'edizione del ventennale.*
+
 # Boggan
 
 ## Pregi
@@ -74,3 +76,44 @@ Finché non ti vendicherai in modo sufficientemente feroce sul colpevole per la 
 
 Se l'offensore si scusa sinceramente puoi spendere 1-5 punti di Forza di Volontà per accettare le scuse e lasciar perdere la vendetta, con la Storyteller che stabilisce il costo a seconda della gravità dell'offesa. Altrimenti anche le scuse sincere non fermano il tuo bisogno di vendicarti.
 
+# Eshu
+
+## Pregi
+
+### Piedi del Viandante (1 punto, fisico)
+
+I tuoi piedi sono particolarmente resistenti e adatti alle lunghe distanze che tipicamente percorrono gli eshu. Ti trovi a tuo agio a piedi nudi tutto l'anno, indipendentemente dalla temperatura locale o dalle condizioni atmosferiche, e non hai bisogno di preoccuparti di pericoli naturali come schegge, detriti urbani (compresa la maggior parte dei vetri rotti), sabbie ardenti o rocce frastagliate. Per viaggio o trazione si considera che il personaggio indossi sempre robusti stivali da trekking. Questo Merito non protegge da attacchi veri e propri o da armi di qualsiasi tipo, né considera l'attraversamento di superfici estreme come il fuoco o la lava. Inoltre, i calci del personaggio non fanno più danni del normale. 
+
+### Polmoni d'acciaio (2 punti, fisico)
+
+Questo Merito riflette una capacità sia istintiva che allenata di poter correre per lunghe distanze senza stancarsi. Molte delle culture delle patrie degli Elegbara hanno impiegato corridori di lunga distanza come messaggeri e corrieri per centinaia o migliaia di anni. Un personaggio con questo Merito può correre o fare jogging ad un ritmo costante (non vale per scatti in velocità) per un massimo di 6 ore senza sentirsi minimamente stanco. Oltre a questo limite deve fare i normali tiri di Costituzione per resistere alla stanchezza una volta ogni mezz'ora, con difficoltà diminuita di -2. Questo praticamente permette al personaggio di camminare a un ritmo normale quasi all'infinito, a condizione che faccia delle pause occasionali per il cibo e l'acqua e un breve pisolino ogni 12-14 ore per un numero di giorni pari al suo punteggio di Costituzione, oltre si deve cominciare a fare i lanci per lo sfinimento. Nota che questo Merito non si applica a sprint o ad altri scatti di velocità anche brevi, né in altre situazioni oltre al viaggiare. Permette invece a un personaggio a piedi di coprire una distanza sorprendente in un periodo di tempo relativamente breve, in particolare se paragonato a quelli a piedi a cui manca questo Merito.  
+
+### Dono di Babele (2 punti, mentale)
+
+Questo Pregio raddoppia i linguaggi che puoi conoscere grazie ad altri Pregi o abilità, dimezzando inoltre i tempi di acquisizione delle lingue.
+
+## Difetti
+
+### Orizzonti perduti (3 - 5 punti, sovrannaturale)
+
+Il destino degli Elegbara è quello di vagare, ma i tuoi viaggi sono severamente limitati. Sei vincolato a rimanere all'interno di un particolare insieme di confini, e attraversare la loro soglia fa scattare immediatamente una condizione di deperimento simile alla Fragilità degli oba, *Suolo natio*. Questi confini non devono essere necessariamente quelli riconosciuti "ufficialmente", ma devono essere molto chiari e specificatamente dettagliati sia al personaggio che al giocatore. Il valore di questo Difetto deriva da quanto sono limitati i tuoi orizzonti. Un territorio grande o vario, come una piccola nazione o una regione generale di uno più grande (come il Nord-Est degli Stati Uniti) vale 3 punti. Un'area più piccola, come un singolo grande Stato o diversi piccoli Stati, vale 4 punti. Un'area ridicolmente piccola, come un piccolo stato o una contea solitaria all'interno di una più grande, vale 5 punti. Nota che, a differenza della Fragilità oba, questo non ha alcun effetto sul viaggiare nel Dreaming; infatti è probabile che il tuo personaggio lo faccia il più spesso possibile per sfuggire al tedio degli stessi ambienti mondani. 
+
+Questo difetto deriva da una maledizione o da un antico Geas e non può essere annullato se non con mezzi veramente leggendari. Tutti gli Elegbara hanno pietà di quelle povere anime che soffrono di questo difetto; è vero che gli oba hanno una vulnerabilità simile, ma ciò è dovuto al loro dovere naturale   verso la terra, mentre la tua condizione è generalmente un mistero o, peggio ancora, una punizione per qualche terribile crimine passato. Gli Storyteller dovrebbero sentirsi liberi di regolare il valore dei punti di questo difetto a seconda di quanto sia probabile che abbia un impatto sul gioco. Se l'ambientazione sarà abbastanza statica, diminuite il valore del difetto, mentre se è probabile che venga fuori particolarmente spesso, potrebbero essere giustificati punti aggiuntivi. Gli storyteller possono anche proibire questo difetto se avere un giocatore che lo prende disturba gravemente i loro piani per le loro Cronache. Gli oba non possono acquistare questo difetto.  
+
+### Nemesi (5 punti, sovrannaturale)
+
+Forse sei la reincarnazione di qualche antico eroe o forse sei solo sfortunato, ma qualunque sia la ragione hai ereditato una vera nemesi, un numero opposto determinato a farti gravemente male o addirittura a distruggerti. Questa faida non rientra nell'ambito dei normali Difetti Nemico o Cacciato perché rappresenta qualcosa di più cosmico. Non solo questo individuo ti odia e cerca attivamente di farti del male, ma voi due sembrate essere stati specificamente progettati per essere nemici, e i vostri scontri ne sono la prova. Il tuo nemico è quasi telepatico nell'anticipare la tua prossima mossa, ed entrambi sembrate sempre avere una risposta ai migliori trucchi o ai poteri più forti dell'altro, costringendoti a una lotta costante per trovare qualche nuovo modo di sorprenderti a vicenda. Entrambi sapete che non finirà mai finché uno di voi non sarà messo fuori gioco in modo permanente. Il narratore è responsabile della creazione di questo personaggio e non ha l'obbligo di rivelare tutti i suoi poteri e le sue potenzialità. Facoltativamente, puoi iniziare il gioco senza conoscere la tua nemesi, ma stai sicuro che lo Storyteller ti farà fare la sua conoscenza in breve tempo.  
+
+# Satiri
+
+## Pregi
+
+### Cuore Flessibile (2 punti, sociale)
+
+I satiri sono i più teneri di cuore tra i Kithain. Si ammaccano facilmente e rimbalzano da un estremo all'altro delle emozioni. In un mondo così oscuro, le persone lavorano duramente per farsi del male a vicenda, e i satiri sentono i colpi più acutamente. Non beneficiano della solida mancanza di emozioni che sostiene i troll, né hanno l'altezzosa fiducia in se stessi che permette ai sidhe di credere che non possa essere colpa loro. I satiri sanguinano.  
+
+Tu, invece, hai imparato a lasciarti scivolare addosso queste cose. Senti i colpi, ma non ti abbattono. Questa guarigione emotiva velocissima ti permette di evitare l'umore che paralizza gli altri satiri. Amate tanto profondamente quanto loro, ma quando il vostro amore vi lascia, potete dire a voi stessi che ci sono molte altre opportunità di devozione, e ci credete. Se hai un Cuore Flessibile, puoi usare Volontà per controllarti in una situazione in cui un'altra capra potrebbe reagire emotivamente in modo eccessivo. Naturalmente, anche tu ti rendi conto che potresti non essere in grado di controllare il tuo essere per sempre se la situazione continua, quindi fai tutto quello che puoi per toglierti da essa.  
+
+
+
+## Difetti
