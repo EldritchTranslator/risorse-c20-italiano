@@ -72,11 +72,11 @@ Il punteggio in Possedimenti determina la quantità di Glamour che il freehold p
 
 Quando viene scoperta una Crisalide gli altri fatati si muovono velocemente per proteggere ed educare il nuovo changeling prima che la Banalità la possa sopraffare. Questo legame tra Mentore e allievo, che è come tra genitore e figlio, spesso dura una vita. Un Mentore può essere una guida essenziale alla società Kithain, difendendo il changeling e informandola delle vari opportunità che si presentano. Alcuni Mentori si aspettano qualcosa in cambio, come aiuto in faccende o fare da guardia al Freehold contro incubi infuriati.  
 
-⦿ Il tuo mentore è sincero, ma o non sa molto di importante o non ha molti contatti.  
-⦿⦿ Il tuo mentore conosce qualcosa o qualcuno almeno.  
-⦿⦿⦿ Il tuo mentore ha accesso a segreti importanti e conosce dei changeling ben connessi socialmente. 
-⦿⦿⦿⦿ Il tuo mentore ha conoscenze straordinarie e viene ascoltato dal Duca.  
-⦿⦿⦿⦿⦿ Il tuo mentore conosce i segreti reconditi del Dreaming e ti può organizzare un'udienza con l'Alto Re.  
+⦿ Il tuo mentore è sincero, ma o non sa molto di importante o non ha molti contatti.   
+⦿⦿ Il tuo mentore conosce qualcosa o qualcuno almeno.   
+⦿⦿⦿ Il tuo mentore ha accesso a segreti importanti e conosce dei changeling ben connessi socialmente.   
+⦿⦿⦿⦿ Il tuo mentore ha conoscenze straordinarie e viene ascoltato dal Duca.   
+⦿⦿⦿⦿⦿ Il tuo mentore conosce i segreti reconditi del Dreaming e ti può organizzare un'udienza con l'Alto Re.   
 
 # Rimembranza
 
@@ -84,11 +84,11 @@ La vita corrente del changeling non è la prima. Chiunque stia percorrendo la Vi
 
 Ogni volta che il personaggio interagisce con changeling o altre creature e luoghi del Dreaming il personaggio può tirare Intelligenza + Rimembranza per ricordare dei dettagli sulla questione. La difficoltà varia in base all'oscurità dell'informazione. Qualcosa di comunemente conosciuto avrebbe difficoltà 6, mentre ricordare la posizione di un freehold perso durante il Frantumo avrebbe difficoltà 8. Inoltre un giocatore può sostituire Rimembranza per un qualunque Abilità in un tiro per un'attività mondana. Questa sostituzione può essere fatta un numero di volte pari al punteggio di Rimembranza del personaggio per storia.  
 
-⦿ Le tue memorie sono nebbiose quando sono innescate da un evento;
-⦿⦿ Hai memorie accurate quando ti vengono stuzzicate;  
-⦿⦿⦿ Hai dei flashback vividi anche senza motivo;
+⦿ Le tue memorie sono nebbiose quando sono innescate da un evento;  
+⦿⦿ Hai memorie accurate quando ti vengono stuzzicate;   
+⦿⦿⦿ Hai dei flashback vividi anche senza motivo;  
 ⦿⦿⦿⦿ Ti ricordi molte informazioni importanti, compresi i maggiori eventi storici;  
-⦿⦿⦿⦿⦿ Ti ricordi chiaramente epoche intere della tua storia, incluse vite passate complete;
+⦿⦿⦿⦿⦿ Ti ricordi chiaramente epoche intere della tua storia, incluse vite passate complete;  
 
 # Risorse
 
