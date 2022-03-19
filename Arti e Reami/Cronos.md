@@ -1,16 +1,16 @@
-# Cronos  
+# Cronos
 
 Una volta di competenza esclusiva delle casate nobili e dei sidhe, ora anche i Kithain popolani hanno accesso a quest'arte. Molti sidhe sono gelosi di quest'Arte e potrebbero reagire con ostilità se vedessero un popolano che la usa. All'inizio, gli studenti di Cronos si occupano esclusivamente della percezione del tempo, ma con sufficiente pratica (e coraggio) il Kithain imparerà a far rivivere un momento o a rendere eterno qualcosa di temporaneo.  
 
-## Scatenare Cronos  
+## Scatenare Cronos
 
 Il changeling distorce il tempo attorno a sé, rallenta i suoi nemici, fa vedere nel passato e nel futuro e confonde l'ordine dello scorrere degli eventi. Un changeling che Scatena la magia del tempo può vendicarsi impedendo a una ferita di guarire ("soffrirai in eterno"), causando alle persone attorno a sé di "perdere" giorni e forse persino viaggiare indietro nel passato più recente. 
 
-## I bunk di Cronos  
+## I bunk di Cronos
 
 I bunk per i cantrip di Cronos spesso dipendono da una convergenza di eventi o una ripetizione di qualche tipo, ma comprendono anche l'uso di orologi, altri dispositivi per misurare il tempo, o oggetti che sono antichi o nuovi di pacca. Esempi di bunk sono: rompere un orologio proprio mentre scocca la mezzanotte, recitare una poesia tre volte, lanciare il bunk durante un'eclissi solare di luna., camminare lentamente all'indietro, o cantare una canzone al contrario.
 
-# ⦿ Guardarsi alle spalle 
+# ⦿ Guardarsi alle spalle
 
 All'inizio, lo studente della magia del tempo impara a guardare indietro nel tempo. Anche se è considerato un uso rudimentario dell'Arte di Cronos, i suoi usi molteplici fanno sì che anche dei novizi siano ricercati in freehold e motley.  
 
@@ -28,7 +28,7 @@ Un sidhe mentre investiga la sparizione del suo vassallo guarda nel passato dell
   
 **Tipo**: Chimerico.  
 
-# ⦿⦿ Causa e effetto  
+# ⦿⦿ Causa e effetto
 
 Il primo cantrip che distorce il tempo, *Causa e effetto* sconvolge la normale progressione temporale per il soggetto del cantrip. Il suono di vetro che si rompe può precedere la caduta del bicchiere, o un corpo cade al suolo prima del suono dello sparo.
 
@@ -49,7 +49,7 @@ Il numero di successi determina quanto a lungo dura il cantrip:
   
 **Tipo**: Wyrd.  
 
-# ⦿⦿⦿ Scolpito nella pietra  
+# ⦿⦿⦿ Scolpito nella pietra
 
 Un Kithain prima impara a modificare piccoli dettagli del flusso temporale, per poi imparare come arginare questo flusso e fermarlo temporaneamente. Lanciare *Scolpito nella pietra* su un soggetto previene i vari effetti di invecchiamento e di esposizione al mondo esterno, senza bloccare interazioni normali o distruzione intenzionale.  
 
@@ -69,7 +69,7 @@ Un boggan deciso a non perdere il suo cane anziano non lo fa invecchiar. Un tort
   
 **Tipo**: Wyrd.  
 
-# ⦿⦿⦿⦿ Déjà Vu  
+# ⦿⦿⦿⦿ Déjà Vu
 
 Oltre la manipolazione della percezione temporale, passato il fermare il flusso del tempo attorno a un soggetto, la changeling dopo impara a rivivere un momento recente e riprovare il presente armata di conoscenza del futuro. Allontanandosi nel flusso del tempo, le sue variegate possibilità rendono inutile ogni uso a lungo termine del cantrip, ma per qualche minuto l'adepto di Cronos diventa un viaggiatore nel tempo. Con un tale potere il changeling accetta la possibilità di essere sopraffatto dai possibili futuri. Usi ripetuti di *Déjà Vu* nella stessa scena diventano sempre più difficili con i fili del fato che si aggrovigliano sempre di più.  
 
@@ -84,7 +84,7 @@ Ogni uso di Déjà Vu aumenta la difficoltà del prossimo uso di Déjà Vu nella
 
 **Tipo**: Wyrd 
 
-# ⦿⦿⦿⦿⦿ Dilatazione Temporale  
+# ⦿⦿⦿⦿⦿ Dilatazione Temporale
 
 La fonte delle leggende su Rip Van Winkle, la dilatazione temporale spinge il soggetto avanti nel tempo, mandandolo fuori sincronia con il resto del mondo. Il soggetto invecchierà e proverà i normali effetti del passaggio del tempo, ma il mondo attorno a lui cambia a malapena.  
 

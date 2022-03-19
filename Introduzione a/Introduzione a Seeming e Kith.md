@@ -90,11 +90,11 @@ Aiutare qualcuno con un lavoro spiacevole e/o tedioso, senza che questa persona 
 
 **Voce del bisognoso**: Quando un boggan incontra qualcuno che davvero ha bisogno di aiuto deve tirare Volontà a difficoltà 8 per non aiutarlo in qualche modo. Questa Fragilità non si attiva con i nemici.
 
-## Clurichaun
+## Cluricauno
 
-I clurichaun sono changeling provenienti dall'Irlanda che condividono il loro background culturale con la leggenda dei leprecauni. Sono cantastorie e intrattenitori con un amore per musica, lotte, e incensare gli animi del pubblico. Il loro modo naturale di catarsi e di rivelare i lati nascosti delle persone sono appunto le zuffe che spesso istigano.  
+I cluricauni sono changeling provenienti dall'Irlanda che condividono il loro background culturale con la leggenda dei leprecauni. Sono cantastorie e intrattenitori con un amore per musica, lotte, e incensare gli animi del pubblico. Il loro modo naturale di catarsi e di rivelare i lati nascosti delle persone sono appunto le zuffe che spesso istigano.  
 
-Hanno inoltre una passione per il collezionismo, e quasi ogni clurichaun colleziona qualcosa. Questo comportamento, così come l'enorme importanza che gli danno, ha creato le basi della leggenda della pentola d'oro. Queste collezioni diventano la base portante delle loro case, dove vengono spesso esposte orgogliosamente, perciò tendono a non portare persone in casa propria per evitare che vengano danneggiate.  
+Hanno inoltre una passione per il collezionismo, e quasi ogni cluricauno colleziona qualcosa. Questo comportamento, così come l'enorme importanza che gli danno, ha creato le basi della leggenda della pentola d'oro. Queste collezioni diventano la base portante delle loro case, dove vengono spesso esposte orgogliosamente, perciò tendono a non portare persone in casa propria per evitare che vengano danneggiate.  
 
 **Affinità**: Attore
 
@@ -196,6 +196,32 @@ I piskie vengono ispirati quando sono immersi in un gruppo. Quando il suo gruppo
 
 **Mano di velluto**: Non è che i piskie siano ladri, ma nelle loro tasche appaiono oggetti di valore. Quando un piskey vede qualcosa che desidera non può fare altro che prenderlo, spesso anche senza accorgersene. Per resistere a questo impulso il giocatore deve fare un tiro di Volontà (diff 8). I piskie non sono sempre cauti con le loro azioni, ed è perfettamente possibile che vengano visti, anche se il loro Diritto di nascita *Agile* lo rende meno probabile.  
 
+## Pooka
+
+I pooka sono un kith spontaneo e, paradossalmente, sincero: prendono il ruolo di giullare di corte, e sono il sogno dell'umanità di vivere una vita libera e spensierata, come gli animali che sono liberi da aspettative e lavori.  
+
+Vogliono togliere il dolore e la Banalità dal mondo, facendo tutto il possibile per strappare una risata. Mentono perché spesso la verità non è felice quanto una piccola menzogna. Le loro parole non sempre sono menzogne, ma possono essere anche mezze verità, e esagerazioni, e simili. 
+
+**Affinità**: Natura  
+
+### Aspetto
+
+Tutti i pooka hanno delle caratteristiche dell'animale che rassomigliano, e hanno uno stile vistoso e unico.
+
+### Baldoria
+
+Fare uno scherzo particolarmente dettagliato che serve a buttare giù l'ego di qualcuno di importante, oppure passare tempo nella natura senza preoccupazioni.
+
+### Diritti di nascita
+
+**Mutaforma**: I pooka sono in grado di mutarsi in un animale a piacimento finché non è nel campo visivo di un mortale, e spendendo Volontà se sono visti da un fatato.  
+
+**Confidente**: I pooka possono convincere chiunque ad aprirsi e a rispondere alle loro domande in modo sincero con un tiro di Persuasione contrapposto a Volontà.  
+
+### Fragilità
+
+Falsità:
+
 ## Nome
 
 **Affinità**:
@@ -205,7 +231,7 @@ I piskie vengono ispirati quando sono immersi in un gruppo. Quando il suo gruppo
 ### Diritti di nascita 
 ### Fragilità
 
-Piskie
+
 Pooka
 Cappuccio Rosso
 Satiro

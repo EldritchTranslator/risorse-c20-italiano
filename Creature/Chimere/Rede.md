@@ -1,6 +1,6 @@
 # Rede
 
-Nota: Il giocatore e lo Storyteller sono incoraggiati a creare nuovi Rede quando necessario; questi sono solo esempi delle più comuni o utili.  
+*Nota: Il giocatore e lo Storyteller sono incoraggiati a creare nuovi Rede quando necessario; questi sono solo esempi delle più comuni o utili.*  
 
 ## Danni Aggravati
 
@@ -167,4 +167,7 @@ La chimera manifesta dal suo corpo un'arma fisica, da mischia o a distanza. Esem
 La chimera può scegliere di diventare una creatura solida, in grado di influenzare ed essere influenzata dal Mondo d'Autunno. Questo è tra i più rari dei Rede, poiché le chimere che interagiscono troppo spesso con il mondano vengono corrose dalla sua Banalità.  
 
 **Costo di punti chimerici**: 7  
-**Costo d'uso**: 1 Volontà per scena
+**Costo d'uso**: 1 Volontà per scena  
+
+# Rede Liciane
+
