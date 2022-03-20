@@ -220,7 +220,58 @@ Fare uno scherzo particolarmente dettagliato che serve a buttare giù l'ego di q
 
 ### Fragilità
 
-Falsità:
+**Falsità**: Quando a un pooka viene chiesta una domanda diretta egli deve rispondere con una menzogna, a meno che non si passi un tiro di Volontà.
+
+## Cappuccio Rosso
+
+Le fate nate dai sogni più cruenti e oltraggiosi, I cappucci rossi sono fate ribelli che vogliono colpire con i loro comportamenti estremi. Ciononostante, sono accettati nella società kithain grazie alla loro abilità come lottatori.  
+
+Raramente si intromettono nelle politiche di corte, ma tutti tendono a lavorare per destabilizzare il potere che li governa, in un modo o nell'altro.
+
+**Affinità**: Natura  
+
+### Aspetto
+
+I cappucci rossi hanno pelle grigiastra, occhi rossi, e denti appuntiti, ingialliti, e fin troppo affilati in bocche troppo larghe. Nei loro abiti comodi e robusti tendono ad avere un dettaglio in rosso.
+
+### Baldoria
+
+Provare un nuovo, sorprendente gusto, e celebrare il disgusto che prova qualcuno che hanno spinto oltre i limiti. Preferibilmente tutte e due queste cose assieme.  
+
+### Diritti di nascita
+
+**Appetito oscuro**: I cappucci rossi possono mangiare ogni cosa, serve solo un punto Glamour per digerire cose davvero dannose. Il loro morso può essere usato anche in combattimento.  
+
+**Bullo temibile**: I cappucci rossi sono i maestri dell'Intimidazione, non possono fallire criticamente quei tiri e hanno -2 alle difficoltà.  
+
+### Fragilità
+
+**Caratteraccio**: A causa della loro cattiva nomea e carattere abrasivo, i cappucci rossi hanno un +2 alle difficoltà a tutti i tiri sociali che non siano di Intimidazione.
+
+## Satiro
+
+Fate nate dalla passione e dal piacere in tutte le sue forme. Non hanno limiti nei loro appetiti, e fanno tutto con notevole energia e intensità. Sono molto generosi, dividendo tutto e tutti, ma non rimangono a lungo su una singola passione.
+
+**Affinità**: Fae
+
+### Aspetto
+
+I satiri famosamente hanno gambe pelose da capra e zoccoli, e gli spuntano delle corna dalla fronte. Si vestono leggeri e selvaggi.
+
+### Baldoria
+
+I satiri coltivano il loro Glamour condividendo una passione e intense emozioni con un partner.
+
+### Diritti di nascita
+
+**Dono di Pan**: La passione che i satiri hanno nel fare quello che amano influenza anche altri, portandoli a disinibirsi e soddisfando le proprie voglie più oscure.  
+
+**Prestanza fisica**: I satiri aggiungono un palino in Costituzione, e non possono mai fallire criticamente un tiro di Atletica.
+
+### Fragilità
+
+**Maledizione della passione**: I satiri sono spesso vittime di sbalzi d'umore, mostrando le loro emozioni apertamente. Resistere alle tentazioni è per loro un trigger di Banalità.  
+
 
 ## Nome
 
@@ -232,9 +283,6 @@ Falsità:
 ### Fragilità
 
 
-Pooka
-Cappuccio Rosso
-Satiro
 Selkie
 Sidhe Arcadiano
 Sidhe d'Autunno
