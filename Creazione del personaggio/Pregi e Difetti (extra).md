@@ -156,27 +156,35 @@ Hai dei problemi. Che tu sia insicuro, represso o leggermente nevrotico, o tutte
 
 Ti tieni le tue emozioni represse dentro e non lasci che nessuno sappia di cosa tu voglia o abbia bisogno. Forse i tuoi genitori ti hanno insegnato che non meritavi di essere amato, o forse senti che gli altri hanno diritto a quell'ultimo pezzo di torta più di te. Qualunque sia la ragione, questi sentimenti dannosi ti tengono lontano da ciò che più desideri. Lasci sempre che i sentimenti degli altri ti tengano lontano da ciò che più desideri. Lasci sempre che gli altri stiano sotto i riflettori per primi e prendi solo gli avanzi che ti danno. Il giocatore tira Volontà per vedere se il satiro può farsi valere ed esprimere i suoi bisogni e desideri.
 
-# Cappuccio rosso
+# Berretto rosso
 
 ## Pregi
 
 ### Metabolismo veloce (1 punto, fisico)
 
-Questo non si riferisce alla velocità con cui un cappuccio rosso si muove, o mangia, o fa qualsiasi altra cosa. Invece, un cappuccio rosso con *Metabolismo veloce* può stare 24 ore senza mangiare. Spendendo un punto di Volontà, il giocatore può poi far andare il personaggio per altre 24 ore, e così via fino a quando non esaurisce la Volontà. Il lato negativo di avere *Metabolismo veloce*, purtroppo, è che una volta che il digiuno finisce il cappuccio rosso è costretto a mangiare abbastanza per compensare tutti i giorni che ha saltato. Inoltre, sentirà il bisogno di farlo immediatamente.
+Questo non si riferisce alla velocità con cui un berretto rosso si muove, o mangia, o fa qualsiasi altra cosa. Invece, un berretto rosso con *Metabolismo veloce* può stare 24 ore senza mangiare. Spendendo un punto di Volontà, il giocatore può poi far andare il personaggio per altre 24 ore, e così via fino a quando non esaurisce la Volontà. Il lato negativo di avere *Metabolismo veloce*, purtroppo, è che una volta che il digiuno finisce il berretto rosso è costretto a mangiare abbastanza per compensare tutti i giorni che ha saltato. Inoltre, sentirà il bisogno di farlo immediatamente.
 
 ## Difetti
 
 ### Avversione (1 - 5 punti, fisico)
 
-Si dice che i cappucci rossi possono e vogliono mangiare qualsiasi cosa. Nella maggior parte dei casi hanno ragione, ma un pettirosso con questo difetto è l'eccezione che conferma la regola. Un cappuccio rosso che ha un'avversione non mangerà qualcosa (o un'intera categoria di cose, a seconda del numero di punti presi per il difetto). Un punto potrebbe essere un'avversione alle fragole, mentre cinque sarebbe qualcosa di molto più ampio, come carne, verdure o oggetti inanimati.  
+Si dice che i berretti rossi possono e vogliono mangiare qualsiasi cosa. Nella maggior parte dei casi hanno ragione, ma un pettirosso con questo difetto è l'eccezione che conferma la regola. Un berretto  rosso che ha un'avversione non mangerà qualcosa (o un'intera categoria di cose, a seconda del numero di punti presi per il difetto). Un punto potrebbe essere un'avversione alle fragole, mentre cinque sarebbe qualcosa di molto più ampio, come carne, verdure o oggetti inanimati.  
 
-Un cappuccio rosso che mangia accidentalmente qualcosa a cui ha un'avversione è in un mare di guai. È richiesto un tiro di Costituzione (difficoltà 6), altrimenti vomiterà immediatamente tutto ciò che ha nello stomaco. Inoltre per fare qualcosa di più faticoso che camminare nella mezz'ora seguente è necessario un tiro di Volontà (difficoltà 6) per vedere se un altro attacco di nausea lo colpisce.
+Un berretto  rosso che mangia accidentalmente qualcosa a cui ha un'avversione è in un mare di guai. È richiesto un tiro di Costituzione (difficoltà 6), altrimenti vomiterà immediatamente tutto ciò che ha nello stomaco. Inoltre per fare qualcosa di più faticoso che camminare nella mezz'ora seguente è necessario un tiro di Volontà (difficoltà 6) per vedere se un altro attacco di nausea lo colpisce.
 
 ### Zampe di gallina (3 punti, fisico)
 
-Alcune leggende sui cappucci rossi li dotano di zampe di gallina al posto delle mani o dei piedi. Questa condizione è rara, ma occasionalmente presente tra i cappucci rossi dei giorni nostri, anche se ogni Kithain che soffre di questo difetto è destinato ad essere oggetto di molta derisione da parte dei suoi simili.  
+Alcune leggende sui berretti rossi li dotano di zampe di gallina al posto delle mani o dei piedi. Questa condizione è rara, ma occasionalmente presente tra i berretti rossi dei giorni nostri, anche se ogni Kithain che soffre di questo difetto è destinato ad essere oggetto di molta derisione da parte dei suoi simili.  
 
-Un cappuccio rosso con le zampe di gallina al posto delle mani ha una difficoltà di +1 per tutti i tiri di destrezza che coinvolgono la destrezza manuale, mentre uno con le zampe di gallina al posto dei piedi ha lo stesso svantaggio per tutti i tiri di schivare, correre e così via. Nota: le zampe sono molto più minacciosi di quanto si possa immaginare dal loro nome - gli artigli sono artigli, non importa da quale animale provengano.
+Un berretto rosso con le zampe di gallina al posto delle mani ha una difficoltà di +1 per tutti i tiri di destrezza che coinvolgono la destrezza manuale, mentre uno con le zampe di gallina al posto dei piedi ha lo stesso svantaggio per tutti i tiri di schivare, correre e così via. Nota: le zampe sono molto più minacciosi di quanto si possa immaginare dal loro nome - gli artigli sono artigli, non importa da quale animale provengano.
+
+### Dente rubato (3 punti, sovrannaturale)
+
+Un'altra delle antiche leggende sui berretti rossi attribuisce al kith una debolezza piuttosto unica: Un berretto rosso può essere ucciso solo se uno dei suoi denti viene schiacciato su una pietra d'altare. Molte anime coraggiose (e non terribilmente intelligenti) hanno tentato di provare o confutare questa teoria; la maggior parte ha invece dimostrato la teoria parallela secondo cui chiunque cerchi qualcosa dalla bocca di un berretto rosso difficilmente tornerà a casa. 
+
+Tuttavia, alcuni berretti rossi sono riusciti a perdere, in un modo o nell'altro, uno dei loro denti. La berretto rosso sarà distrutta se quel dente viene frantumato in un luogo appropriato? Chi lo sa, ma quello che è certo è che ogni caporosso che possiede questo difetto farà di tutto per riavere il suo dente. Recuperare il dente ha la precedenza su qualsiasi altra attività fino alla mania. 
+
+Perché? Perché quelle vecchie leggende potrebbero avere ragione, dopo tutto.
 
 # Nocker
 
@@ -185,6 +193,10 @@ Un cappuccio rosso con le zampe di gallina al posto delle mani ha una difficolt�
 ### Visione a tunnel (2 punti, fisico)
 
 La maggior parte dei nocker è abile a lavorare in condizioni di scarsa luce e visibilità, ma tu hai ereditato un dono dai minatori goblin originali. Puoi vedere nell'oscurità assoluta come se fosse giorno; in queste condizioni non subisci penalità alla vista. Puoi anche vedere meglio di molti altri nella nebbia, nella foschia e in altre situazioni in cui la visibilità è oscurata. Le difficoltà dei tuoi tiri di Percezione non sono mai aumentate di più di uno quando la visione è oscurata da nebbia o foschia.
+
+### Lavoratore del ferro (5 punti, sovrannaturale)
+
+La maggior parte dei nocker non sopporta in alcun modo il tocco del ferro, ma la tua pelle è resistente al suo morso per qualche motivo. Questa capacità ti permette di fare lavori nel mondo d'Autunno, e gli altri nocker ti invidiano, sebbene considerino anche la tua condizione un po' sospetta. Questo Merito è essenzialmente lo stesso di *Resistenza al Ferro*; tuttavia, non solo sei immune al ferro, ma le tue opere chimeriche sono analogamente resistenti.
 
 ## Difetti
 
@@ -244,7 +256,17 @@ Gli animali fanno molte cose che sarebbero molto strane se le facessero anche gl
 
 ### Inibizione mortale (4 punti, sociale)
 
-Qualcosa del tuo aspetto mortale rende necessario che tu passi quasi tutto il tuo tempo nel tuo aspetto animale. Forse sei sulla lista dei dieci più ricercati dell'FBI, o forse sei un bambino che dovrebbe essere a scuola. Forse hai un orribile difetto di nascita che fa sì che la gente ti fissi con orrore ogni volta che esci in pubblico, o forse hai caratteristiche da changeling che mettono a rischio sia te che l'Escheat. Qualunque sia il motivo, trovi molto più facile rimanere nella tua forma animale per la maggior parte del tempo. Questo ti causa molti problemi, come minimo la comunicazione, ma non è così male come quello che succede quando assumi la tua forma di changeling o mortale.
+Qualcosa del tuo aspetto mortale rende necessario che tu passi quasi tutto il tuo tempo nel tuo aspetto animale. Forse sei sulla lista dei dieci più ricercati dell'FBI, o forse sei un bambino che dovrebbe essere a scuola. Forse hai un orribile difetto di nascita che fa sì che la gente ti fissi con orrore ogni volta che esci in pubblico, o forse hai caratteristiche da changeling che mettono a rischio sia te che l'Escheat. Qualunque sia il motivo, trovi molto più facile rimanere nella tua forma animale per la maggior parte del tempo. Questo ti causa molti problemi, come minimo la comunicazione, ma non è così male come quello che succede quando assumi la tua forma di changeling o mortale.  
+
+### Bisogno di habitat (3 punti, sovrannaturale)
+
+Alcuni animali hanno bisogno di habitat speciali e stanno male quando li lasciano. La tua affinità ha questo problema e, peggio ancora, si ripercuote sul tuo aspetto da changeling. I pesci hanno bisogno di acqua. Se sei un pooka pesce con questo difetto, allora anche tu hai bisogno di acqua. Tuttavia, questo non significa che devi immergerti costantemente nell'acqua, affogheresti. Ciò che significa invece è che devi passare una gran parte del tuo tempo in acqua o vicino all'acqua. Senti la tua attrazione come una calamita. Forse hai bisogno di bere costantemente. Forse fai la doccia dieci volte al giorno.  
+
+Altri bisogni di habitat potrebbero includere prendere il sole, rimanere al buio, o avere un "guscio" di qualche tipo in ogni momento. Se vieni privato del tuo bisogno ambientale per più di 24 ore, ti indebolisci e cominci a prendere livelli di ferita al ritmo di uno al giorno fino a raggiungere Incapacitato - a quel punto scivoli in una specie di coma fino a quando non incontri di nuovo il tuo elemento. Nota comunque che nel caso del sole una settimana di giorni di pioggia non ti farà male. Il semplice fatto di essere all'aperto ti darà i raggi di cui hai bisogno anche se non è una giornata luminosa.  
+
+### Amnesia bestiale (4 punti, sovrannaturale)
+
+La maggior parte dei pooka può passare da una forma all'altra senza il minimo problema. Tu, invece, hai un ostacolo. Ogni volta che torni dalla tua forma animale dimentichi tutto quello che è successo mentre eri in quella forma. È come se avessi perso i sensi. Non un singolo ricordo ti ritorna dopo il cambiamento. Quando sei nella tua forma animale hai piena consapevolezza delle tue azioni, tuttavia una volta che torni alla tua forma changeling o mortale dimentichi tutto. Questo è estremamente sconcertante, peggio che svegliarsi dopo una notte particolarmente brutta a bere e non ricordarsi di essersi tolti tutti i vestiti in mezzo alla strada.
 
 # Sluagh
 
@@ -255,6 +277,22 @@ Qualcosa del tuo aspetto mortale rende necessario che tu passi quasi tutto il tu
 Questo Merito potrebbe essere più propriamente chiamato "Amico degli Artropodi", ma è stato con i ragni che gli Sluagh hanno parlato per la prima volta, e quindi il nome rimane. Il rapporto implicito nel nome del Merito non è tanto un'amicizia quanto una transazione commerciale, ma anche gli Sluagh hanno le loro sacrosante tradizioni.  
 
 Se sei un Amico dei Ragni, puoi parlare con ogni sorta di creature striscianti e scivolose (quando il giocatore effettua un tiro di Percezione + Enigmi, difficoltà 7). Mentre la conversazione non è tanto uno scambio di convenevoli quanto di immagini e impressioni si può ottenere un'enorme quantità di informazioni parlando con i ragni in questo modo. Si può venire a sapere chi è passato di recente, i cambiamenti del vento (e ciò che portano) e altre informazioni vitali che altrimenti potrebbero essere passate inosservate se ci si prende il tempo di parlare con i propri informatori a otto zampe. Il numero di successi ottenuti indica la chiarezza delle informazioni apprese.
+
+### Amici morti (4 punti, sovrannaturali)
+
+Gli Sluagh sono sempre stati in grado di vedere, e talvolta di parlare, con gli spettri. Tuttavia, sei andato oltre quel tipo di contatto casuale, al punto che hai fatto amicizia con alcuni di quelli che sono passati a miglior vita. Ti portano informazioni, spiano i tuoi nemici e in generale ti tengono aggiornato su cose che nessun informatore vivente potrebbe mai scoprire. Avere contatti che camminano attraverso i muri può essere estremamente utile a volte. 
+
+D'altro canto, questi amici si aspettano anche che tu faccia loro dei favori, e alcune di queste richieste possono diventare piuttosto bizzarre. Inoltre, non sai mai quando il tuo simpatico amico fantasma diventerà improvvisamente cattivo senza alcuna ragione apparente, e sa dove vivi...
+
+### Dita da mosca (4 punti, sovrannaturale)
+
+Nel tuo aspetto fatato le tue dita terminano in ventose simili a quelle di una mosca. Sei in grado di arrampicarti su pareti a strapiombo, appenderti a testa in giù da soffitti e sfidare la gravità in altri modi, purché tu abbia qualcosa a cui aggrapparti. (Il giocatore deve effettuare un tiro di Destrezza + Atletica). Nota: Le dita in questione non possono essere guantate affinché *Dita da mosca* funzioni. Le dita dei piedi di uno Sluagh con questo Merito sono influenzate in modo simile, anche se le dita da sole sono sufficienti a sostenere il peso del changeling.  
+
+### Pozzanghera (5 punti, sovrannaturale)
+
+Con il passare dei secoli gli Sluagh persero lentamente la capacità di assumere qualsiasi forma desiderassero. Divennero sempre più limitati nelle forme che potevano assumere, finendo per essere bloccati in un aspetto più o meno umano. Ma non tu. Con il Merito *Pozzanghera*, puoi ridurre la tua forma ad una pozza appiattita sul terreno, trasudare attraverso le più piccole crepe e fessure, e versarti in contenitori che non dovrebbero essere in grado di contenerti - e poi assumere la tua forma corretta, neanche un po' sciupata dall'esperienza. Questo trucco è particolarmente utile per spie, corrieri e assassini.  
+
+Per far sì che uno Sluagh si trasformi in una pozzanghera il giocatore deve effettuare un tiro di Costituzione + Atletica (difficoltà 6). Muoversi in forma di pozzanghera richiede Destrezza + Atletica (difficoltà 7). Ricostituirsi invece richiede Costituzione + Atletica (difficoltà 7). Un fallimento critico in uno di questi tiri rende lo Sluagh una massa inerte e tremolante, facilmente catturata e versata in un contenitore per la conservazione. Fallire significa semplicemente che lo Sluagh deve riprovarci.
 
 ## Difetti
 
@@ -268,7 +306,7 @@ Affinché uno Sluagh con *Scarsa attenzione* finisca un lavoro che non può esse
 
 ### Gregario (1 punto, sociale)
 
-Tra le peggiori violazioni del galateo che uno Sluagh può commettere c'è il passare troppo tempo in compagnia degli altri. Uno Sluagh gregario può conquistare amici e influenzare altri Kithain, ma è probabile che ottenga una cattiva nomea tra gli altri della sua specie. Se sei gregario, sarai ostracizzato dagli altri Sluagh, non sarai invitato ai Tè e non sarai informato di informazioni che potrebbero essere utili.  
+Tra le peggiori violazioni del galateo che uno Sluagh può commettere c'è il passare troppo tempo in compagnia degli altri. Uno Sluagh gregario può conquistare amici e influenzare altri Kithain, ma è probabile che ottenga una cattiva nomea tra gli altri della sua specie. Se sei gregario, sarai ostracizzato dagli altri Sluagh, non sarai invitato ai Tè Reali e non sarai informato di informazioni che potrebbero essere utili.  
 
 Uno Sluagh con *Gregario* ha -2 dadi su tutti i tiri di dadi sociali che coinvolgono altri Sluagh. E no, non puoi mantenere il segreto.
 
@@ -284,14 +322,36 @@ Naturalmente, una volta che si sparge la voce che c'è uno Sluagh chiacchierone 
 
 Hai una fobia per gli altri che va oltre la solita avversione degli sluagh per la compagnia. Ci vuole un vero sforzo (tiro di Volontà, difficoltà 6) anche solo per uscire dalla tua tana, e un altro ogni giorno per non assecondare il tuo istinto di rientrare. Sei più a tuo agio a casa tua, e in genere non ti fai nemmeno vedere dagli altri, preferendo rimanere dietro le tende o vetri a senso unico.   
 
-Ogni volta che lo Sluagh è in compagnia di più di una persona hai -1 su tutti i tiri a meno che tu non superi un tiro di Volontà (difficoltà 5).
+Ogni volta che lo Sluagh è in compagnia di più di una persona hai -1 su tutti i tiri a meno che tu non superi un tiro di Volontà (difficoltà 5).  
+
+### Stregato (4 punti, sovrannaturale)
+
+Da qualche parte lungo la linea, qualcuno a cui hai fatto un torto è morto. Questo non sarebbe così male, se non fosse che ora è uno spettro e vuole rendere la tua vita un (breve) inferno. Non importa dove tu vada o cosa tu faccia, il fantasma ti seguirà e farà del suo meglio per interferire. Man mano che tu cresci in potenza, lo farà anche lui, e non si fermerà finché non sarai distrutto. La parte peggiore di tutto ciò, tuttavia, è che puoi vedere il fantasma e tutto ciò che sta facendo, ma la maggior parte delle volte sei impotente a fare qualcosa al riguardo.  
+
+### Sa troppo (5 punti, sovrannaturale)
+
+Hai appreso quello che molti considerano il grande segreto degli Sluagh: che gli Sluagh sono nella loro ultima incarnazione, e che oltre questa vita si estende il nulla. Questa rivelazione ha stravolto la tua prospettiva in modo irreparabile. Non vedi più alcun bene nel mondo o negli altri. Niente significa più niente per te, e la vita è semplicemente qualcosa da sopportare prima che l'oscurità che ti aspetta inghiotta inevitabilmente il tuo spirito. 
+
+Questo significa anche che per gli altri sarà estremamente difficile convincerti dell'urgenza di qualsiasi ricerca o richiesta, e potresti perdere improvvisamente interesse in qualsiasi cosa tu stia facendo semplicemente perché è troppo impegnativo.
 
 # Troll
 
 ## Pregi
 
+### Legato alla natura (3 punti, sovrannaturale)
+
+Le leggende sono piene di episodi riguardanti il legame con la natura e la forza; questo Merito rappresenta gli aspetti positivi di tali racconti. I possessori di questo Merito hanno un legame quasi mistico con la natura e con tutte le cose viventi e in crescita nel loro ambiente. Raramente si perdono e possono trovare facilmente cibo e riparo, quasi come se la natura stessa si occupasse dei loro bisogni. I personaggi che possiedono questo Merito possono sottrarre due a tutte le difficoltà quando si trovano in un ambiente naturale. Le città e l'asfalto non sono considerati naturali, anche se un parco all'interno di una città potrebbe qualificarsi. Come sempre, il narratore è l'arbitro finale.
+
+### Sangue fluviale (5 punti, sovrannaturale)
+
+I fiumi, che si dice siano la linfa vitale dei troll, sono esseri viventi, e come tali hanno una durata di vita distinta. Il passare dei decenni può cambiarne il corso, o addirittura il flusso, ma ci vogliono secoli o un cataclisma per distruggerne uno. Lo stesso vale per i troll che possiedono questo Merito. Invecchiano molto più lentamente degli altri fatati normali, senza correre il rischio di Bedlam che deriva dall'abitare continuamente nei Freehold. In termini di gioco, finché un troll è consapevole del Dreaming, invecchia a una velocità pari a un decimo di quella dei suoi fratelli. Tuttavia, se viene travolto dalla Banalità invecchia e muore come gli altri mortali. Se viene salvato dalle Nebbie ricomincia ad invecchiare a questo ritmo ridotto.
+
 ## Difetti
 
 ### Animo bramoso (2 punti, sociale)
 
-Senti il richiamo del romanticismo molto più forte degli altri troll, e hai disperatamente bisogno di qualche suo aspetto nella tua vita. Fissi la tua attenzione sul changeling o sulla persona più attraente in qualsiasi situazione, anche se le tue reazioni varieranno a seconda del tuo carattere. Potresti struggerti da lontano, comportarti come un cucciolo desideroso di approvazione, tentare di impressionare l'oggetto del tuo affetto, ecc. Nota che, se dovessi trovarti unicamente in compagnia di coloro a cui non saresti normalmente interessato, comincerai ad abbassare i tuoi standard; il tuo desiderio e bisogno di romanticismo è così forte, anche se ti porta a prenderti una cotta per uno sluagh. Questo difetto deve essere rigorosamente giocato di ruolo, e lo storyteller può decidere di imporre penalità ai dadi a seconda delle circostanze.
+Senti il richiamo del romanticismo molto più forte degli altri troll, e hai disperatamente bisogno di qualche suo aspetto nella tua vita. Fissi la tua attenzione sul changeling o sulla persona più attraente in qualsiasi situazione, anche se le tue reazioni varieranno a seconda del tuo carattere. Potresti struggerti da lontano, comportarti come un cucciolo desideroso di approvazione, tentare di impressionare l'oggetto del tuo affetto, ecc. Nota che, se dovessi trovarti unicamente in compagnia di coloro a cui non saresti normalmente interessato, comincerai ad abbassare i tuoi standard; il tuo desiderio e bisogno di romanticismo è così forte, anche se ti porta a prenderti una cotta per uno sluagh. Questo difetto deve essere rigorosamente giocato di ruolo, e lo storyteller può decidere di imporre penalità ai dadi a seconda delle circostanze.  
+
+### Vincolato alla natura (2 punti, sovrannaturale)
+
+Le leggende sono piene di episodi riguardanti il legame con la natura e la forza; questo Difetto rappresenta il lato negativo di questo legame. I personaggi con questo difetto prendono la loro forza dal contatto con la natura, e si indeboliscono quando vengono allontanati da essa. In termini di gioco, i personaggi non subiscono alcuna penalità quando si trovano in ambienti naturali, ma sottraggono un dado a tutte le azioni quando si trovano in ambienti non naturali. Ai fini di questo difetto, città, terre desolate e simili non sono considerate naturali. I personaggi con questo difetto dovrebbero considerare carriere come ranger di parchi, agricoltori e simili, o vivere il più vicino possibile a un grande parco.  
