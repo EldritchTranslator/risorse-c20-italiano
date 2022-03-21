@@ -20,7 +20,7 @@ Nell'era delle star di YouTube, dei fan di Pinterest e di altre celebrità di In
 ⦿⦿ Hai un gruppo dedicato di fan che genera un punto di Glamour ogni settimana.  
 ⦿⦿⦿ Hai una solida base di fan che genera due punti di Glamour a settimana.  
 
-### Dita sul polso (2 punti, sociale)
+### Aggiornato (2 punti, sociale)
 
 Con la loro propensione al pettegolezzo i boggan trovano facile scoprire tutto ciò di cui hanno bisogno. Anche se tutti amano i pettegolezzi di qualsiasi tipo c'è sempre un argomento che li affascina molto più degli altri. Questo Merito riduce di 2 la difficoltà di qualsiasi tiro di Contatti relativo all'argomento preferito di un boggan.  
 
@@ -68,7 +68,7 @@ Questo Merito non inganna i Kithain o i Prodighi - per quello servono delle Arti
 
 Tutti i boggan soffrono di dipendenza dal pettegolezzo, ma la maggior parte di loro sa quando condividere ciò che ha imparato e quando rimanere in silenzio. Sfortunatamente, tu non sei altrettanto bravo a decidere quando è appropriato condividere e hai la brutta abitudine di spifferare i pettegolezzi alle persone sbagliate nel momento sbagliato. Ogni volta che sarebbe una cattiva idea condividere i pettegolezzi che possiedi, devi effettuare un tiro di Volontà (difficoltà 8). Se fallisci il tiro ti lasci sfuggire qualcosa di cruciale o dannoso anche se davvero non dovresti. Naturalmente, questo può causare un sacco di problemi nelle cerchie sociali di cui fai parte, e gli altri boggan tendono a vederti con sospetto.  
 
-### Minimo di disprezzo (5 punti, sovrannaturale)
+### Disprezzo profondo (5 punti, sovrannaturale)
 
 Tutti i boggan disprezzano l'ingratitudine, ma tendono ad affrontarla rapidamente e ad andare avanti. A condizione che il colpevole si scusi e si ravveda i boggan sono di solito altrettanto veloci a perdonarlo. (Forse non a dimenticare, ma comunque a perdonare.) Non tu. Quando ti senti veramente insultato, o pensi che qualcuno ti stia dando per scontato, o semplicemente che una persona non ti è sufficientemente grata per il tuo aiuto, diventi amareggiato. Davvero amaro, fino al profondo della tua anima. 
 
@@ -88,10 +88,6 @@ I tuoi piedi sono particolarmente resistenti e adatti alle lunghe distanze che t
 
 Questo Merito riflette una capacità sia istintiva che allenata di poter correre per lunghe distanze senza stancarsi. Molte delle culture delle patrie degli Elegbara hanno impiegato corridori di lunga distanza come messaggeri e corrieri per centinaia o migliaia di anni. Un personaggio con questo Merito può correre o fare jogging ad un ritmo costante (non vale per scatti in velocità) per un massimo di 6 ore senza sentirsi minimamente stanco. Oltre a questo limite deve fare i normali tiri di Costituzione per resistere alla stanchezza una volta ogni mezz'ora, con difficoltà diminuita di -2. Questo praticamente permette al personaggio di camminare a un ritmo normale quasi all'infinito, a condizione che faccia delle pause occasionali per il cibo e l'acqua e un breve pisolino ogni 12-14 ore per un numero di giorni pari al suo punteggio di Costituzione, oltre si deve cominciare a fare i lanci per lo sfinimento. Nota che questo Merito non si applica a sprint o ad altri scatti di velocità anche brevi, né in altre situazioni oltre al viaggiare. Permette invece a un personaggio a piedi di coprire una distanza sorprendente in un periodo di tempo relativamente breve, in particolare se paragonato a quelli a piedi a cui manca questo Merito.  
 
-### Dono di Babele (2 punti, mentale)
-
-Questo Pregio raddoppia i linguaggi che puoi conoscere grazie ad altri Pregi o abilità, dimezzando inoltre i tempi di acquisizione delle lingue.
-
 ## Difetti
 
 ### Orizzonti perduti (3 - 5 punti, sovrannaturale)
@@ -108,12 +104,194 @@ Forse sei la reincarnazione di qualche antico eroe o forse sei solo sfortunato, 
 
 ## Pregi
 
-### Cuore Flessibile (2 punti, sociale)
+### Cuore Flessibile (2 punti, mentale)
 
 I satiri sono i più teneri di cuore tra i Kithain. Si ammaccano facilmente e rimbalzano da un estremo all'altro delle emozioni. In un mondo così oscuro, le persone lavorano duramente per farsi del male a vicenda, e i satiri sentono i colpi più acutamente. Non beneficiano della solida mancanza di emozioni che sostiene i troll, né hanno l'altezzosa fiducia in se stessi che permette ai sidhe di credere che non possa essere colpa loro. I satiri sanguinano.  
 
 Tu, invece, hai imparato a lasciarti scivolare addosso queste cose. Senti i colpi, ma non ti abbattono. Questa guarigione emotiva velocissima ti permette di evitare l'umore che paralizza gli altri satiri. Amate tanto profondamente quanto loro, ma quando il vostro amore vi lascia, potete dire a voi stessi che ci sono molte altre opportunità di devozione, e ci credete. Se hai un Cuore Flessibile, puoi usare Volontà per controllarti in una situazione in cui un'altra capra potrebbe reagire emotivamente in modo eccessivo. Naturalmente, anche tu ti rendi conto che potresti non essere in grado di controllare il tuo essere per sempre se la situazione continua, quindi fai tutto quello che puoi per toglierti da essa.  
 
+### Voce tonante (1 punto, fisico)
 
+Alcuni animali hanno voci che portano più lontano di quelle di un normale essere umano. Tu hai la capacità di proiettare la tua voce tanto lontano quanto un lupo può ululare o di gridare tanto forte quanto un elefante può barrire. Questo è utile, ma sfortunatamente, attira anche l'attenzione su di te. Non solo il tuo bersaglio ti sente, ma anche tutti quelli entro un certo raggio. Il paesaggio fisico può ostacolare questa capacità; gli edifici smorzano, le colline fanno eco. 
+
+In territorio aperto, tuttavia, la tua voce si trasmette fino a otto chilometri, se vuoi. (Tira Costituzione + Espressività, difficoltà 6, meno eventuali modificatori per il paesaggio. Il numero di successi determina per quanti chilometri viaggia la tua voce. Se fallisci, sforzerai la tua voce e soffrirai di laringite per un numero di giorni pari alla tua riserva di dadi).
+
+### Passione (2 punti, mentale)
+
+Nel corso dei secoli i satiri hanno perso parte della loro passione originale. La capra con il Merito *Passione* l'ha conservata in pieno. Persegui i tuoi interessi con la massima intensità e di solito ci riesci. La vita ti riserva molte occasioni affascinanti e non vuoi perderle, afferrandole avidamente. Le mondanità, come il denaro, non significano nulla per te, se non quando derivano dal perseguimento della tua Passione. E, poiché focalizzi la tua attenzione così completamente sull'esperienza e sul miglioramento di te stesso raggiungi la grandezza. Il Tempo Vivente [Il passaggio del tempo mondano] non ti influenza perché hai la capacità innata di gestire la tua passione. La concentrazione in quest'area ti permette di procederci più rapidamente. (La difficoltà di tutti i tiri relativi alla tua Passione è ridotta di 2.)
+
+### Presenza intimidatoria (3 punti, sociale)
+
+Parli e cammini in maniera aggressiva, e non sei tutto fumo e niente arrosto. Ogni volta che entri in una stanza tutti si girano a guardarti. Per i satiri, questa presenza non è così insolita, ma quando gli altri ti guardano sembrano preoccupati. Quelli che ti conoscono capiscono che sei solo una pecora travestita da lupo, ma anche loro non vogliono irritarti o farti arrabbiare. Qualcosa in te urla: Pericoloso! 
+
+Puoi esagerare questo effetto ogni volta che vuoi e, quindi, aumentare attivamente le tue possibilità di intimorire qualcuno. Con uno sguardo o un gesto, gli comunichi cosa vorresti fare con i loro corpi una volta che ti sei impossessato di loro, e loro credono davvero che lo faresti. (Il giocatore deve effettuare un tiro di Carisma + Intimidazione con la difficoltà ridotta di 2).
 
 ## Difetti
+
+### Peloso (1 punto, fisico)
+
+Tutti i satiri sono pelosi, giusto? Beh, tu prendi la medaglia d'oro. Non solo hai peli sulle gambe e sui fianchi, ma ti crescono abbondantemente su tutto il corpo. Il tuo petto è un fitto tappeto di riccioli. Onde scure di questi peli coprono le tue braccia. Una pelliccia copre il tuo ventre e persino la tua schiena. Molti lo trovano rivoltante - specialmente nelle donne.  
+
+Almeno i satiri femmina non devono preoccuparsi del loro viso. Per i satiri maschi, invece, la barba cresce così in fretta che si rinuncia a radersi; perché quando si arriva al lato sinistro della faccia, il lato destro ha la ricrescita. Ma almeno non devi mai preoccuparti della calvizie!  
+
+Solo nel più raro dei casi questo difetto si estende completamente all'aspetto mortale di un satiro. Puoi avere braccia da scimmia o un petto pieno di peli, ma solo nel caso più estremo la crescita dei peli sembra anormale. I satiri con questo difetto effettuano tutti i tiri relativi a Aspetto con una difficoltà aumentata di +1.  
+
+### Voce spezzata (2 punti, fisico)
+
+I cani ululano quando ti sentono cantare e i bambini piangono al solo suono della tua voce. Sei stato maledetto con una voce terribile. Come il suono del vetro che si rompe o del metallo che si frantuma, la tua voce ferisce la sensibilità della gente. Anche se puoi ancora suonare uno strumento senza problemi, la maggior parte della gente vuole che tu non canti. Li fa rabbrividire.  
+
+*Voce spezzata* rende difficile corteggiare il tuo amore. Nessuno si innamorerà di qualcuno che suona come le unghie che graffiano una lavagna o una matita che cerca di cancellare senza gomma. E la cosa peggiore è che sembra che non ti accorgi di come suoni o di vedere le reazioni delle persone nei tuoi confronti. Chiunque provi a dirti che avete una voce disgustosa attira la vostra ira immediata. Dopo tutto, per voi sembra essere perfettamente normale. (La difficoltà di tutti i tiri di Carisma è aumentata di +1 per questi satiri). 
+
+### Procrastinazione (3 punti, mentale)
+
+La distrazione si palesa in molte forme e i satiri spesso vogliono fare tutto assieme. Sfortunatamente, c'è solo uno di te. Non hai mai sentito parlare del concetto di gestione del tempo, quindi salti da un progetto all'altro come dettato dal tuo capriccio, e quando arriva un obbligo importante vai per divertirti invece di fare il tuo dovere. Quella festa a casa del tuo amico sembra molto più interessante che lucidare la spada del tuo mentore - puoi farlo domani, avrai un sacco di tempo. Ma quell'inafferrabile domani non arriva mai e il compito rimane tristemente incompiuto. Però ti sei divertito molto alla festa! (Devi effettuare un tiro di Volontà ogni volta che il tuo personaggio deve scegliere tra il dovere e il divertimento per vedere quale sceglie).
+
+### In-decisione (3 punti, mentale)
+
+Lo stile di vita del satiro implica dover prendere regolarmente decisioni rapide. Quando ti viene data un'opportunità, è meglio che tu agisca in fretta o potrebbe svanire. Eppure, sembra che tu non riesca a prendere una decisione abbastanza velocemente; ti ci vuole un po' per ordinare tutte le opzioni, esaminare i pro e i contro, e poi decidere quale sia la decisione migliore. Sei indeciso fino all'eccesso, e vuoi discutere il problema con qualcuno più intelligente prima di impegnarti. Le situazioni intense, dove le azioni devono essere decise velocemente, ti confondono e il risultato è che di solito rimani in mezzo con uno sguardo perso sul viso. Questo frustra i tuoi compagni e a volte ti fa finire in situazioni pericolose. (Devi effettuare un tiro di Volontà ogni volta che il tuo personaggio deve prendere una decisione, altrimenti il tuo personaggio rimane indeciso sul da farsi).  
+
+### Problemi (4 punti, sociale)
+
+Hai dei problemi. Che tu sia insicuro, represso o leggermente nevrotico, o tutte e tre le cose, i tuoi problemi influenzano negativamente la tua vita. Non hai rifiutato l'idea di libertà, solo che non riesci a capirla. Non importa quanto forte proclami la tua dedizione alla ricerca della felicità, hai troppa paura per agire davvero. Questa paura può essere paralizzante per un satiro. Sei la povera anima innamorata che non riesce mai a trovare il coraggio di dire alla persona che ami cosa provi per lei.  
+
+Ti tieni le tue emozioni represse dentro e non lasci che nessuno sappia di cosa tu voglia o abbia bisogno. Forse i tuoi genitori ti hanno insegnato che non meritavi di essere amato, o forse senti che gli altri hanno diritto a quell'ultimo pezzo di torta più di te. Qualunque sia la ragione, questi sentimenti dannosi ti tengono lontano da ciò che più desideri. Lasci sempre che i sentimenti degli altri ti tengano lontano da ciò che più desideri. Lasci sempre che gli altri stiano sotto i riflettori per primi e prendi solo gli avanzi che ti danno. Il giocatore tira Volontà per vedere se il satiro può farsi valere ed esprimere i suoi bisogni e desideri.
+
+# Cappuccio rosso
+
+## Pregi
+
+### Metabolismo veloce (1 punto, fisico)
+
+Questo non si riferisce alla velocità con cui un cappuccio rosso si muove, o mangia, o fa qualsiasi altra cosa. Invece, un cappuccio rosso con *Metabolismo veloce* può stare 24 ore senza mangiare. Spendendo un punto di Volontà, il giocatore può poi far andare il personaggio per altre 24 ore, e così via fino a quando non esaurisce la Volontà. Il lato negativo di avere *Metabolismo veloce*, purtroppo, è che una volta che il digiuno finisce il cappuccio rosso è costretto a mangiare abbastanza per compensare tutti i giorni che ha saltato. Inoltre, sentirà il bisogno di farlo immediatamente.
+
+## Difetti
+
+### Avversione (1 - 5 punti, fisico)
+
+Si dice che i cappucci rossi possono e vogliono mangiare qualsiasi cosa. Nella maggior parte dei casi hanno ragione, ma un pettirosso con questo difetto è l'eccezione che conferma la regola. Un cappuccio rosso che ha un'avversione non mangerà qualcosa (o un'intera categoria di cose, a seconda del numero di punti presi per il difetto). Un punto potrebbe essere un'avversione alle fragole, mentre cinque sarebbe qualcosa di molto più ampio, come carne, verdure o oggetti inanimati.  
+
+Un cappuccio rosso che mangia accidentalmente qualcosa a cui ha un'avversione è in un mare di guai. È richiesto un tiro di Costituzione (difficoltà 6), altrimenti vomiterà immediatamente tutto ciò che ha nello stomaco. Inoltre per fare qualcosa di più faticoso che camminare nella mezz'ora seguente è necessario un tiro di Volontà (difficoltà 6) per vedere se un altro attacco di nausea lo colpisce.
+
+### Zampe di gallina (3 punti, fisico)
+
+Alcune leggende sui cappucci rossi li dotano di zampe di gallina al posto delle mani o dei piedi. Questa condizione è rara, ma occasionalmente presente tra i cappucci rossi dei giorni nostri, anche se ogni Kithain che soffre di questo difetto è destinato ad essere oggetto di molta derisione da parte dei suoi simili.  
+
+Un cappuccio rosso con le zampe di gallina al posto delle mani ha una difficoltà di +1 per tutti i tiri di destrezza che coinvolgono la destrezza manuale, mentre uno con le zampe di gallina al posto dei piedi ha lo stesso svantaggio per tutti i tiri di schivare, correre e così via. Nota: le zampe sono molto più minacciosi di quanto si possa immaginare dal loro nome - gli artigli sono artigli, non importa da quale animale provengano.
+
+# Nocker
+
+## Pregi
+
+### Visione a tunnel (2 punti, fisico)
+
+La maggior parte dei nocker è abile a lavorare in condizioni di scarsa luce e visibilità, ma tu hai ereditato un dono dai minatori goblin originali. Puoi vedere nell'oscurità assoluta come se fosse giorno; in queste condizioni non subisci penalità alla vista. Puoi anche vedere meglio di molti altri nella nebbia, nella foschia e in altre situazioni in cui la visibilità è oscurata. Le difficoltà dei tuoi tiri di Percezione non sono mai aumentate di più di uno quando la visione è oscurata da nebbia o foschia.
+
+## Difetti
+
+### Troglodita (1 o 4 punti, fisico)
+
+Sei un ritorno ai goblin originali e sei abituato a vivere sottoterra. Le luci forti ti danno fastidio, ed è difficile per te vedere in situazioni che coinvolgono qualcosa di più luminoso della luce del fuoco. Se hai il difetto di un punto, sei semplicemente sensibile alle luci forti; le difficoltà di tutti i tiri di Percezione basati sulla vista sono aumentate di due in situazioni che coinvolgono la luce del sole. Questa difficoltà viene abbassata di uno se indossi occhiali scuri.  
+
+Se hai il difetto da quattro punti, sei un vero troglodita. I tuoi occhi sono piattini luminosi nel tuo aspetto fae. La luce fa male ai tuoi occhi e ti provoca un forte mal di testa. Sei completamente cieco in qualsiasi ambiente più luminoso della luce del fuoco, anche se puoi vedere se indossi occhiali estremamente scuri. Anche con tale protezione, le difficoltà di tutte le attività che coinvolgono la vista in tali circostanze sono aumentate di tre.  
+
+### Radiato dall'albo (2 o 5 punti, sociale)
+
+Hai infranto i divieti del nocker. Forse hai venduto una tecnologia proibita, non hai rispettato un contratto o hai maltrattato uno dei tuoi golem. In ogni caso, le tue azioni si sono riflesse negativamente sugli altri nocker, e il Bes Din ti ha tolto la licenza di inventore. Non puoi più praticare legalmente il tuo mestiere.  
+
+Il giocatore e il narratore devono decidere insieme cosa ha fatto il personaggio e quanto è stata grave l'infrazione. Se si è trattato di un'infrazione minore, sei solo sotto giudizio; il Bes Din può eventualmente ripristinare la tua licenza in attesa di una buona condotta e di servizi speciali da parte tua. Al momento puoi lavorare per ripagare il tuo debito. Il Narratore decide quando è stato pagato. Questo è un difetto da due punti.  
+
+Gli inventori che hanno commesso crimini particolarmente efferati possono perdere le loro licenze di inventore per sempre. Questo è un difetto da cinque punti.  
+
+### Magnete per i goblin (2 punti, sociale)
+
+Ai goblin piaci molto e vogliono essere tuoi amici. Si presentano a tarda notte e si infilano tra i tuoi attrezzi mentre stai cercando di lavorare. Pensano che sia divertente quando dicono alla duchessa che tu pensi che lei abbia una faccia da cavallo. (Beh, ce l'ha!) Le cose tendono ad esplodere intorno a te. Non importa quanto tu dica ai goblin di andare a farsi fottere, loro non fanno altro che ridere e vogliono uscire con te ancora di più. Il lato positivo è che quasi tutti gli altri ti lasciano in pace.
+
+# Pooka
+
+## Pregi
+
+### Lingua animale (3 punti, mentale)
+
+Come il dottor Dolittle, puoi parlare con gli animali. Sfortunatamente, questo si estende solo agli animali simili a te e a quelli direttamente collegati. Per ogni gradino lontano da te nel regno animale la comunicazione diventa più difficile. Per esempio, un pooka tigre può parlare fluentemente con le altre tigri nella lingua delle tigri, ma si sente come un americano a Parigi con una comprensione della lingua di quarta elementare quando parla con una lince. Quando tenta di conversare con un gatto domestico, il pooka tigrato si riduce a una vaga comprensione del linguaggio del corpo. Ogni volta che un pooka tenta di comunicare con una specie diversa dalla sua affinità specifica, il giocatore deve tirare Percezione + Consapevolezza contro una difficoltà determinata dal suo Narratore in base a quanto la specie è lontana dall'affinità del pooka.  
+
+### Richiamo degli amici (3 punti, mentale)
+
+Le creature tue simili verranno quando le chiamerai e ti sosterranno in un combattimento. Ogni specie ha un richiamo speciale che usa per chiamare altri della sua specie in aiuto. Hai una conoscenza innata di questo richiamo e puoi usarlo ogni volta che ne hai bisogno. Per alcuni è un ululato. Per altre è un chiocciare.  
+
+Qualunque sia il suo suono, chiama in tuo aiuto tutti questi animali nel raggio di un chilometro e mezzo. Anche se non puoi far arrivare la tua voce a quella distanza gli animali spargono la voce per te, tutto quello che devi fare è raggiungere una delle creature simili e, a meno che questa non sia trattenuta in qualche modo, chiamerà gli altri. In questo modo, la "parola" si diffonde rapidamente e i vostri amici accorrono. Si applicano ancora le limitazioni della comunicazione. Se gli animali non possono sentirti, non sapranno di dover venire. Se non riescono a capire che sei legato a una sedia e hai bisogno di rosicchiare il nodo, allora ti fisseranno stupidamente. Non si teletrasportano, quindi il tempo di viaggio è un fattore da considerare. Tuttavia, se vedono che un orco ti sta attaccando, saltano subito nel combattimento e ti aiutano.  
+
+Questo Merito funziona particolarmente bene se usato in combinazione con il Merito *Lingua animale*. Il numero di animali a tua disposizione varia a seconda della tua affinità e del luogo in cui vivi. Il Narratore dovrebbe assegnare un certo numero di animali per successo. Per esempio, a New York, potrebbe esserci un solo alligatore nelle fogne entro quel chilometro ma potrebbero esserci un centinaio di gatti. Una volta stabilito questo il giocatore deve tirare Carisma + Espressività per determinare il successo della sua richiesta di aiuto.
+
+### Intimidazione (3 punti, sociale)
+
+Qualcosa nel modo in cui ti muovi o nel modo in cui il tuo sguardo si sposta preoccupa la gente. Hai un'aura naturale di pericolo che fa rizzare i peli sul collo della gente. Entri in una stanza e la folla si ferma. Quando ti sorpassano sul marciapiede, gli altri pedoni ti danno il schivano, a volte addirittura attraversano la strada per evitarti, basta uno sguardo. Solo l'avversario più coraggioso e sfacciato ti sfiderà apertamente. Questo lavora a tuo favore, ma è un modo solitario di attraversare la vita. Naturalmente, questo attira anche l'attenzione di quei duri in cerca di qualcuno da abbattere. (Ricevi un -2 alla difficoltà su tutti i tiri relativi all'Intimidazione).
+
+## Difetti
+
+### Ibernazione (5 punti, fisico)
+
+Molti animali vanno in letargo. Alcuni lo fanno stagionalmente. Altri vanno in letargo quando la temperatura scende sotto un certo punto. Tu hai ereditato questo impulso dalla tua affinità animale. Sia che tu lo faccia stagionalmente, dormendo tutto l'inverno, sia che cada in letargo solo quando la temperatura scende, questo può essere abbastanza debilitante. Se il tuo letargo è innescato dalla stagione, allora perdi un intero quarto dell'anno. Anche se non dormi 24 ore al giorno, ne dormi almeno 20. Il tuo corpo ti sveglia quel tanto che basta per mangiare e andare in bagno, ma poi torni subito a dormire. Se è innescato dalla temperatura, allora rischi una sonnolenza improvvisa e un rallentamento della tua fisiologia quando fa freddo. Temperature inferiori ai 5° C scateneranno il tuo letargo. 
+
+È possibile mitigare un po' questa abitudine. Ogni volta che dovresti essere in ibernazione, puoi spendere un punto Volontà per rimanere sveglio per 24 ore. Anche se questo ti impedisce di cadere in un sonnellino ogni manciata di minuti, non ti lascia molto sveglio. Tutti i tiri mentre sei in uno stato di sospensione dell'ibernazione sono effettuati con una difficoltà di +2 (fino a una difficoltà massima di 10). Inoltre, non puoi iniziare azioni aggressive o combattimenti, anche se puoi rispondere a tali azioni. Una volta che accade un combattimento reagisci normalmente (ma con la penalità di difficoltà +2).  
+
+### Mentalità di branco (1 punto, mentale)
+
+L'attaccamento che provi per il tuo branco non è salutare. Non solo vuoi far parte di un branco, ma ne hai bisogno. Fai di tutto per proteggerlo, fino al punto di sacrificarti, e se ti ritrovi senza un branco, ti unisci al primo che ti accetta. Sei molto stressato quando sei lasciato solo. Tuttavia, non è necessario che tu sia un seguace del branco, potresti anche essere il leader che ha bisogno più di ogni altra cosa di avere un gruppo da supervisionare. Se hai perso il tuo vecchio branco, spendi un punto Volontà per evitare di unirti al primo branco che trovi, anche se ha un'etica contraria alla tua. Devi farlo per un numero di giorni pari al numero di fallimenti (cioè il numero di 1 ottenuti) su un tiro di Intelligenza.  
+
+### Istinto naturale (2 punti, mentale)
+
+Gli animali fanno molte cose che sarebbero molto strane se le facessero anche gli umani o i changeling. Hanno impulsi. Anche tu hai queste pulsioni. Potrebbe essere un piacere inquietante nel gustare la carne cruda, un desiderio di inseguire le auto, un'abitudine inconscia di leccarsi, un impulso a cercare parassiti nei capelli dei vostri amici, o una predilezione per attaccare i deboli. Qualsiasi impulso naturale tu abbia, lo fai senza pensare. Fa parte di te e solo spendendo un punto di Volontà puoi evitare di fare l'impulso per un'ora quando ti trovi in una situazione in cui normalmente lo proveresti.  
+
+### Inibizione mortale (4 punti, sociale)
+
+Qualcosa del tuo aspetto mortale rende necessario che tu passi quasi tutto il tuo tempo nel tuo aspetto animale. Forse sei sulla lista dei dieci più ricercati dell'FBI, o forse sei un bambino che dovrebbe essere a scuola. Forse hai un orribile difetto di nascita che fa sì che la gente ti fissi con orrore ogni volta che esci in pubblico, o forse hai caratteristiche da changeling che mettono a rischio sia te che l'Escheat. Qualunque sia il motivo, trovi molto più facile rimanere nella tua forma animale per la maggior parte del tempo. Questo ti causa molti problemi, come minimo la comunicazione, ma non è così male come quello che succede quando assumi la tua forma di changeling o mortale.
+
+# Sluagh
+
+## Pregi
+
+### Amico dei ragni (4 punti, sociale)
+
+Questo Merito potrebbe essere più propriamente chiamato "Amico degli Artropodi", ma è stato con i ragni che gli Sluagh hanno parlato per la prima volta, e quindi il nome rimane. Il rapporto implicito nel nome del Merito non è tanto un'amicizia quanto una transazione commerciale, ma anche gli Sluagh hanno le loro sacrosante tradizioni.  
+
+Se sei un Amico dei Ragni, puoi parlare con ogni sorta di creature striscianti e scivolose (quando il giocatore effettua un tiro di Percezione + Enigmi, difficoltà 7). Mentre la conversazione non è tanto uno scambio di convenevoli quanto di immagini e impressioni si può ottenere un'enorme quantità di informazioni parlando con i ragni in questo modo. Si può venire a sapere chi è passato di recente, i cambiamenti del vento (e ciò che portano) e altre informazioni vitali che altrimenti potrebbero essere passate inosservate se ci si prende il tempo di parlare con i propri informatori a otto zampe. Il numero di successi ottenuti indica la chiarezza delle informazioni apprese.
+
+## Difetti
+
+### Scarsa attenzione (2 punti, mentale)
+
+Gran parte del tempo di uno Sluagh può essere speso a esaminare problemi complessi, separando i grani di informazione dalla pula. Questo richiede tempo, sforzo e soprattutto pazienza.  
+
+Sfortunatamente, con una soglia di attenzione bassa, la pazienza è qualcosa che scarseggia. Salti da un'idea all'altra e da un progetto all'altro, senza mai finirne uno prima di iniziare il successivo. Anche se hai promesso di completare un lavoro per qualcun altro, non sembri mai essere in grado di farlo, in particolare quando ci sono così tante cose più eccitanti a cui potresti dedicarti. (Ahimè, ognuna di queste alla fine sbiadisce, e ti ritrovi con una serie di pezzi incompiuti, il che ti deprime così tanto che vuoi fare tabula rasa e iniziare qualcosa di completamente nuovo...)  
+
+Affinché uno Sluagh con *Scarsa attenzione* finisca un lavoro che non può essere fatto in una sola seduta, il giocatore deve effettuare un tiro di Volontà (difficoltà 6); altrimenti il lavoro necessario verrà lasciato incompleto. Questo tiro deve essere effettuato ogni volta che il progetto in questione viene ripreso. Uno Sluagh con questo difetto sarà trattato come un bambino dagli altri della sua famiglia. Uno Sluagh senza la pazienza di guardare non è affatto un vero Sluagh.  
+
+### Gregario (1 punto, sociale)
+
+Tra le peggiori violazioni del galateo che uno Sluagh può commettere c'è il passare troppo tempo in compagnia degli altri. Uno Sluagh gregario può conquistare amici e influenzare altri Kithain, ma è probabile che ottenga una cattiva nomea tra gli altri della sua specie. Se sei gregario, sarai ostracizzato dagli altri Sluagh, non sarai invitato ai Tè e non sarai informato di informazioni che potrebbero essere utili.  
+
+Uno Sluagh con *Gregario* ha -2 dadi su tutti i tiri di dadi sociali che coinvolgono altri Sluagh. E no, non puoi mantenere il segreto.
+
+### Chiacchierone (3 punti, sociale)
+
+Segreti? Che segreti? Se hai un'informazione non puoi resistere a dirlo al mondo. Dato che l'informazione è la merce di scambio del kith, stai letteralmente facendo regali ogni volta che apri la bocca. Non è che tu voglia parlare, è solo che non puoi farne a meno.  
+
+Il giocatore effettua un tiro di Volontà, a difficoltà 8 per impedire allo sluagh di spifferare i segreti che conosce.  
+
+Naturalmente, una volta che si sparge la voce che c'è uno Sluagh chiacchierone in città, puoi aspettarti un sacco di visitatori - altri changeling in cerca degli ultimi segreti e cose del genere. Inoltre la gente potrebbe cercare di usarti per diffondere informazioni false, e di certo non sarai nelle grazie degli altri sluagh. 
+
+### Recluso (3 punti, sociale)
+
+Hai una fobia per gli altri che va oltre la solita avversione degli sluagh per la compagnia. Ci vuole un vero sforzo (tiro di Volontà, difficoltà 6) anche solo per uscire dalla tua tana, e un altro ogni giorno per non assecondare il tuo istinto di rientrare. Sei più a tuo agio a casa tua, e in genere non ti fai nemmeno vedere dagli altri, preferendo rimanere dietro le tende o vetri a senso unico.   
+
+Ogni volta che lo Sluagh è in compagnia di più di una persona hai -1 su tutti i tiri a meno che tu non superi un tiro di Volontà (difficoltà 5).
+
+# Troll
+
+## Pregi
+
+## Difetti
+
+### Animo bramoso (2 punti, sociale)
+
+Senti il richiamo del romanticismo molto più forte degli altri troll, e hai disperatamente bisogno di qualche suo aspetto nella tua vita. Fissi la tua attenzione sul changeling o sulla persona più attraente in qualsiasi situazione, anche se le tue reazioni varieranno a seconda del tuo carattere. Potresti struggerti da lontano, comportarti come un cucciolo desideroso di approvazione, tentare di impressionare l'oggetto del tuo affetto, ecc. Nota che, se dovessi trovarti unicamente in compagnia di coloro a cui non saresti normalmente interessato, comincerai ad abbassare i tuoi standard; il tuo desiderio e bisogno di romanticismo è così forte, anche se ti porta a prenderti una cotta per uno sluagh. Questo difetto deve essere rigorosamente giocato di ruolo, e lo storyteller può decidere di imporre penalità ai dadi a seconda delle circostanze.
