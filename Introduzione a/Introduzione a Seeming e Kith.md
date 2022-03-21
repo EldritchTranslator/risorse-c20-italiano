@@ -272,6 +272,132 @@ I satiri coltivano il loro Glamour condividendo una passione e intense emozioni 
 
 **Maledizione della passione**: I satiri sono spesso vittime di sbalzi d'umore, mostrando le loro emozioni apertamente. Resistere alle tentazioni è per loro un trigger di Banalità.  
 
+## Selkie
+
+I selkie sono i sogni dei marinai, di amori perduti e cuori spezzati. Sono creature contraddittorie, timide ma estroverse, amorevoli ma distanti, come il mare.  
+
+Sono fate che sono intimamente legate a un oggetto magico, una pelliccia di foca che viene passata di fata in fata e incarna la loro magia, infatti non hanno una Crisalide come altri changeling. Se separate dalla loro pelliccia i selkie perdono l'uso della loro magia, anche se non le loro memorie. Vicine alla morte fisica o chimerica, la fata passa la pelliccia a qualcuno indicato dal Dreaming o dalle loro conoscenze.
+
+**Affinità**: Natura
+
+### Aspetto
+
+I selkie sono fate molto attraenti, con occhi larghi e tracce di membrane tra le dita. Tendono ad essere sempre umide e a odorare di acqua marina.
+
+### Baldoria
+
+I selkie trovano il loro Glamour nel mare, dove amano nuotare ed entrare in comunione con il loro elemento, ma anche facendosi coinvolgere in torride storie d'amore.
+
+### Diritti di nascita
+
+**Forma di foca**: Indossando la loro pelliccia e toccando l'acqua di mare i selkie possono prendere la forma di foca o leone marino.  
+
+**Grazia dell'oceano**: Quando sono in acqua i selkie hanno un -2 alle difficoltà delle prove di Destrezza, e non possono mai fallire criticamente i tiri di Nuoto. Inoltre possono trattenere il respiro per ore.
+
+### Fragilità
+
+**Pelliccia di foca**: Una selkie muore per sempre se la sua pelliccia di foca viene distrutta. Questa è resistente al fuoco e per strapparla serve un tiro di Forza a difficoltà 9 con un minimo di tre successi.
+
+## Sidhe Arcadiano
+
+Le fate nobili che, scappate durante il Frantumo in Arcadia, sono tornate dopo secoli in un mondo a loro alieno. Per questo, temendo la loro fragilità di fronte alla Banalità, si batterono contro i popolani che avevano lasciato a loro stessi, cercando di riottenere quel ruolo da nobile che sentivano loro. Un kith del sogno nobile che ha riattizzato le tensioni di classe tra i changeling.  
+
+**Affinità**: Tempo
+
+### Aspetto
+
+I sidhe arcadiani hanno un aspetto umano, seppur perfetto, con occhi e capelli dai colori particolari e orecchie a punta. Vestono di abiti preziosi che simboleggiano il loro status.
+
+### Baldoria
+
+I sidhe trovano il Glamour ispirando meraviglia e rispetto negli altri, facendosi ammirare come la pura incarnazione del Dreaming che sono.
+
+### Diritti di nascita
+
+**Bellezza ultraterrena**: I sidhe arcadiani hanno due pallini in più in Aspetto grazie alla loro bellezza mozzafiato. Se invocano il Wyrd in pubblico tutti devono tirare Volontà per non rimanere abbagliati per un numero di turni pare al punteggio in Aspetto.  
+
+**Portamento nobile**: I sidhe non possono essere bersaglio di cantrip volti a umiliarli, e non possono fallire criticamente i tiri di Galateo e Politica.
+
+### Fragilità
+
+**Maledizione della Banalità**: Dato il loro collegamento ancora fresco con il Dreaming, i sidhe guadagnano il doppio di Banalità a ogni trigger.
+
+## Sidhe d'Autunno
+
+I sidhe delle casate Scathach e Liam che sono rimasti nel mondo d'Autunno assieme ai popolani dopo il Frantumo, e si sono uniti alla Via Changeling. Non sono inumani nel loro modo di fare, ma sono il pinnacolo dell'umanità con tutti i loro difetti. Sono il sogno nobile, ma no per diritto di nascita: la nobiltà bisogna guadagnarsela.
+
+**Affinità**: Fae
+
+### Aspetto
+
+I sidhe d'autunno sono molto più umani nella loro bellezza, incorporando nella loro perfezione le imperfezioni e le asimmetrie dei corpi umani. Hanno comunque le fattezze graziose e le orecchie appuntite dei sidhe arcadiani.
+
+### Baldoria
+
+I sidhe d'autunno ottengono il Glamour risolvendo problemi e comportandosi da leader, trovando soluzioni innovative e incoraggiando il vero potenziale di chi li segue.
+
+### Diritti di nascita
+
+**Bellezza ultraterrena**: I sidhe arcadiani hanno due pallini in più in Aspetto grazie alla loro bellezza mozzafiato. Se invocano il Wyrd in pubblico tutti devono tirare Volontà per non rimanere abbagliati per un numero di turni pare al punteggio in Aspetto.  
+
+**Portamento nobile**: I sidhe non possono essere bersaglio di cantrip volti a umiliarli, e non possono fallire criticamente i tiri di Galateo e Politica.
+
+### Fragilità
+
+**Maledizione della Banalità**: Dato il loro collegamento ancora fresco con il Dreaming, i sidhe guadagnano il doppio di Banalità a ogni trigger.
+
+## Sluagh
+
+Fate legate al mistero e all'oscurità. Sono evitate dagli altri kith, e anche loro preferiscono abitare in luoghi mezzi abbandonati e decadenti. Sono collezionisti nati di oggetti dimenticati e conoscenza.  
+
+Sono i sogni dell'oscurità, le cose che strisciano dove non le possiamo vedere, e della coscienza della morte. Sono le fate che più comunemente hanno contatti con non-morti come fantasmi e vampiri.
+
+**Affinità**: Prop
+
+### Aspetto
+
+Gli sluagh sono pallidi, e si muovono come se non avessero ossa in corpo. Non hanno denti, e hanno labbra nerastre e occhi piccoli e infossati. Si vestono in abiti antiquati e portano con sè un lezzo di tomba.
+
+### Baldoria
+
+Gli sluagh ottengono Glamour svelando segreti e luoghi dimenticati, così come assecondando la loro natura oscura e insegnando una lezione a qualcuno con la paura.
+
+### Diritti di nascita
+
+**Contorcersi**: Gli sluagh sono in grado di contorcersi a piacimento, rendendo quasi impossibile catturarli, facendo un tiro di Destrezza + Atletica a difficoltà da 6 a 9, a meno che non siano trattenuti con il ferro freddo.  
+
+**Sensi acuti**: Hanno la difficoltà dei propri tiri di Percezione diminuiti di 1. Spendendo un punto VOlontà possono vedere oltre le illusioni con un tiro di Percezione + Consapevolezza diff 7. Possono vedere gli spiriti con un tiro di Percezione + Kenning a difficoltà 7, e spendendo un punto Glamour possono anche parlarci. 
+
+### Fragilità
+
+**Maledizione del silenzio**: Gli sluagh non possono parlare ad alta voce, ma solo sussurrare. A causa della loro inettitudine sociale hanno +2 alle difficoltà a tutti i tiri sociali che non siano con degli sluagh. 
+
+## Troll
+
+I sogni dei guerrieri e di cavalleria, i loro precetti sono di onore, dovere, forza. Sono fate oneste e volte alla protezione degli altri. spesso sono considerati come troppo naive, ma è un errore.
+
+Sono l'incarnazione del coraggio e della cortesia cavalleresca. Ci vuole molto per spingere un troll alla propria metà Unseelie, e quando questo avviene sono molto pericolosi.
+
+**Affinità**: Fae
+
+### Aspetto
+
+Hanno un aspetto vario, ma tendono ad essere tutti ben piazzati. Hanno capelli folti, occhi chiari, e pelle grigio roccia. Hanno un paio di corna che escono dalla fronte. I troll unseelie hanno pelle verdastra.
+
+### Baldoria
+
+I troll ottengono il Glamour coltivando i propri giuramenti così come difendendo e curando quello che hanno. Talvolta possono anche riottenerlo con delle prodezze atletiche o militari.
+
+### Diritti di nascita
+
+**Potere di Titano**: Un troll guadagna potere quando hanno un giuramento attivo: al primo ottengono un pallino in Forza e un livello di salute contundente, al secondo due pallini e due livelli di salute, fino a un massimo di nove.  
+
+**Forte di carne e spirito**: I troll non possono fallire criticamente i tiri di Consapevolezza e Atletica, e hanno due dadi extra per non essere distratti dal compiere il proprio dovere.
+
+### Fragilità
+
+**Legati al dovere**: L'integrità morale di un troll è il loro cuore: se infrangono un giuramento perdono il proprio Potere di Titano e di ammalano. L'unico modo di rimediare è di rimediare il male portato dal giuramento non mantenuto. Se un troll viene tradito deve fare un tiro di Volontà a difficoltà 8 per trattenere la propria ira; se fallisce attacca a vista i traditori finché non vine trattenuto o riesce al tiro di Volontà, che può essere ritentato dopo un numero di turni pari al Glamour del troll.
+
 
 ## Nome
 
@@ -283,11 +409,6 @@ I satiri coltivano il loro Glamour condividendo una passione e intense emozioni 
 ### Fragilità
 
 
-Selkie
-Sidhe Arcadiano
-Sidhe d'Autunno
-Sluagh 
-Troll
 
 ---
 
