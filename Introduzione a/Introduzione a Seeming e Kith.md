@@ -282,7 +282,7 @@ Sono fate che sono intimamente legate a un oggetto magico, una pelliccia di foca
 
 ### Aspetto
 
-I selkie sono fate molto attraenti, con occhi larghi e tracce di membrane tra le dita. Tendono ad essere sempre umide e a odorare di acqua marina.
+I selkie sono fate molto attraenti, con occhi larghi e tracce di membrane tra le dita. Tendono ad essere sempre umide e a odorare di acqua marina, e portano sempre con sè un accessorio che è la propria pelle di foca.
 
 ### Baldoria
 
@@ -366,7 +366,7 @@ Gli sluagh ottengono Glamour svelando segreti e luoghi dimenticati, così come a
 
 **Contorcersi**: Gli sluagh sono in grado di contorcersi a piacimento, rendendo quasi impossibile catturarli, facendo un tiro di Destrezza + Atletica a difficoltà da 6 a 9, a meno che non siano trattenuti con il ferro freddo.  
 
-**Sensi acuti**: Hanno la difficoltà dei propri tiri di Percezione diminuiti di 1. Spendendo un punto VOlontà possono vedere oltre le illusioni con un tiro di Percezione + Consapevolezza diff 7. Possono vedere gli spiriti con un tiro di Percezione + Kenning a difficoltà 7, e spendendo un punto Glamour possono anche parlarci. 
+**Sensi acuti**: Hanno la difficoltà dei propri tiri di Percezione diminuiti di 1. Spendendo un punto Volontà possono vedere oltre le illusioni con un tiro di Percezione + Consapevolezza diff 7. Possono vedere gli spiriti con un tiro di Percezione + Kenning a difficoltà 7, e spendendo un punto Glamour possono anche parlarci. 
 
 ### Fragilità
 
@@ -398,6 +398,35 @@ I troll ottengono il Glamour coltivando i propri giuramenti così come difendend
 
 **Legati al dovere**: L'integrità morale di un troll è il loro cuore: se infrangono un giuramento perdono il proprio Potere di Titano e di ammalano. L'unico modo di rimediare è di rimediare il male portato dal giuramento non mantenuto. Se un troll viene tradito deve fare un tiro di Volontà a difficoltà 8 per trattenere la propria ira; se fallisce attacca a vista i traditori finché non vine trattenuto o riesce al tiro di Volontà, che può essere ritentato dopo un numero di turni pari al Glamour del troll.
 
+## Amante cigno
+
+Gli amanti cigno sono changeling dell'amore, romantico, tragico, ma che resiste a ogni avversità. Seguono i loro sentimenti in tutto, e tendono ad andare verso posti di grande bellezza. Si concentrano principalmente sui sentimenti romantici dell'amore, mettendo la fisicalità in secondo posto. 
+
+**Affinità**: Attore
+
+### Aspetto
+
+Hanno un aspetto sempre aggraziato e etereo, spesso scegliendo degli abiti eleganti per esprimere la propria complessità di sentimenti. Gli amanti cigno tendono ad avere un aspetto più neutro o fluido che esclusivamente maschile o femminile. 
+
+### Baldoria
+
+Gli amanti cigno trovano il Glamour nelle storie d'amore altrui, sono eccellenti ascoltatori e gioiscono nel poter aiutare a portare queste storie a compimento.
+
+### Diritti di nascita
+
+**Benedizione del cigno**: Gli amanti cigno hanno un pallino in più in Destrezza e Aspetto, e non possono mai fallire criticamente in tiri di Galateo o Arte. Il costo del Pregio *Alato* è ridotto di due.  
+
+**Amor omnia vincit**: Una volta per sessione l'amante cigno può pensare al suo innamorato e ridurre di uno la difficoltà di un tiro. Se ha il Pregio *Vero amore* lo può fare altre due volte in quella scena. Una volta per storia può spendere un punto Glamour per ricevere un successo automatico nello stesso modo; se si ha il Pregio *Vero Amore* questi successi sono raddoppiati, e possono essere messi da parte per essere usati in altri tiri nella scena. Questo Diritto funziona solo se l'amante cigno prova amore romantico verso qualcuno. 
+
+### Fragilità
+
+**Perdita amara**: La fine di una relazione di qualunque natura emotiva è un trigger di Banalità. Nel caso sia una relazione profonda, il tiro è a difficoltà 8, e se lo si fallisce l'amante cigno guadagna un pallino di Banalità.  
+
+**Manto della vergine**: A causa della natura puramente romantica del loro sogno, gli amanti cigno non possono recuperare Volontà o usare il Diritto *Amor omnia vincit* per tre giorni dopo aver fatto sesso (consensuale), anche con il proprio amato.  
+
+**Maledizione del vero amore**: Sette giorni dopo aver trovato il proprio Vero Amore (romantico o meno), l'amante cigno dovrà fare una scelta: prendere il Difetto *Destino Segnato*, o farlo prendere all'amato. L'unico modo di evitarlo è di separarsi completamente: se i due si reincontreranno dopo essersi separati il Destino Oscuro ricomincerà senza poter essere fermato.
+
+---
 
 ## Nome
 
@@ -421,7 +450,4 @@ Strega di fiume
 Wichtel
 Wolpertinger
 
----
-
-Amante cigno
 
