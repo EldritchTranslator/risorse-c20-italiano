@@ -20,5 +20,21 @@ La bellezza è dappertutto. Non è solo un'estetica, ma chi è vero con se stess
 
 La società non può andare avanti senza giustizia, dunque bisogna ripagare sempre con qualcosa di uguale valore a quanto si è ottenuto. Lealtà merita fedeltà, mentre astio merita odio. Questo può avvenire tramite il sistema legale dei Kithain, oppure, se si cerca vendetta o pagamento in misura corretta allo sgarbo, potrà essere soddisfatto privatamente. Il più grande debito di un changeling Seelie è verso la società che l'ha cresciuta permettendole di scoprire chi è davvero.  
 # La Corte Unseelie
-# La Corte d'Ombra
-# La Corte Nera
+
+La Corte della notte, della libertà, del caos. Si pone come nemica ultima della Banalità, vista come conformismo e paralisi della creatività, e del dover sottostare al volere della società che soffoca il vero io dell'individuo. 
+
+### Il cambiamento è un bene
+
+Il cambiamento è l'essenza del Glamour, e tutto ciò che non cambia è morto. Persino un cambiamento negativo o difficile è preferibile alla stasi.
+
+### Il Glamour è gratis
+
+I Kithain necessitano di Glamour per vivere, dunque avere accesso a del Glamour dovrebbe essere gratis. Accumulare Glamour senza usarlo permette solo l'espansione della Banalità nel mondo.  
+
+### L'onore è una menzogna
+
+L'onore è una gabbia che intrappola i Seelie. Delle regole personali vanno bene, ma ciò che rinforza lo status quo non può essere sopportato, e l'onore può essere corrotto e, anche se rimane puro, può portare chi lo segue a fare cose terribili anche a se stesso. 
+
+### Passione prima del dovere
+
+I Kithain non sono semplici ingranaggi in una macchina, sono individui con passioni e sogni. Hanno dunque il diritto di prioritizzare il coltivare queste passioni che servire un qualche capo per un nebuloso 'bene comune'. La passione e la spontaneità dovrebbero essere celebrate, non punite.
