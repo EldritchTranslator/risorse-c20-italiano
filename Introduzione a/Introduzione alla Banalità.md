@@ -44,7 +44,7 @@ Ogni volta che il personaggio subisce un trigger di Banalità deve tirare il suo
 
 Invocare l'Autunno serve a proteggersi da qualunque tipo di attacco chimerico.  
 
-Spendendo un punto Volontà si può essere protetti da effetti chimerici per un turno. Si percepisce la realtà chimerica, ma non si può interagire con essa.
+Spendendo un punto Volontà si può essere protetti da effetti chimerici per un turno (o una scena nel caso di malattie chimeriche). Si percepisce la realtà chimerica, ma non si può interagire con essa.
 
 ## Rimuovere Banalità
 
