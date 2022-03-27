@@ -87,7 +87,7 @@
 ## Pellegrinaggio (Wayfare)
 - **⦿ Campana**: Dare a un soggetto l'abilità o la compulsione di saltare con forza prodigiosa. Wyrd.
 - **⦿⦿ Mercurio**: Dare a un soggetto una velocità prodigiosa. Wyrd.
-- **⦿⦿⦿ Passaggio di portale**: Creare una porta per entrare o uscire. Con Fae 5 permette di creare un Trod per il Dreaming. Wyrd.
+- **⦿⦿⦿ Portale di passaggio**: Creare una porta per entrare o uscire. Con Fae 5 permette di creare un Trod per il Dreaming. Wyrd.
 - **⦿⦿⦿⦿ Corri come il vento**: Dare a un soggetto l'abilità di volare. Non garantisce l'abilità automatica di atterrare in sicurezza. Wyrd.
 - **⦿⦿⦿⦿⦿ Baluginio**: Teletrasportarsi in qualunque luogo si conosca già sullo stesso piano di esistenza. Wyrd.
 

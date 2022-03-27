@@ -18,4 +18,36 @@ Un pooka ridente salta un'alta staccionata in un balzo solo, perdendo così i su
 
 Questa è l'Arte di balzi prodigiosi, con il potenziale di permettere al bersaglio di saltare alto tanto quanto un palazzo in una volta sola. *Campana* muove il bersaglio in avanti o in alto secondo la volontà di chi lo lancia, e il Glamour infuso nel balzo assicura che l'atterraggio sia sempre sicuro, non importa l'altezza della caduta. Alcuni pooka insistono che una volta Campana era la loro magia speciale, rubata da un eshu truffatore durante il tempo delle leggende, che poi è stata rivelata al resto delle fate...ma chi crede a un pooka?  
 
-**Sistema**: Il Reame scelto determina chi o cosa salta. 
+**Sistema**: Il Reame scelto determina chi o cosa salta. Le creature viventi ottengono la capacità di fare un salto prodigioso, o possono essere costrette a farlo. Gli oggetti bersagliati da *Campana* saltano come l'incantatore vuole che facciano. Chiunque sia a contatto con un oggetto che salta può tentare di fermare il suo volo incontrollato con un tiro di Forza + Atletica (difficoltà 7) contro i successi che il changeling ha ottenuto per il cantrip. Il risultato esatto del fallimento nel fermare che qualcosa voli dipende dal Narratore e dipende dall'oggetto. È probabile che un abito si strappi in volo da solo, ma una smart car che salta potrebbe avere risultati molto più gravi.  
+
+Il Reame di Scena permette a più soggetti di saltare, piuttosto piuttosto che fare in modo che strade o edifici si lancino da soli, anche se queste terrificanti acrobazie sono state osservate in casi di Scatenamenti di Pellegrinaggio.  
+
+Il numero di successi ottenuti detta la forza del il salto:  
+
+| Successi   | Effetto                                                             |
+|:-----------|:--------------------------------------------------------------------|
+| 1 successo | Un piano verticale, 10 metri orizzontale                            |
+| 2 successi | Due piani verticali, 20 metri orizzontali                           |
+| 3 successi | Cinque piani verticali, 50 metri orizzontali                        |
+| 4 successi | Dieci piani verticali, 100 metri orizzontali                        |
+| 5 successi | Fino all'orizzonte, che sia su un aereo o attraverso il Mississippi |  
+
+**Tipo**: Wyrd  
+
+## ⦿⦿ Mercurio
+
+Veloce come un sorriso, il bersaglio di questo cantrip si muove fino a diventare sfocato, lasciandosi dietro tracce del Glamour speso con linee di velocità, fulmini scoppiettanti o qualche altro tipo di scarica visiva. Un gruppo di piskies guidano un'auto in corsa che trasporta un tesoro rubato, bruciando la strada al loro passaggio. Un cavaliere sidhe esplode in una macchia di acciaio lampeggiante e magia sfrigolante.  
+
+**Sistema**: Il Regno determina chi o cosa accelera, anche se non concede agli oggetti il potere di muoversi se non si stanno già muovendo. Ogni successo garantisce a un soggetto un'azione extra o raddoppia la sua velocità di movimento nel suo prossimo turno. I successi possono essere divisi tra azioni extra e velocità extra come il giocatore desidera. Gli oggetti lanciati trattano i successi sul tiro di attivazione come dadi bonus sul tiro di danno se colpiscono un bersaglio. I veicoli incantati non possono ottenere azioni extra, e semplicemente accelerano, godendo dello stesso bonus ai danni di un oggetto scagliato se colpiscono qualcosa. 
+
+**Tipo**: Wyrd  
+
+## ⦿⦿⦿ Portale di passaggio
+
+Un childling pooka disegna una porta in gesso sul muro della sua camera da letto, che diventa la sua porta d'accesso al mondo intero. Un childling sluagh crea una botola nel pavimento che porta al seminterrato sigillato sottostante - il suo parco giochi personale.  
+
+Questa è l'Arte di entrare o uscire quando e dove il changeling desidera. *Portale di passaggio* crea una porta abbastanza grande per il passaggio del changeling, e perfora qualsiasi barriera fino a 3 metri di spessore - che si tratti di un muro di mattoni, una siepe o la fiancata di un furgone non fa differenza per il cantrip. Le porte create con *Portale di passaggio* sono uniche per la changeling che lo lancia, e possono essere riconosciute e identificate da chi ha familiarità con lei. *Portale di passaggio* può anche essere usato per aprire porte nel Dreaming usando il Reame di Fae 5.  
+
+**Sistema**: Il Reame usato determina chi può aprire la porta, se usato con Attore o Fae, o in quale materiale o oggetto la porta appare, se usato con Prop o Natura. Le porte create da Prop e Natura possono essere usate da chiunque sia in grado di percepire le cose del Dreaming, mentre solo gli individui bersaglio dell'attivazione possono usare le porte di Attore o Fae. La porta creata persiste per un minuto per ogni successo.  
+
+**Tipo**: Wyrd
