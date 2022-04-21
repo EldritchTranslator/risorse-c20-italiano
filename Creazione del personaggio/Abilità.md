@@ -148,7 +148,31 @@ Questa categoria comprende tutto ciò che si apprende da soli, più di attivo ch
 
 # Capacità
 
-Affinità Animale, Armi da Fuoco, Armi da Mischia, Arte, Criminalità, Furtività, Galateo, Guidare, Manualità, Sopravvivenza, Capacità Personale;
+Le abilità richiedono un'istruzione o una qualche forma di addestramento. Se un personaggio tenta un'azione che richiede un'abilità per la quale non ha un punteggio, la difficoltà del tiro viene aumentata di uno. Una persona senza esperienza in un'abilità non sarà mai efficace come qualcuno con un allenamento anche basilare.
+
+## Affinità Animale
+
+Affinità animale è la comprensione del comportamento di un animale e la capacità di lavorare a stretto contatto con loro. Un personaggio con questa Capacità capisce come un animale reagirà in una varietà di situazioni, sa cosa fare per guadagnarsi la fiducia di una creatura, può addestrare un animale domestico ed eventualmente anche calmare una bestia selvatica infuriata.  
+
+⦿ **Novizio**: Puoi convincere un gatto o un cane a lasciarsi accarezzare.
+⦿⦿ **Pratico**: L'addestramento all'obbedienza di base è facile per te.
+⦿⦿⦿ **Competente**: Addestri animali di servizio.
+⦿⦿⦿⦿ **Esperto**: Vinci premi per le tue routine alle mostre di animali.
+⦿⦿⦿⦿⦿ **Maestro**: Anche le creature selvatiche ti capiscono e ti seguono.  
+
+**Posseduto da**: Agricoltori, guardiani di zoo, veterinari, proprietari di animali, survivalisti  
+**Specializzazioni**: Falconeria, Grandi felini, Addestramento all'attacco, Creature marine, Animali da fattoria  
+
+## Armi da Fuoco 
+## Armi da Mischia 
+## Arte
+## Criminalità
+## Furtività
+## Galateo
+## Guidare
+## Manualità 
+## Sopravvivenza
+## Capacità Personale
 
 # Conoscenze
 
