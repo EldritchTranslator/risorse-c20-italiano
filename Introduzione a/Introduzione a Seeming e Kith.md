@@ -324,7 +324,7 @@ I sidhe trovano il Glamour ispirando meraviglia e rispetto negli altri, facendos
 
 ## Sidhe d'Autunno
 
-I sidhe delle casate Scathach e Liam che sono rimasti nel mondo d'Autunno assieme ai popolani dopo il Frantumo, e si sono uniti alla Via Changeling. Non sono inumani nel loro modo di fare, ma sono il pinnacolo dell'umanità con tutti i loro difetti. Sono il sogno nobile, ma no per diritto di nascita: la nobiltà bisogna guadagnarsela.
+I sidhe delle casate Scathach e Liam che sono rimasti nel mondo d'Autunno assieme ai popolani dopo il Frantumo, e si sono uniti alla Via Changeling. Non sono inumani nel loro modo di fare, ma sono il pinnacolo dell'umanità con tutti i loro difetti. Sono il sogno nobile, ma non per diritto di nascita: la nobiltà bisogna guadagnarsela.
 
 **Affinità**: Fae
 
@@ -338,7 +338,7 @@ I sidhe d'autunno ottengono il Glamour risolvendo problemi e comportandosi da le
 
 ### Diritti di nascita
 
-**Bellezza ultraterrena**: I sidhe arcadiani hanno due pallini in più in Aspetto grazie alla loro bellezza mozzafiato. Se invocano il Wyrd in pubblico tutti devono tirare Volontà per non rimanere abbagliati per un numero di turni pare al punteggio in Aspetto.  
+**Bellezza ultraterrena**: I sidhe arcadiani hanno due pallini in più in Aspetto grazie alla loro bellezza mozzafiato. Se invocano il Wyrd in pubblico tutti devono tirare Volontà per non rimanere abbagliati per un numero di turni pari al punteggio in Aspetto.  
 
 **Portamento nobile**: I sidhe non possono essere bersaglio di cantrip volti a umiliarli, e non possono fallire criticamente i tiri di Galateo e Politica.
 

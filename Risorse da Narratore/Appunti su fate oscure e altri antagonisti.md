@@ -1,7 +1,7 @@
 # Chimere incubo   
 Chimere oscure e ostili nate da incubi.   
 ## Chimere selvatiche   
-Due tipi: chimere natie e chimere ferali; le prime sono nate compleamente dagli incubi di un qualche sognatore, mentre quelle ferali sono state abbandonate per un qualche motivo. Le chimere ferali sono la controparte del Sogno degli animali mondani, ma hanno caratteristiche demoniache.     
+Due tipi: chimere natie e chimere ferali; le prime sono nate completamente dagli incubi di un qualche sognatore, mentre quelle ferali sono state abbandonate per un qualche motivo. Le chimere ferali sono la controparte del Sogno degli animali mondani, ma hanno caratteristiche demoniache.     
 **Luogo**: trod, glades, Dreaming vicino   
 ## Nervosa   
 Chimere altamente imprevedibili, nascono dalle frustrazioni e dalle paranoie di fate e umani.   
@@ -11,14 +11,14 @@ I mostri nati dalle paure ancestrali degli uomini e dalle loro leggende. Sono la
 ## Leggende urbane   
 Nuove chimere che provengono dalla cultura popolare horror. Diverse come le Nocnitsa e imprevedibili come le Nervosa.    
 # Dauntain   
-Fate rinate sbagliate, la cui risalide ha marchiato l'anima fatata e spezzato lamente umana. Ogni Dauntain porta un marchio, che rimarrà anche nelle sue incarnazioni sucessive. Tentano inutilmente di ripararsi con vari metodi studiati nei secoli.   
+Fate rinate sbagliate, la cui crisalide ha marchiato l'anima fatata e spezzato la mente umana. Ogni Dauntain porta un marchio, che rimarrà anche nelle sue incarnazioni successive. Tentano inutilmente di ripararsi con vari metodi studiati nei secoli.   
 ## I Marchi   
 ### Il Marchio del Cadavere   
 Fate fatte ammalare dal Dreaming, portatori di una piaga di deperimento con cui vogliono infettare gli altri. Ogni giorno trasudano in dross cancrenoso metà del loro Glamour, che se usato trasmette la malattia.   
 ### Il Marchio del Dimenticato   
 Fate dimenticate nel Dreaming e lasciate al di fuori dei Cancelli Argentati, incapaci di morire o di vivere. Sono riusciti a fuggire una volta che si sono riaperti i trod, e a causa dei loro incubi non possono prendere Glamour se non da coloro che soffrono loro stessi di incubi.   
 ### Il Marchio dell'Iconoclasta   
-Fate marchiate da disperazione e odio e rabbia. Il loro scopo ultimo è di distruggere tutto:se stessi, il Mondo d'Autunno, il Dreaming. Se non distruggono qualcosa del Dreaming ogni giorno diventano ossessionati con la loro missione.     
+Fate marchiate da disperazione e odio e rabbia. Il loro scopo ultimo è di distruggere tutto: se stessi, il Mondo d'Autunno, il Dreaming. Se non distruggono qualcosa del Dreaming ogni giorno diventano ossessionati con la loro missione.     
 ### Il Marchio del Lich   
 Fate che hanno accettato gli Incubi per ottenere più potere. Sono legati ai filatteri che si creano durante la loro Crisalide, che se cade nelle mani di qualcun altro li rende schiavi di questa persona.   
 ### Il Marchio del Traditore   
@@ -27,7 +27,7 @@ I traditori e infrangi-giuramenti, vengono schifati dal Dreaming per quanto cari
 I changeling marchiati da magie potenti e antiche. La loro maledizione continua da lungo tempo, e ogni volta che la devono affrontare, il loro stesso Glamour si ribella a loro.    
 ## Arte   
 ### Rovina    
-- **Infusione di ferro freddo**: Dona a un oggetto o una persona le caratteristiche del ferro freddo, potenziando gli attacchi fisici o chimerici. Richiede il tocco del bersaglio. Il bunk richiede un pezzo di metallo grigio. Utilizzarlo comeattacco diretto richiede un tiro contrapposto di Glamour ed è un trigger di Banalità. Chimerico o Wyrd.   
+- **Infusione di ferro freddo**: Dona a un oggetto o una persona le caratteristiche del ferro freddo, potenziando gli attacchi fisici o chimerici. Richiede il tocco del bersaglio. Il bunk richiede un pezzo di metallo grigio. Utilizzarlo come attacco diretto richiede un tiro contrapposto di Glamour ed è un trigger di Banalità. Chimerico o Wyrd.   
 - **Avvelenare il pozzo**: Avvelena una fonte di Glamour, facendo ottenere dadi Incubo invece di Glamour. Il bunk necessita di qualcosa di tossico. I successi sono divisi tra effetto e durata. Lanciare il cantrip più volte dà effetti cumulativi. Chimerico.   
 - **Salare il terreno**: Distrugge una fonte di Glamour, trasformandolo in un cancro del Dreaming. Il bunk richiede rompere qualcosa di collegato alla fonte di Glamour. I successi oltre il punteggio di Glamour del bersaglio vanno a stabilire quanto a lungo dura l'effetto. Chimerico.   
 - **Giuramento spezzato**: Indirizza su un innocente gli effetti di un giuramento spezzato, che può esistere o meno. Il bunk necessita di qualcosa che simboleggi il giuramento spezzato. Chimerico.   
@@ -52,7 +52,7 @@ La fondazione prima al mondo nello studio del Disordine di Fissazione Pervasiva 
 Disordine inventato per razionalizzare le abilità di fatati e Incantati. Ci sono statimolteplici studi che negano l'esistenza del DFPP, ed esso non è riconosciuto dal DSM. Ciononostante, la Fondazione Bellerofonte continua ad operare in nero le sue 'cure'.   
 
 ### Il Conclave delle Radici e dei Fiori   
-Un network di supporto for-profit per i genitori di bambini affetti da DFPP creato da un'attricetta americana. Professa che riportare i bambini alla natura e somministrare rimedi naturali assieme a sedute di meditazione depuri i bambini dalle tossine che credono causino il DFPP. Il Conclave vende i libri del Dr. Stark, i DVD della Fondazione Bellerofonte, e supplementi nutritivi e merchandise del Conclave stesso. Sul loro sito si puòcomprare un corso per corrispondenza per diventare un loro consulente di comunità.   
+Un network di supporto for-profit per i genitori di bambini affetti da DFPP creato da un'attricetta americana. Professa che riportare i bambini alla natura e somministrare rimedi naturali assieme a sedute di meditazione depuri i bambini dalle tossine che credono causino il DFPP. Il Conclave vende i libri del Dr. Stark, i DVD della Fondazione Bellerofonte, e supplementi nutritivi e merchandise del Conclave stesso. Sul loro sito si può comprare un corso per corrispondenza per diventare un loro consulente di comunità.   
 
 ### Il Sodalizio di Rinnovo della Fede   
 Campi di preghiera fondati dal televangelista Reverendo Honeycutt della Prima Chiesa di Honeycutt, LLC, chiesa che ha legami con il Telenetwork Cristiano Americano che sponsorizza i suoi programmi tv della domenica mattina. Offre 'salvezza dal Demonio e un ritorno a Dio'. Spesso vengono offerti come alternativa ai trattamenti della Fondazione Bellerofonte.    
@@ -95,7 +95,7 @@ I Thallain, essendo 'corrotti' dalla Via Changeling che li fa incarnare, hanno u
    
 ## Kith Thallain   
 ### Aithu   
-Narratori che usano le storie e le parole per manipolare gli altri. Stanno tra loro o con loro simili umani, cercano di evitare reponsabilità.   
+Narratori che usano le storie e le parole per manipolare gli altri. Stanno tra loro o con loro simili umani, cercano di evitare responsabilità.   
 
 Sono sottili, alti, di solito di aspetto arabo o africano, con un sorriso ampio e denti aguzzi.  
 
@@ -106,6 +106,7 @@ Sono sottili, alti, di solito di aspetto arabo o africano, con un sorriso ampio 
 Fatati umanoidi con fattezze bestiali, si possono trasformare in animali con caratteristiche innaturali e da incubo. I Kithain seelie li uccidono a vista mentre gli unseelie talvolta li tollerano a malapena. Una notte al mese terrorizzano le città tormentando gli abitanti a piacimento.   
 
 Hanno un aspetto tendente al selvaggio ma simile ai pooka.   
+
 **Doti**: Quando sono da soli si possono trasformare in forma animale, e il suo aspetto e le sue azioni vengono celate dalle Nebbie in massimo un'ora.   
 **Fragilità**: Una notte al mese le bestiacce sentono il richiamo della propria natura crudele e tendono ad assecondarla se possibile.   
 

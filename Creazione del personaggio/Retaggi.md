@@ -89,7 +89,7 @@ Il Santo ricerca sempre di sollevare i pesi degli altri, sentendo il dolore altr
 
 Lo Scudiero è l'aiutante per eccellenza. Anche se non è meno abile del suo eroe, non vuole essere sotto i riflettori. Non gli importano la gloria e la fama, solo l'opportunità di aiutare a rendere il mondo un posto migliore. Lo Scudiero è devoto al suo eroe. Non esiste compito troppo difficile, troppo ingrato, se è il suo eroe a volerlo.  
 
-**Missione**: Recuperi Volontà quando sei parte vitale di u risultato ma non te ne prendi credito.        
+**Missione**: Recuperi Volontà quando sei parte vitale di un risultato ma non te ne prendi credito.        
 **Divieto**: Non contraddire o mettere mai in difficoltà il tuo eroe.  
 
 ### Bardo

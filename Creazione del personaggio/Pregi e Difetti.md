@@ -146,7 +146,7 @@ Hai un buon livello di saggezza pratica e di ogni giorno. Quando ti stai per com
 
 Sei un genio dell'aritmetica mentale, il che ti rende un talento naturale nel lavorare con i computer o con le scommesse. La difficoltà di tutti i tiri che li riguardano è diminuita di due.   
 
-### Concentrazioni (1 punto)
+### Concentrazione (1 punto)
 
 I nocker hanno un loro modo speciale di ignorare le distrazioni, ma questo Pregio non è limitato a quel kith. Rimani intoccato da penalità che vengono da distrazioni (come suoni forti, luci lampeggianti, o un troll che ti tiene a testa in giù).  
 
@@ -535,4 +535,4 @@ I sidhe vivono nel mortale terrore della Banalità, dato che li colpisce più fa
 
 ### Vampiro psichico (5 punti)
 
-La scintilla vitale che è in te è morente e può essere nutrita solo tramite forze esterne.Piante e insetti avvizziscono e muoiono in tua presenza mentre ti nutri della loro energia vitale, e ogni persona che tocchi per più di un ora soffre di un danno di salute contundente mentre travasi via la loro vita. Coloro che sono già feriti, compresi quelli che hanno sofferto il livello di salute contundente per aver perso l'energia vitale non guariscono mentre sono in tua presenza. Se non nutri il vuoto che è in te almeno una volta al giorno cominci a morire. Prendi delle ferite segue il progresso della guarigione naturale al contrario: prendi un livello di danno di salute in un giorno, un secondo in tre giorni, un terzo in una settimana, un quarto in un mese, e poi una ferita ogni tre mesi.  
+La scintilla vitale che è in te è morente e può essere nutrita solo tramite forze esterne. Piante e insetti avvizziscono e muoiono in tua presenza mentre ti nutri della loro energia vitale, e ogni persona che tocchi per più di un ora soffre di un danno di salute contundente mentre travasi via la loro vita. Coloro che sono già feriti, compresi quelli che hanno sofferto il livello di salute contundente per aver perso l'energia vitale non guariscono mentre sono in tua presenza. Se non nutri il vuoto che è in te almeno una volta al giorno cominci a morire. Prendi delle ferite seguendo il progresso della guarigione naturale al contrario: prendi un livello di danno di salute in un giorno, un secondo in tre giorni, un terzo in una settimana, un quarto in un mese, e poi una ferita ogni tre mesi.  
