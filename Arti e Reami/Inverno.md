@@ -11,7 +11,6 @@ L'Inverno Scatenato si manifesta in paure profonde e istintive ("falli fuggire")
 I bunk per cantrip d'Inverno spesso comprendono abbandonare degli averi, lanciare il cantrip durante certe fasi lunari o certe maree, e porsi in modo indifferente verso il pericolo. Esempi di bunk sono: camminare diretti verso il proprio nemico e baciargli la guancia senza esitare, fare il bagno nudi in acque gelide sotto la luna rossa, tenere la mano sommersa in acqua ghiacciata, disprezzare qualcuno che ami, o bere un'intera bibita ghiacciata in una volta sola con una folla che ti incoraggia.  
 
 ## ⦿ Gelo
-
 La prima e la più benigna tra gli usi delle magie di Inverno permettono al changeling di abbassare la temperatura del soggetto anche in modo considerevole nel tempo. Il freddo non causa danni o ferite se viene lanciato su una creatura viva, ma piante e oggetti si possono rispettivamente avvizzire o rompere. Finché il Kithain può vedere il soggetto del cantrip può causare un freddo profondo e spiacevole.  
 
 Un barista boggan mantiene le bevande fredde quando gli si rompe il frigo. Gelosa e vendicativa, una sidhe rifiutata uccide tutte le piante del giardino del suo ex. Ossessionato con l'idea di diventare un vigilante, lo sluagh raffredda il suo prossimo target criminale prima di colpire.  
@@ -21,7 +20,6 @@ Un barista boggan mantiene le bevande fredde quando gli si rompe il frigo. Gelos
 **Tipo**: Wyrd
 
 ## ⦿⦿ Cuore indurito
-
 L'inverno non piange il viandante disperso che sta morendo assiderato nella neve. L'inverno non protegge le prede cacciate dai lupi, o che sono state catturate dalla trappola del cacciatore. Gli adepti dell'Inverno attingono dal cuore del gelo per attenuare le emozioni e isolare il soggetto del proprio cantrip da manipolazione e altre influenze, che diventa impossibilitato a concentrare le proprie emozioni e la sua volontà, un prezzo salato per resistere anche alle manipolazioni più forti.  
 
 Affrontando un barone crudele a corte il troll rimane in piedi mentre ogni altro suddito viene fatto inchinare. Un boggan rende l'animaletto preferito del duca indifferente ai suoi comandi. Ricevuto l'ordine del re di giustiziare il proprio figlio, la cavaliera sidhe congela ogni sua emozione per non esitare al momento dell'esecuzione.  

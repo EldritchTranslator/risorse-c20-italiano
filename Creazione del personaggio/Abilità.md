@@ -38,7 +38,7 @@ Bassifondi misura l'agio con cui un personaggio ha nell'interagire con i bassifo
 ⦿⦿ **Pratico**: Ti sei guadagnato un po' di rispetto.  
 ⦿⦿⦿ **Competente**: Potresti organizzare una banda.  
 ⦿⦿⦿⦿ **Esperto**: Le tue conoscenze ti danno un pass valido ovunque.  
-⦿⦿⦿⦿⦿ **Maestro**: NNon succede niente senza che tu lo sappia.  
+⦿⦿⦿⦿⦿ **Maestro**: Non succede niente senza che tu lo sappia.  
 
 **Posseduto da**: Senzatetto, Giornalisti, Poliziotti di quartiere, Criminali, Berretti Rossi.  
 **Specializzazioni**: Scherma, Gang, Droghe, Conosco qualcuno, Informazioni. 
