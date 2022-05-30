@@ -80,7 +80,7 @@ Il tuo aspetto mortale è abnorme nella sua stazza, con più di due m di altezza
 
 ### Gusto eidetico (4 punti)
 
-Posseduto più comunemente dai redcap questo Pregio ti permette di ricordare il gusto di qualunque cosa tu abbia mai mangiato, e di essere in grado di riconoscerlo se si assapora di nuovo. Inoltre sei in grado di sapere dove si trova la fonte più vicina di quel sapore. Se hai mai preso un morso di qualcuno è un ottimo modo per rintracciare quel pasto. I changeling più creativi hanno trovato altri usi per questo potere, come rintracciare veleni.  
+Posseduto più comunemente dai redcap, questo Pregio ti permette di ricordare il gusto di qualunque cosa tu abbia mai mangiato, e di essere in grado di riconoscerlo se si assapora di nuovo. Inoltre sei in grado di sapere dove si trova la fonte più vicina di quel sapore. Se hai mai preso un morso di qualcuno è un ottimo modo per rintracciare quel pasto. I changeling più creativi hanno trovato altri usi per questo potere, come rintracciare veleni.  
 
 ### Benedizione di Atlante (5 punti)
 

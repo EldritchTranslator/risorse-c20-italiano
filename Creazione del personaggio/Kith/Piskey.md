@@ -1,0 +1,2 @@
+## Childling
+I childling piskey hanno il più forte senso di identità del loro kith. Hanno un'esperienza limitata nel mondo e hanno indossato un altro volto solo poche volte. I bambini tendono a essere più fiduciosi, a stringere facilmente amicizie e a scartarle con meno leggerezza. I piskey childling possono essere lievemente volubili e inaffidabili, il che li rende corrieri meno desiderabili. Le loro dita lunghe sono anche meno schizzinose e gli oggetti che si intascano sono spesso meno preziosi e più puramente interessanti.

@@ -1,0 +1,2 @@
+## Childling
+I troll in questa fase della vita stanno appena imparando a conoscere il significato di cavalleria e onore. L'innato senso di equità di un troll lo rende un allievo serio, seppure talvolta testardo. Questi childling sono spesso affidati a troll più anziani o a nobili per imparare di più sul loro futuro posto nel sistema cortese. Gli altri childling devono stare attenti agli scatti di violenza, poiché il giovane troll sta imparando a controllare il suo temperamento.

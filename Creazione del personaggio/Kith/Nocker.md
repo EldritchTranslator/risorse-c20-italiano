@@ -1,0 +1,2 @@
+## Childling
+I nocker in questa fase sono curiosi di conoscere il funzionamento interno di ogni cosa. Preferiscono smontare le cose piuttosto che montarle. Il bisogno di capire come funzionano le cose può diventare un'ossessione e, lasciati a loro stessi, i loro armeggi possono portare a dei problemi quando smontano il veicolo chimerico a vapore del Duca. Anche capire la gente è un passatempo per i childling, che cercano di capire cosa li spinge ad agire.

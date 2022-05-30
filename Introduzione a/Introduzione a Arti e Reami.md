@@ -22,7 +22,7 @@
 - **⦿⦿⦿⦿⦿ Dilatazione temporale**: Fare soffrire gli effetti del passaggio del tempo al soggetto senza cambiare il mondo circostante. Wyrd.
 
 ## Divinazione (Soothsay)
-- **⦿ Presagio**: Vedere indizi sul futuro e le intenzioni di un soggetto. Più successi si ottengono, più personale saranno le informazioni disponibili cone questo cantrip. Chimerico.
+- **⦿ Presagio**: Vedere indizi sul futuro e le intenzioni di un soggetto. Più successi si ottengono, più personale saranno le informazioni disponibili con questo cantrip. Chimerico.
 - **⦿⦿ Fuoco fatuo del veggente**: Evocare una luce dal Dreaming per farsi guidare a un soggetto. Più successi si ottengono, più sicuro sarà il percorso indicato dal fuocherello. Anche se chimerico, questo può essere osservato in certe condizioni anche da persone con bassa Banalità. Chimerico.
 - **⦿⦿⦿ Spia**: Dedicare temporaneamente un oggetto o una persona come mezzo tramite cui divinare i suoi dintorni. Effetto solo visivo, ma permette di lanciare cantrip che necessitano di visuale anche a distanza. Chimerico.
 - **⦿⦿⦿⦿ Auspicio**: Ottenere indizi e segni verso un proprio desiderio. Più successi si ottengono, più indizi si ottengono. Chimerico.
@@ -190,4 +190,4 @@
 - **⦿⦿⦿⦿ Echi brillanti**: Il cantrip si attiva due volte.
 - **⦿⦿⦿⦿⦿ Rinnovo glorioso**: Il cantrip si rinnova ciclicamente.
 
-*Le Arti di* ***Infusione*** *e* ***Narrazione*** *vengono dalla* ***Player's Guide 20mo Anniversario***
+*Le Arti di* ***Infusione*** *e* ***Narrazione*** *vengono dalla* ***Player's Guide 20° Anniversario***

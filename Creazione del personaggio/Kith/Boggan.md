@@ -1,0 +1,2 @@
+## Childling
+I Boggan in questa fase della loro vita mostrano una forte curiosità per tutto ciò che è nel mondo. Sono entusiasti di incontrare nuove persone, imparare cose nuove ed esplorare luoghi nuovi. Vogliono sapere di tutto su tutto e tutti. Esplorano il mondo con gli occhi pieni di meraviglia e parlano con chiunque stia seduto abbastanza a lungo per ascoltare e sopportare le loro incessanti domande. Mentre la maggior parte dei boggan è notoriamente casalinga, i bambini si trovano comunemente in giro per il mondo, spesso ficcando il naso in posti in cui non dovrebbero.

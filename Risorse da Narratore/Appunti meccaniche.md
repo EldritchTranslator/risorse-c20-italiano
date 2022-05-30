@@ -43,7 +43,7 @@
     - Antitesi   
 ## Rimuovere Banalità   
 - Missione di successo: Recuperare qualcosa di vitale al Dreaming (giuramento)   
-- Missione di ispirazione: Ispirare il mortlae a diventare un'ispirazione (giuramento)   
+- Missione di ispirazione: Ispirare il mortale a diventare un'ispirazione (giuramento)   
 - Missione del Dreaming: riportare un mortale banale a sognare (giuramento)   
 - Spendere un punto Glamour quando viene guadagnato   
 # Salute   
@@ -166,7 +166,7 @@
 # Tabelle   
 | Difficoltà | Esempio                                                                |
 | ---------- | ---------------------------------------------------------------------- |
-| 3          | Molto semplice (far bollire una pentola di pasa con istruzioni)        |
+| 3          | Molto semplice (far bollire una pentola di pasta con istruzioni)        |
 | 4          | Semplice (seguire la traccia di Glamour fino a una chimera potente)    |
 | 5          | Intuitiva (sedurre un satiro)                                          |
 | 6          | Normale (insegnare un cane a sedersi)                                  |

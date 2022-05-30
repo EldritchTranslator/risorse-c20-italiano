@@ -1,0 +1,2 @@
+## Childling
+I childling satiri si divertono con la musica, il canto e le competizioni atletiche, come le corse e gli incontri di lotta. Il loro umorismo precoce diverte e delizia i loro coetanei e quelli più anziani. I childling dipendono dai loro tragos per l'istruzione e l'incoraggiamento mentre esplorano il mondo che li circonda e le molte delizie che gli riserva. Spesso stringono una stretta amicizia con uno o due altri satiri di età simile, relazioni che diventeranno fondamentali quando formeranno il proprio tragos, staccandosi dal gruppo familiare più ampio.
